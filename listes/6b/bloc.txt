@@ -1,0 +1,46 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Pluriel en al-au-eau-eu
+Titre : Le pluriel des mots en -al, -eau et -eu
+Description : Pour former le pluriel des noms en «au», «eau» et «eu», j'ajoute un «x». Au pluriel, les noms en «al», se transforment en «aux». Certains mots en «au» «eau» «eu» «al» ne suivent pas les règles habituelles; il s'agit d'exceptions.
+
+Pièges :
+bleu
+bleu[s]
+des adieu[x]
+des bal[s]
+des carnaval[s]
+des chacal[s]
+des chameau[x]
+des eau[x]
+des festival[s]
+des feu[x]
+des génér[aux]
+des pneu[s]
+des récital[s]
+des régal[s]
+des tot[aux]
+des émeu[s]
+général
+génér[aux]
+un adieu
+un bal
+un carnaval
+un chacal
+un cham[eau]
+un festival
+un feu
+un général
+un pneu
+un récital
+un régal
+un total
+un émeu
+une [eau]

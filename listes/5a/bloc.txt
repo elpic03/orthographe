@@ -1,0 +1,37 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Féminin (suite)
+Titre : Les règles particulières de formation du féminin (suite)
+Description : Dans certains cas, on doit doubler la consonne et ajouter un «e» (eil/eille, el/elle, en/enne, et/ette, on/onne, s/sse) pour former le féminin. Les adjectifs qui se terminent par «et» peuvent se transformer en «ète» ou en «ette» au féminin. Certains mots ne suivent pas les règles de formation du féminin; il s'agit d'exceptions.
+
+Pièges :
+un crimin[el]
+une crimin[elle]
+un natur[el]
+un patr[on]
+une patr[onne]
+crimin[el]
+crimin[elle]
+natur[el]
+natur[elle]
+par[eil]
+par[eille]
+compl[et]
+compl[ète]
+discr[et]
+discr[ète]
+viol[et]
+viol[ette]
+un cop[ain]
+une cop[ine]
+un ép[oux]
+une ép[ouse]
+un f[ou]
+une f[olle]

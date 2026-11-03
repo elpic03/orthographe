@@ -1,0 +1,20 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+un don | Elle a un don pour la musique.
+un aviron | On fait avancer le canot avec un aviron.
+un juron | Il ne faut pas dire de juron.
+un pari | J'ai fait un pari avec mon frère.
+un parti | Ce parti politique veut gagner l'élection.
+une paroi | L'alpiniste grimpe sur la paroi de la montagne.
+un détour | On fait un détour pour éviter les travaux.
+un tir | Il fait un tir au but.
+un avenir | Dans l'avenir, je veux être vétérinaire.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+une loi | La loi interdit de rouler trop vite.

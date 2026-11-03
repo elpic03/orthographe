@@ -1,0 +1,37 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le e muet en fin de mot
+Titre : Le e muet en fin de mot
+Description : Plusieurs noms féminins se terminent par un «e» muet (ex. : vie). Le «e» utilisé en fin de mot ne se prononce jamais s'il est précédé d'une voyelle. Certains noms masculins se terminent par un «e» muet.
+
+Pièges :
+une avenu[e]
+bienvenu
+bienvenu[e]
+la bienvenu[e]
+une bougi[e]
+une cérémoni[e]
+une énergi[e]
+une entrevu[e]
+une épiceri[e]
+une fantaisi[e]
+une foli[e]
+une mélodi[e]
+une monnai[e]
+une mou[e]
+une plai[e]
+une poési[e]
+une prairi[e]
+une proi[e]
+une séri[e]
+une théori[e]
+une voi[e]
+un géni[e]
+un musé[e]

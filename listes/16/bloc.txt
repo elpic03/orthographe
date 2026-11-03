@@ -1,0 +1,51 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [k] : c, qu, k, ch
+Titre : Les graphies du son [k]
+Description : À la fin d'un mot ou lorsqu'il est suivi d'un «t», le son [k] s'écrit le plus souvent «c». Le son [k] s'écrit «qu» lorsque les lettres qui suivent sont un «e» ou un «i». Occasionnellement, le son [k] s'écrit «k» ou «ch».
+
+Pièges :
+un cho[c]
+une instru[c]tion
+une obje[c]tion
+une convi[c]tion
+une fa[c]ture
+le ta[c]t
+une dire[c]tive
+une fon[c]tion
+un tru[c]
+une vi[c]toire
+un inse[c]te
+un obje[c]tif
+une vi[c]time
+une bouti[qu]e
+li[qu]ide
+une pla[qu]e
+une remar[qu]e
+une clini[qu]e
+un man[qu]e
+une politi[qu]e
+un ris[qu]e
+un é[qu]ilibre
+une mar[qu]e
+publi[c]
+une ta[c]ti[qu]e
+un é[qu]ipage
+la mathémati[qu]e
+un publi[c]
+une in[qu]iétude
+une pani[qu]e
+publi[qu]e
+un li[qu]ide
+pi[qu]er
+un [qu]ai
+un a[qu]arium
+un [k]laxon
+une te[ch]ni[qu]e

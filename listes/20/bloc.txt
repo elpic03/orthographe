@@ -1,0 +1,47 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [s] : s, ce
+Titre : Les graphies du son [s]
+Description : La graphie «s» se lit toujours [s] en début de mot. Lorsque j'entends [s] à la fin d'un mot, il s'écrit habituellement «ce».
+
+Pièges :
+[s]aisir
+un [s]entiment
+[s]olide
+un [s]tyle
+une [s]atisfaction
+une [s]errure
+une [s]olitude
+un [s]uccès
+un [s]avon
+un [s]iècle
+une [s]omme
+un [s]éjour
+une [s]ilhouette
+un [s]oupir
+une [s]ensation
+un [s]olide
+une [s]ource
+une annon[ce]
+un bénéfi[ce]
+une cicatri[ce]
+une circonstan[ce]
+un commer[ce]
+une écor[ce]
+une éviden[ce]
+un indi[ce]
+une injusti[ce]
+une lectri[ce]
+une mena[ce]
+une patien[ce]
+la poli[ce]
+une pruden[ce]
+une ra[ce]
+une tra[ce]

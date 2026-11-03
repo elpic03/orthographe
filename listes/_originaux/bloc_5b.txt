@@ -1,0 +1,66 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Les noms et les adjectifs épicènes
+Titre : Les noms et les adjectifs épicènes
+Description : Certains noms et adjectifs ont la même forme au masculin et au féminin. Ils peuvent alors désigner un homme ou une femme; ils sont épicènes.
+
+Pièges :
+
+
+
+un adversaire
+une adversaire
+immobile
+
+rapide
+
+sauvage
+
+un artiste
+une artiste
+inutile
+un ministre
+une ministre
+
+sensible
+
+calme
+
+un jeune
+une jeune
+un partenaire
+une partenaire
+un solide
+
+un célibataire
+une célibataire
+jeune
+
+un peintre
+une peintre
+solide
+
+célibataire
+
+un juge
+une juge
+un poète
+une poète
+un coupable
+une coupable
+un militaire
+une militaire
+rare
+
+coupable
+
+militaire
+
+sale

@@ -1,0 +1,18 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+un sein | Le bébé boit le lait au sein de sa maman.
+un dessin | Il a fait un dessin de son chien.
+atteindre | Je dois grimper pour atteindre le pot de biscuits.
+craindre | Il ne faut pas craindre le noir.
+une crainte | Il a une crainte des araignées.
+lointain | Il rêve de visiter un pays lointain.
+un vainqueur | Le vainqueur du match reçoit une médaille.
+un individu | Un individu bizarre rôde près du parc.
+un destin | Le héros de l'histoire découvre son destin.
+un témoin | Le témoin raconte ce qu'il a vu.

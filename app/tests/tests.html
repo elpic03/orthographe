@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Tests du quiz d'orthographe</title>
+<style>
+  body { font: 16px "Segoe UI", system-ui, sans-serif; margin: 32px; color: #0A1C3F; background: #EEF3FA; }
+  h1 { margin: 0 0 8px; }
+  #bilan { font-size: 22px; font-weight: 700; padding: 14px 18px; border-radius: 12px; margin: 16px 0; }
+  .vert { background: #DFF3E4; color: #1B5E2E; } .rouge { background: #FDE2DF; color: #8C1D18; }
+  table { border-collapse: collapse; width: 100%; background: #fff; }
+  td, th { padding: 6px 10px; border-bottom: 1px solid #D5DEEC; text-align: left; vertical-align: top; }
+  .ok { color: #1B5E2E; font-weight: 700; } .ko { color: #8C1D18; font-weight: 700; }
+</style>
+</head>
+<body>
+<h1>Tests du quiz d'orthographe</h1>
+<p>Cette page vérifie les règles du quiz (accents, variantes, records, mots difficiles, sauvegarde). Elle ne touche pas à la progression.</p>
+<div id="bilan"></div>
+<table><thead><tr><th>Résultat</th><th>Test</th><th>Détail</th></tr></thead><tbody id="lignes"></tbody></table>
+<script src="../js/regles.js"></script>
+<script src="../js/stockage.js"></script>
+<script src="../js/sauvegarde.js"></script>
+<script src="cas.js"></script>
+<script>
+  (function () {
+    var ok = 0, ko = 0, corps = document.getElementById('lignes');
+    window.CasDeTest(window.Regles, function (nom, obtenu, attendu) {
+      var reussi = JSON.stringify(obtenu) === JSON.stringify(attendu);
+      reussi ? ok++ : ko++;
+      var tr = document.createElement('tr');
+      [reussi ? 'Réussi' : 'ÉCHEC', nom, reussi ? '' : 'obtenu ' + JSON.stringify(obtenu) + ', attendu ' + JSON.stringify(attendu)].forEach(function (t, i) {
+        var td = document.createElement('td'); td.textContent = t; if (i === 0) td.className = reussi ? 'ok' : 'ko'; tr.appendChild(td);
+      });
+      corps.appendChild(tr);
+    }, { Stockage: window.Stockage, Sauvegarde: window.Sauvegarde });
+    var bilan = document.getElementById('bilan');
+    bilan.textContent = ko === 0 ? 'Tout est bon : ' + ok + ' tests réussis.' : ko + ' test(s) en échec sur ' + (ok + ko) + '.';
+    bilan.className = ko === 0 ? 'vert' : 'rouge';
+  })();
+</script>
+</body>
+</html>

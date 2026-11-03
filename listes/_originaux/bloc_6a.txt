@@ -1,0 +1,62 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Pluriel des noms
+Titre : La formation du pluriel des noms
+Description : En général, pour former le pluriel d'un nom, j'ajoute un « s ». Exceptions: «ou» devient «oux» et «ail» devient «aux» au pluriel.
+
+Pièges :
+un cl[ou]
+un bétail
+des clous
+des bétails
+ambitieux
+un gaz
+des gaz
+un fou
+un ch[an]dail
+un ca[s]
+des fou[s]
+des ch[an]dails
+des cas
+généreux
+un ve[rr]ou
+un détail
+un f[ils]
+un ne[z]
+des ve[rr]ous
+des détails
+des f[ils]
+des ne[z]
+un bijou
+un chou
+un hibou
+un pou
+des bijoux
+des choux
+des hiboux
+des poux
+un cai[ll]ou
+un genou
+un joujou
+des cai[ll]oux
+des genoux
+des joujoux
+un bail
+un émail
+un travail
+des baux
+des émaux
+des travaux
+un corail
+un soupirail
+un vitrail
+des co[r]aux
+des soupiraux
+des vitraux

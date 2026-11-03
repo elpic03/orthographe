@@ -1,0 +1,19 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+criminel | C'est un geste criminel.
+criminelle | C'est une action criminelle.
+naturel | Ce jus est naturel.
+naturelle | Cette eau est naturelle.
+pareil | Ton chandail est pareil au mien.
+pareille | Ta tuque est pareille à la mienne.
+un naturel | Mon chat est d'un naturel calme.
+discret | Mon ami est discret : il garde les secrets.
+discrète | Ma sœur est discrète : elle ne dit rien.
+un époux | Le jour du mariage, elle embrasse son époux.
+une épouse | Mon grand-père offre des fleurs à son épouse.

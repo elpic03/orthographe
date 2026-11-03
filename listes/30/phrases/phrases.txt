@@ -1,0 +1,26 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+une tache | J'ai une tache de sauce sur mon chandail.
+une tâche | Ranger ma chambre est une tâche facile.
+une pâte | Papa prépare une pâte à pizza.
+total | Le prix total est de dix dollars.
+totale | La note totale est de vingt points.
+une épave | Les plongeurs explorent une épave au fond de la mer.
+une demeure | Ce château est la demeure du roi.
+une âme | Il chante avec toute son âme.
+une épreuve | La première épreuve de la compétition est la course.
+une honte | Il rougit de honte.
+une manœuvre | Papa fait une manœuvre pour stationner l'auto.
+une narine | Le cheval souffle par ses narines.
+une période | La deuxième période du match commence.
+la brume | La brume cache le lac le matin.
+un tonnerre | Le tonnerre gronde pendant l'orage.
+une ruine | Le vieux château est en ruine.
+un terme | Ce terme est difficile à comprendre.
+un rythme | On danse au rythme de la musique.

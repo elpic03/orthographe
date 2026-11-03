@@ -1,0 +1,27 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : ail, eil, euil, il, ouil
+Titre : Les sons (ail), (eil), (euil), (il) et (ouil)
+Description : Dans les noms masculins, j'écris «il», «ail», «eil», «euil» et «ouil». Dans les noms féminins, j'écris «ille», «aille», «eille», «euille» et «ouille».
+
+Pièges :
+un acc[ueil]
+un chand[ail]
+un faut[euil]
+un rév[eil]
+un appar[eil]
+un clin d'[œil]
+une merv[eille]
+une bat[aille]
+un cons[eil]
+un org[ueil]
+un bét[ail]
+un dét[ail]
+un out[il]

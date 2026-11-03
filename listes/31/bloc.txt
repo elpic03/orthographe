@@ -1,0 +1,39 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [è] : e + consonnes
+Titre : Les graphies du son [è]
+Description : Le «e» suivi de deux consonnes se prononce [è].
+
+Pièges :
+une adr[e]sse
+une allum[e]tte
+un asp[e]ct
+une bl[e]ssure
+une car[e]sse
+une coll[e]ction
+une corr[e]spondance
+une couv[e]rture
+une détr[e]sse
+une [e]ssence
+une f[e]sse
+un f[e]stin
+intér[e]sser
+une int[e]rvention
+une jeun[e]sse
+un n[e]rf
+une prom[e]sse
+une prot[e]ction
+une prot[e]station
+le resp[e]ct
+une rich[e]sse
+la sag[e]sse
+une trist[e]sse
+la vaiss[e]lle
+des v[e]rs

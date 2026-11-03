@@ -1,0 +1,63 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Féminin : ajouter un «e»
+Titre : La formation du féminin des noms et adjectifs
+Description : Pour former le féminin des noms et des adjectifs, j'ajoute généralement un «e».
+
+Pièges :
+un adolescent
+une adolescent[e]
+ennemi
+ennemi[e]
+lourd
+lourd[e]
+présent
+présent[e]
+un auteur
+une auteur[e]
+un ennemi
+une ennemi[e]
+marchand
+marchand[e]
+un savant
+une savant[e]
+bienvenu
+bienvenu[e]
+extérieur
+extérieur[e]
+un marchand
+une marchand[e]
+savant
+savant[e]
+blond
+blond[e]
+un extérieur
+patient
+patient[e]
+un total
+un blond
+une blond[e]
+intelligent
+intelligent[e]
+un patient
+une patient[e]
+total
+total[e]
+chacun
+chacun[e]
+un invité
+une invité[e]
+plat
+plat[e]
+un écrivain
+une écrivain[e]
+lent
+lent[e]
+un présent

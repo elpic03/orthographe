@@ -1,0 +1,22 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+bienvenu | Ton ami est le bienvenu chez nous.
+bienvenue | Ta sœur est la bienvenue chez nous.
+une voie | Le train roule sur une voie ferrée.
+une moue | Mon frère fait une moue fâchée.
+une monnaie | Le caissier me rend la monnaie.
+une prairie | Les vaches broutent dans la prairie.
+une proie | Le hibou attrape sa proie.
+une plaie | Il met un pansement sur sa plaie.
+une théorie | Le détective a une théorie sur le vol.
+une fantaisie | Elle porte un chapeau plein de fantaisie.
+une entrevue | Le journaliste fait une entrevue avec le joueur.
+un génie | Le génie sort de la lampe magique.
+une cérémonie | La cérémonie de remise des médailles commence.
+une mélodie | Il siffle une jolie mélodie.

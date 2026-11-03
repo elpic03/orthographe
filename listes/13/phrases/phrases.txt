@@ -1,0 +1,26 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+une portée | La chienne a eu une portée de cinq chiots.
+une hostilité | Les deux chats se regardent avec hostilité.
+une majorité | La majorité des élèves aiment la récréation.
+une obscurité | Dans l'obscurité, on ne voit rien.
+une pauvreté | Certaines familles vivent dans la pauvreté.
+une sévérité | La directrice parle avec sévérité.
+une unanimité | Tout le monde est d'accord : c'est l'unanimité !
+une propriété | Cette maison est la propriété de mes grands-parents.
+une marée | À marée basse, on ramasse des coquillages.
+une plongée | On fait de la plongée pour voir les poissons.
+une clarté | La clarté de la lune éclaire le chemin.
+une cité | Une cité, c'est une grande ville.
+une bonté | Elle aide les autres par bonté.
+la pitié | J'ai pitié du petit chat sous la pluie.
+une responsabilité | Nourrir le chien est ma responsabilité.
+une sensibilité | Elle joue du piano avec beaucoup de sensibilité.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+une allée | Une longue allée d'arbres mène à la maison.

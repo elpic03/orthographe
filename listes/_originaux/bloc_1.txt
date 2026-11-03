@@ -1,0 +1,108 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [an]
+Titre : Le son [an]
+Description : Le son [an] s'écrit «an», «en», «am» ou «em». On utilise «em» ou «am» devant le «b» et le «p»
+
+Pièges :
+
+un abandon
+
+un encouragement
+
+une importance
+
+une plante
+
+une ancre
+
+une enfance
+
+une insolence
+
+ranger
+
+un anglais
+
+enlever
+
+une intention
+
+une rencontre
+
+un bâtiment
+
+un ennui
+
+une manche
+
+une revanche
+
+un changement
+
+un enthousiasme
+
+un manche
+
+un roman
+
+un chantier
+
+un étang
+
+un manteau
+
+une souffrance
+
+défendre
+
+un étranger
+
+marchand
+
+une tente
+
+ne différence
+
+une étrangère
+
+un marchand
+une marchande
+tenter
+
+un document
+
+étendre
+
+un menton
+
+transporter
+
+un écran
+
+un étonnement
+
+une ordonnance
+
+la violence
+
+un élan
+
+une évidence
+
+prendre
+
+un volant
+
+un élément
+
+un grognement
+
+une pente

@@ -1,0 +1,27 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+une pose | Pour la photo, je prends une pose amusante.
+une pause | Après le dîner, on prend une pause.
+une paume | Il tient la balle dans la paume de sa main.
+un sanglot | L'enfant parle entre deux sanglots.
+le chômage | Mon voisin a perdu son emploi : il est au chômage.
+un entrepôt | Les boîtes sont rangées dans un grand entrepôt.
+une auberge | Pendant le voyage, on dort dans une auberge.
+une aurore | Les oiseaux chantent à l'aurore, quand le jour se lève.
+une augmentation | Il y a eu une augmentation du prix des bonbons.
+une autorité | La directrice a l'autorité dans l'école.
+un défaut | Ce chandail a un petit défaut : un trou.
+un troupeau | Le berger garde son troupeau de moutons.
+supposer | On peut supposer qu'il va pleuvoir ce soir.
+proposer | Je vais proposer une idée à mon équipe.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+un hôtel | En vacances, on dort dans un hôtel près de la plage.
+totaux | Les frais totaux du voyage sont plus élevés que prévu.
+des totaux | À la fin du tournoi, on compare les totaux de buts de chaque équipe.

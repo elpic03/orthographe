@@ -1,0 +1,29 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+des fils | Ma voisine a des fils et des filles.
+un bail | Mes parents signent un bail pour louer l'appartement.
+un émail | L'émail protège nos dents.
+un corail | Les poissons nagent autour du corail.
+un soupirail | Un soupirail laisse entrer un peu de lumière dans la cave.
+un vitrail | Le vitrail de l'église est plein de couleurs.
+un verrou | Je ferme la porte avec un verrou.
+un joujou | Le bébé s'amuse avec son joujou.
+ambitieux | Il est ambitieux : il veut devenir champion.
+généreux | Mon grand-père est généreux : il partage tout.
+un pou | Ma sœur a attrapé un pou à l'école.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+des baux | Le propriétaire de l'immeuble signe des baux avec ses locataires.
+des poux | L'infirmière vérifie si les élèves ont des poux.
+un bétail | Le fermier nourrit son bétail : des vaches et des moutons.
+des bétails | Les fermiers de la région élèvent des bétails variés.
+des émaux | Les émaux donnent des couleurs brillantes aux bijoux anciens.
+des coraux | Les plongeurs admirent des coraux de toutes les couleurs.
+des soupiraux | La lumière entre dans le sous-sol par des soupiraux.
+des vitraux | Les vitraux de l'église brillent au soleil.

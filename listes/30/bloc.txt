@@ -1,0 +1,61 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le e muet (suite)
+Titre : Le e muet en fin de mot
+Description : Le «e» est habituellement muet en fin de mot. Le «e» en fin de mot permet «d'entendre» la consonne qui le précède.
+
+Pièges :
+une âm[e]
+une arm[e]
+la brum[e]
+un cadr[e]
+un charm[e]
+une chut[e]
+une demeur[e]
+un dram[e]
+une épav[e]
+une épreuv[e]
+une étud[e]
+une hont[e]
+une lutt[e]
+une manœuvr[e]
+une mémoir[e]
+une méthod[e]
+une montr[e]
+une moustach[e]
+une narin[e]
+un ongl[e]
+une pât[e]
+une périod[e]
+une pert[e]
+un peupl[e]
+une pist[e]
+une poursuit[e]
+une preuv[e]
+produir[e]
+un programm[e]
+une roch[e]
+une ruin[e]
+un rythm[e]
+un sièg[e]
+une tach[e]
+une tâch[e]
+une tart[e]
+un term[e]
+un titr[e]
+une toil[e]
+un tonnerr[e]
+total
+total[e]
+une troup[e]
+un typ[e]
+une vitr[e]
+une voil[e]
+un volum[e]

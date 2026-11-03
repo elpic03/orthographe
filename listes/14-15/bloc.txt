@@ -1,0 +1,71 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [k] : «c»
+Titre : Les graphies du son [k]
+Description : Le son [k] s'écrit «c» devant les lettres «r», «a», «o», «u» ou «l».
+
+Pièges :
+un avo[c]at
+une avo[c]ate
+un [c]omptoir
+un [c]râne
+une dé[c]ouverte
+un arti[c]le
+un [c]on[c]ours
+[c]reuser
+une é[c]orce
+un [c]anon
+une [c]onduite
+un [c]rime
+un flo[c]on
+un [c]ap
+un [c]onta[c]t
+une [c]rinière
+un médi[c]ament
+un [c]ara[c]tère
+un [c]ontenu
+un [c]uir
+un mira[c]le
+un [c]asque
+[c]onvenir
+[c]uire
+un mus[c]le
+un [c]auchemar
+une [c]orne
+un é[c]lat
+un obsta[c]le
+un cer[c]le
+un [c]orridor
+un é[c]art
+une ran[c]une
+re[c]onnaitre
+une [c]loche
+une [c]ouche
+un é[c]ran
+un [c]ol
+un [c]ouloir
+une é[c]riture
+une ré[c]réation
+une [c]olle
+un [c]ouple
+un é[c]rivain
+une é[c]rivaine
+ridi[c]ule
+un [c]ollier
+un [c]ouver[c]le
+une en[c]re
+une sé[c]urité
+une [c]olline
+[c]ouvrir
+un dé[c]or
+un véhi[c]ule
+
+Variantes :
+reconnaitre = reconnaître

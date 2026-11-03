@@ -1,0 +1,17 @@
+# Consignes audio communes à tous les blocs.
+# Format : nom du fichier à générer | texte à faire lire
+# Générer chaque fichier audio dans CE dossier (consignes), à côté de ce fichier.
+
+debut_match.mp3 | Écoute bien chaque mot, puis écris-le. C'est parti !
+debut_entrainement.mp3 | Entrainement ! On pratique tes mots difficiles.
+but_1.mp3 | But !
+but_2.mp3 | Superbe tir !
+but_3.mp3 | Dans le filet !
+but_retour.mp3 | But sur retour ! Bien joué.
+arret_1.mp3 | Arrêt du gardien ! Essaie encore.
+arret_2.mp3 | Arrêté ! Voici le bon mot.
+fin_match.mp3 | Coup de sifflet final ! Regarde ton résultat.
+record.mp3 | Nouveau record !
+match_parfait.mp3 | Match parfait ! Aucune erreur !
+comme_dans.mp3 | Comme dans la phrase
+etoile.mp3 | Nouvelle étoile !

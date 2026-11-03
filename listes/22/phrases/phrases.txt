@@ -1,0 +1,20 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+l'acier | Le pont est fait en acier.
+le ciment | L'ouvrier mélange le ciment.
+une ficelle | J'attache le paquet avec une ficelle.
+un procédé | Le boulanger utilise un procédé spécial pour faire le pain.
+un soupçon | Le policier a un soupçon sur le voleur.
+un aperçu | La bande-annonce donne un aperçu du film.
+une conscience | Il a mauvaise conscience après avoir menti.
+la cendre | Il reste de la cendre dans le foyer.
+un incident | Il y a eu un petit incident à la récréation.
+un souci | Ne t'en fais pas, il n'y a aucun souci.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+une descente | On glisse en traineau dans la descente derrière l'école.

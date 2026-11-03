@@ -1,0 +1,80 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Les règles particulières de formation du féminin
+Titre : Les règles particulières de formation du féminin
+Description : Un nom ou un adjectif masculin en «er» se transforme en «ère» au féminin. Un nom ou un adjectif masculin en «teur» se transforme en «trice» au féminin. Un nom ou un adjectif masculin en « eux » se transforme en «euse» au féminin. Un nom ou un adjectif masculin en «eur» se transforme en «euse» au féminin. Un nom ou un adjectif masculin en «if» se transforme en «ive» au féminin.
+
+Pièges :
+
+
+un conseiller
+
+entier
+
+régulier
+
+une conseillère
+
+entière
+
+régulière
+
+un cuisinier
+une cuisinière
+
+un prisonnier
+une prisonnière
+
+un auteur
+
+un facteur
+
+un lecteur
+
+un spectateur
+
+une autrice
+
+une factrice
+
+une lectrice
+
+une spectatrice
+
+fameux
+
+mystérieux
+
+précieux
+
+sérieux
+
+fameuse
+
+mystérieuse
+
+précieuse
+
+sérieuse
+
+un visiteur
+
+un voleur
+
+un voyageur
+
+une visiteuse
+
+une voleuse
+
+une voyageuse
+
+vif
+vive

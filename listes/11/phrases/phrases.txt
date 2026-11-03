@@ -1,0 +1,21 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+un fardeau | Ce gros sac est un lourd fardeau.
+une flotte | Une flotte de bateaux arrive au port.
+une défaite | Notre équipe a subi une défaite.
+une réforme | Le gouvernement fait une réforme des écoles.
+des funérailles | Toute la famille assiste aux funérailles de l'arrière-grand-mère.
+des félicitations | Bravo ! Toutes mes félicitations pour ta médaille.
+une fureur | Le lion rugit de fureur.
+une manifestation | Les gens marchent dans la rue pour une manifestation.
+une atmosphère | La Terre est entourée d'une atmosphère d'air.
+une philosophie | La philosophie, c'est réfléchir aux grandes questions de la vie.
+une indifférence | Il regarde le match avec indifférence : ça ne l'intéresse pas.
+une faveur | Peux-tu me faire une faveur ?
+une fortune | Ce trésor vaut une fortune.
+un foyer | On fait un feu dans le foyer du salon.

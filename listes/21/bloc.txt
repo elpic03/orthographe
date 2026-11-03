@@ -1,0 +1,50 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [s] : s, ss
+Titre : Les graphies du son [s]
+Description : La graphie «s» se lit toujours [s] lorsqu'elle est suivie et/ou précédée par une consonne. La graphie «ss» est utilisée pour faire le son [s] entre deux voyelles (a, e, i, o, u, y).
+
+Pièges :
+un anniver[s]aire
+une défen[s]e
+une dépen[s]e
+un di[s]cours
+une li[s]te
+une mou[s]tache
+un te[s]tament
+tri[s]te
+a[ss]ister
+a[ss]ocier
+un averti[ss]ement
+une bai[ss]e
+ble[ss]er
+une chau[ss]ette
+cla[ss]er
+une commi[ss]ion
+une connai[ss]ance
+une discu[ss]ion
+un do[ss]ier
+une émi[ss]ion
+une expre[ss]ion
+un frémi[ss]ement
+un fri[ss]on
+un gémi[ss]ement
+une hau[ss]e
+une ma[ss]e
+une mou[ss]e
+une pa[ss]e
+une pa[ss]ion
+une permi[ss]ion
+une pre[ss]e
+une pre[ss]ion
+une reconnai[ss]ance
+tendre[ss]e
+ti[ss]er
+un ti[ss]u

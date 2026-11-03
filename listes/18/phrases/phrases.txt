@@ -1,0 +1,18 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+une acclamation | Le chanteur entre sous les acclamations du public.
+une accusation | Il nie l'accusation d'avoir triché.
+une affirmation | Cette affirmation est vraie.
+une apparence | Il ne faut pas juger les gens sur leur apparence.
+une apparition | Le fantôme fait une apparition dans le film.
+un effroi | Il crie d'effroi en voyant l'ours.
+un accordéon | Mon grand-père joue de l'accordéon.
+un applaudissement | Les applaudissements remplissent la salle.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+un accueil | Nos voisins nous ont fait un accueil chaleureux.

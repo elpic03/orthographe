@@ -1,0 +1,49 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [è] : ai
+Titre : Les graphies du son [è]
+Description : Le son [è] peut s'écrire «ai». Les lettres «ais», «ait» et «aient» sont utilisées pour faire les terminaisons en [è] de l'imparfait et du conditionnel.
+
+Pièges :
+une c[ai]sse
+une ch[ai]ne
+la ch[ai]r
+une cl[ai]rière
+contr[ai]re
+un contr[ai]re
+un dél[ai]
+un dom[ai]ne
+entr[ai]ner
+un ess[ai]
+une expr[e]ssion
+f[ai]ble
+une fal[ai]se
+une font[ai]ne
+h[ai]ne
+nécess[ai]re
+le nécess[ai]re
+une pl[ai]ne
+une pl[ai]santerie
+une retr[ai]te
+un tr[ai]t
+un tr[ai]tement
+tr[ai]ter
+j'aim[ais]
+tu all[ais]
+il av[ait]
+ils ét[aient]
+j'aimer[ais]
+tu ir[ais]
+elle aur[ait]
+elles ser[aient]
+
+Variantes :
+une chaine = une chaîne
+entrainer = entraîner

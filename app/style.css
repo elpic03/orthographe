@@ -1,0 +1,401 @@
+/* Quiz d'orthographe - styles communs */
+
+/* Polices : utilisees si les fichiers sont copies dans app/polices/ (voir LISEZ-MOI.txt),
+   sinon l'app utilise Bahnschrift et Segoe UI de Windows. Licence : SIL Open Font License (OFL). */
+@font-face { font-family: "Barlow Condensed"; font-weight: 700; font-display: swap;
+  src: local("Barlow Condensed Bold"), local("BarlowCondensed-Bold"), url("polices/BarlowCondensed-Bold.ttf") format("truetype"); }
+@font-face { font-family: "Barlow Condensed"; font-weight: 800; font-display: swap;
+  src: local("Barlow Condensed ExtraBold"), local("BarlowCondensed-ExtraBold"), url("polices/BarlowCondensed-ExtraBold.ttf") format("truetype"); }
+@font-face { font-family: "Lexend"; font-weight: 100 900; font-display: swap;
+  src: url("polices/Lexend-VariableFont_wght.ttf") format("truetype"); }
+
+:root {
+  --marine: #0A1C3F;
+  --marine-fonce: #061230;
+  --marine-ligne: #22355E;
+  --bleu: #004D98;
+  --bleu-pale: #E3EEFA;
+  --grenat: #A50044;
+  --grenat-fonce: #86003A;
+  --or: #EDBB00;
+  --or-pale: #FFF6D6;
+  --orange: #C2410C;
+  --orange-pale: #FFF1E8;
+  --fond: #EEF3FA;
+  --gris-texte: #4A5873;
+  --gris-ligne: #D5DEEC;
+  --gris-bordure: #C9D4E5;
+  --police-titre: "Barlow Condensed", "Bahnschrift SemiCondensed", "Bahnschrift", "Arial Narrow", sans-serif;
+  --police-texte: "Lexend", "Segoe UI", system-ui, sans-serif;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  min-height: 100vh;
+  background: var(--fond);
+  color: var(--marine);
+  font-family: var(--police-texte);
+  font-size: 16px;
+}
+h1, h2, h3, p { margin: 0; }
+
+/* ---------- Boutons ---------- */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 10px;
+  min-height: 52px; padding: 0 22px; border-radius: 14px;
+  font: 600 18px/1.1 var(--police-texte);
+  text-decoration: none; border: 2px solid transparent; cursor: pointer;
+}
+.btn:focus-visible { outline: 3px solid var(--or); outline-offset: 3px; }
+.btn:disabled { cursor: default; background: var(--gris-ligne); color: var(--gris-texte); border-color: var(--gris-ligne); }
+.btn-grenat { background: var(--grenat); color: #fff; }
+.btn-grenat:hover:not(:disabled) { background: var(--grenat-fonce); }
+.btn-or { background: var(--or); color: var(--marine); }
+.btn-or:hover:not(:disabled) { background: #FFD23F; }
+.btn-contour { background: #fff; color: var(--bleu); border-color: var(--bleu); }
+.btn-contour:hover:not(:disabled) { background: var(--bleu-pale); }
+.btn-neutre { background: #fff; color: var(--marine); border-color: var(--gris-bordure); }
+.btn-neutre:hover:not(:disabled) { background: var(--fond); }
+.btn-mini { flex: 1 1 0; min-height: 44px; padding: 0 8px; font-size: 15px; border-radius: 10px; }
+.btn svg { flex: none; }
+
+/* ---------- Menu ---------- */
+.menu { padding: 36px 24px 40px; }
+.menu-contenu { max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: 24px; }
+.menu-entete { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 12px; }
+.menu-titre { font-family: var(--police-titre); font-weight: 800; font-size: 52px; line-height: 1; letter-spacing: .5px; text-transform: uppercase; }
+.menu-sous-titre { font-size: 19px; color: var(--gris-texte); margin-top: 4px; }
+
+.bandeau-entrainement {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;
+  padding: 24px 28px; border-radius: 20px; color: #fff;
+  background-color: var(--marine);
+  background-image: repeating-linear-gradient(90deg, rgba(0,77,152,.55) 0 18px, rgba(165,0,68,.55) 18px 36px);
+  background-size: 72px 100%; background-repeat: no-repeat; background-position: right center;
+  padding-right: 96px; /* le contenu s'arrete juste avant les rayures */
+}
+.bandeau-gauche { display: flex; align-items: center; gap: 18px; flex: 1 1 420px; min-width: 0; }
+.pastille-maillot { flex: none; width: 64px; height: 64px; border-radius: 16px; background: var(--or); color: var(--marine); display: flex; align-items: center; justify-content: center; }
+.surtitre { font-family: var(--police-titre); font-weight: 700; font-size: 18px; letter-spacing: 2px; color: var(--or); text-transform: uppercase; }
+.bandeau-titre { font-size: 26px; font-weight: 700; line-height: 1.15; margin: 4px 0; }
+.bandeau-texte { font-size: 16px; color: #C9D6EA; }
+.bandeau-entrainement .btn-or:disabled { background: #2A3A5C; color: #AFC0DC; border-color: #2A3A5C; }
+
+.grille-blocs { display: grid; grid-template-columns: repeat(auto-fill, minmax(168px, 1fr)); gap: 10px; }
+.carte-bloc {
+  display: flex; flex-direction: column; gap: 3px; min-height: 84px;
+  padding: 0 10px 10px; border-radius: 14px; background: #fff; border: 2px solid var(--bleu); overflow: hidden;
+}
+.carte-bloc::before {
+  content: ""; display: block; height: 6px; margin: 0 -10px 6px;
+  background-image: repeating-linear-gradient(90deg, var(--bleu) 0 12px, var(--grenat) 12px 24px);
+}
+.carte-nom { font-family: var(--police-titre); font-weight: 800; font-size: 24px; line-height: 1; }
+.carte-theme {
+  font-size: 14px; font-weight: 600; line-height: 1.25; color: var(--bleu);
+  min-height: 2.5em;      /* 2 lignes reservees : cartes de meme hauteur, etoiles et boutons alignes */
+  text-wrap: balance;     /* lignes equilibrees : pas de mot seul sur la 2e ligne (Chrome 114+, Firefox 121+) */
+}
+.insecable { white-space: nowrap; }   /* mot avec trait d'union : jamais coupe (menu.js, titreCarte) */
+.carte-mots { font-size: 14px; color: var(--gris-texte); }
+.carte-record { font-size: 13px; font-weight: 600; color: var(--gris-texte); }
+.carte-record.a-un-record { color: var(--grenat); }
+.carte-actions { display: flex; gap: 6px; margin-top: auto; padding-top: 6px; }
+.carte-avenir {
+  display: flex; flex-direction: column; gap: 6px; min-height: 84px;
+  padding: 16px 12px 10px; border-radius: 14px; background: #E4EAF3; border: 2px dashed #B4C1D6; color: var(--gris-texte);
+}
+.carte-avenir .carte-nom { font-weight: 700; font-size: 22px; }
+.carte-avenir-etat { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; }
+
+.menu-pied { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding-top: 16px; border-top: 2px solid var(--gris-ligne); }
+.menu-pied-gauche { display: flex; flex-wrap: wrap; gap: 10px; }
+
+.message-erreur { max-width: 720px; margin: 60px auto; padding: 24px 28px; border-radius: 18px; background: #fff; border: 3px solid var(--orange); font-size: 18px; line-height: 1.5; }
+.message-erreur h1 { font-size: 26px; margin-bottom: 10px; }
+.message-erreur code { background: var(--fond); padding: 2px 6px; border-radius: 6px; }
+
+/* ---------- Annonces (petits messages temporaires) ---------- */
+.annonce {
+  position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(20px);
+  max-width: calc(100% - 32px); padding: 14px 22px; border-radius: 14px;
+  background: var(--marine); color: #fff; font-size: 17px; font-weight: 600;
+  opacity: 0; pointer-events: none; transition: opacity .2s ease, transform .2s ease;
+}
+.annonce.visible { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+@media (max-width: 600px) {
+  .menu-titre { font-size: 40px; }
+  .bandeau-entrainement { background-image: none; padding-right: 28px; }
+}
+
+/* =====================================================================
+   QUIZ
+   ===================================================================== */
+.btn-aide { background: var(--or-pale); color: var(--marine); border-color: var(--or); }
+.btn-aide:hover:not(:disabled) { background: #FFEDAA; }
+.btn-tirer { padding: 0 30px; font-size: 20px; min-height: 56px; }
+kbd { font: 600 13px var(--police-texte); background: #fff; border: 1px solid var(--gris-bordure); border-bottom-width: 3px; border-radius: 6px; padding: 2px 7px; color: var(--marine); }
+
+.quiz-entete { background: var(--marine); color: #fff; padding: 16px 24px 18px; }
+.quiz-entete-contenu { max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: 14px; }
+.quiz-entete-ligne { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px; }
+.quiz-bloc { min-width: 160px; }
+.quiz-bloc-nom { font-family: var(--police-titre); font-weight: 800; font-size: 34px; line-height: 1; text-transform: uppercase; }
+.quiz-bloc-record { font-size: 14px; color: #C9D6EA; margin-top: 2px; }
+.quiz-numero { font-family: var(--police-titre); font-weight: 700; font-size: 28px; min-width: 160px; text-align: right; }
+
+.tableau { display: flex; gap: 6px; padding: 6px; border-radius: 14px; background: var(--marine-fonce); }
+.compteur { display: flex; flex-direction: column; align-items: center; min-width: 86px; padding: 4px 10px; border-radius: 10px; }
+.compteur-valeur { font-family: var(--police-titre); font-weight: 800; font-size: 38px; line-height: 1; }
+.compteur-libelle { font-size: 12px; font-weight: 600; letter-spacing: 1.5px; color: #C9D6EA; }
+.c-buts .compteur-valeur { color: var(--or); }
+.c-retours .compteur-valeur { color: #8EC5FF; }
+.c-arrets .compteur-valeur { color: #FF8A3D; }
+.c-buts.actif { background: var(--or); }
+.c-buts.actif .compteur-valeur, .c-buts.actif .compteur-libelle { color: var(--marine); }
+.c-retours.actif { background: #8EC5FF; }
+.c-retours.actif .compteur-valeur, .c-retours.actif .compteur-libelle { color: var(--marine); }
+.c-arrets.actif { background: var(--orange); }
+.c-arrets.actif .compteur-valeur, .c-arrets.actif .compteur-libelle { color: #fff; }
+
+.progression { position: relative; height: 14px; border-radius: 999px; background: var(--marine-ligne); }
+.progression-barre { height: 100%; border-radius: 999px; background: var(--or); transition: width .3s ease; }
+.progression-ballon { position: absolute; top: -6px; margin-left: -13px; width: 26px; height: 26px; transition: left .3s ease; }
+.progression-ballon svg { width: 26px; height: 26px; }
+.progression-ballon circle { stroke: var(--marine); stroke-width: 2; }
+.progression-ballon polygon { fill: var(--marine); }
+
+.quiz-corps { max-width: 960px; margin: 0 auto; padding: 24px 24px 32px; display: flex; flex-direction: column; align-items: center; gap: 18px; }
+
+/* --- Terrain, but et gardien (dessin en CSS) --- */
+.stade { position: relative; width: 100%; height: 236px; border-radius: 20px; overflow: hidden; background-image: repeating-linear-gradient(90deg, #1E7B3A 0 64px, #238741 64px 128px); }
+.stade-ligne { position: absolute; left: 0; right: 0; top: 182px; height: 4px; background: rgba(255,255,255,.85); }
+.stade-but { position: absolute; left: 50%; top: 22px; transform: translateX(-50%); width: min(440px, 82%); height: 160px; border: 8px solid #fff; border-bottom: none;
+  background-color: rgba(10,28,63,.28);
+  background-image: repeating-linear-gradient(0deg, rgba(255,255,255,.3) 0 2px, transparent 2px 18px), repeating-linear-gradient(90deg, rgba(255,255,255,.3) 0 2px, transparent 2px 18px); }
+.gardien { position: absolute; left: 50%; bottom: 0; transform: translateX(-50%); width: 110px; height: 132px; transition: transform .35s ease; transform-origin: center bottom; }
+.gardien > div { position: absolute; background: #C8F169; }
+.g-tete { left: 38px; top: 0; width: 34px; height: 34px; border-radius: 50%; background: #E8B98F !important; }
+.g-corps { left: 30px; top: 32px; width: 50px; height: 56px; border-radius: 12px; }
+.g-short { left: 32px; top: 84px; width: 46px; height: 18px; border-radius: 4px; background: var(--marine) !important; }
+.g-jambe { top: 100px; width: 14px; height: 32px; border-radius: 4px; }
+.g-jambe-g { left: 36px; } .g-jambe-d { left: 60px; }
+.g-bras { top: 30px; width: 40px; height: 13px; border-radius: 7px; transition: transform .35s ease; }
+.g-bras-g { left: -2px; transform: rotate(-28deg); transform-origin: right center; }
+.g-bras-d { left: 72px; transform: rotate(28deg); transform-origin: left center; }
+.ballon { position: absolute; left: 50%; margin-left: -19px; transition: all .35s ease; z-index: 1; }
+.confetti { position: absolute; width: 12px; height: 20px; border-radius: 3px; opacity: 0; }
+.c1 { left: 12%; top: 30px; background: var(--or); transform: rotate(25deg); }
+.c2 { left: 18%; top: 120px; background: var(--grenat); transform: rotate(-30deg); }
+.c3 { left: 8%; top: 160px; background: #fff; border-radius: 50%; height: 12px; }
+.c4 { right: 10%; top: 40px; background: var(--bleu); transform: rotate(-20deg); }
+.c5 { right: 16%; top: 140px; background: var(--or); transform: rotate(40deg); }
+.c6 { right: 6%; top: 100px; background: var(--grenat); border-radius: 50%; height: 12px; }
+/* Etat BUT : le gardien plonge, le ballon est dans la lucarne */
+.etat-but .gardien { transform: translateX(-165%) rotate(-62deg); }
+.etat-but .ballon { left: auto; right: 16px; top: 12px; margin-left: 0; }
+.etat-but .confetti { opacity: 1; }
+/* Etat ARRET : le gardien bloque le ballon contre lui */
+
+.etat-arret .g-bras-g { left: 10px; top: 46px; width: 34px; transform: rotate(18deg); }
+.etat-arret .g-bras-d { left: 66px; top: 46px; width: 34px; transform: rotate(-18deg); }
+/* le ballon est dans le but (coordonnees du cadre) */
+.stade-but .ballon { top: 172px; }
+.etat-arret .stade-but .ballon { top: 56px; }
+.etat-but .stade-but .ballon { top: 12px; }
+
+/* --- Formulaire de reponse --- */
+.quiz-formulaire { width: 100%; display: flex; flex-direction: column; align-items: center; gap: 12px; }
+.quiz-consigne { display: inline-flex; align-items: center; gap: 10px; font-size: 22px; font-weight: 600; }
+.quiz-consigne svg { color: var(--bleu); width: 24px; height: 24px; }
+.champ-reponse { width: min(560px, 100%); height: 76px; padding: 0 20px; border-radius: 16px; border: 3px solid var(--bleu); background: #fff; color: var(--marine); font: 500 34px var(--police-texte); text-align: center; }
+.champ-reponse:focus { outline: none; box-shadow: 0 0 0 5px rgba(237,187,0,.55); }
+.champ-reponse:disabled { border-color: var(--gris-bordure); background: #F4F7FB; }
+.champ-essai2 { border-color: var(--orange); }
+.quiz-essai { font-size: 14px; font-weight: 600; color: var(--gris-texte); }
+.quiz-essai.essai2 { color: var(--orange); font-weight: 700; }
+
+.retro { min-height: 64px; width: 100%; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 10px 18px; padding: 0 28px; border-radius: 18px; }
+.retro-but { background: var(--or); color: var(--marine); padding: 12px 28px; }
+.retro-arret { background: var(--orange); color: #fff; padding: 12px 28px; }
+.retro-erreur-audio { background: #fff; color: #B3261E; border: 2px solid #B3261E; padding: 12px 20px; font-weight: 600; }
+.retro-titre { display: inline-flex; align-items: center; gap: 12px; font-family: var(--police-titre); font-weight: 800; font-size: 44px; line-height: 1; }
+.retro-arret .retro-titre { font-size: 38px; }
+.retro-texte { font-size: 19px; font-weight: 500; }
+
+.quiz-boutons { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
+.quiz-aide { font-size: 14px; color: var(--gris-texte); text-align: center; line-height: 2; }
+
+/* --- Correction apres 2 erreurs --- */
+.correction { width: 100%; display: flex; flex-direction: column; align-items: center; gap: 16px; padding: 18px 24px 22px; border-radius: 18px; background: #fff; border: 3px solid var(--orange); }
+.correction-titre { display: inline-flex; align-items: center; gap: 12px; font-family: var(--police-titre); font-weight: 800; font-size: 38px; line-height: 1; color: var(--orange); text-align: center; }
+.correction-comparaison { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; width: 100%; }
+.correction-case { flex: 0 1 300px; display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 12px 16px; border-radius: 14px; background: #F4F7FB; }
+.correction-bonne { background: var(--or-pale); border: 2px solid var(--or); }
+.correction-etiquette { font-size: 14px; font-weight: 600; color: var(--gris-texte); }
+.correction-bonne .correction-etiquette { color: var(--marine); }
+.correction-faux { font-size: 34px; font-weight: 500; color: var(--gris-texte); text-decoration: line-through; text-decoration-color: var(--orange); word-break: break-word; }
+.correction-mot { font-size: 44px; font-weight: 700; line-height: 1.1; }
+.correction-mot mark, .mot-surligne mark { background: var(--or); color: inherit; border-radius: 6px; padding: 0 3px; }
+.correction-note { font-size: 16px; color: var(--gris-texte); text-align: center; }
+
+/* =====================================================================
+   RESULTAT
+   ===================================================================== */
+.resultat-entete { color: #fff; padding: 30px 24px 34px; background-color: var(--marine);
+  background-image: repeating-linear-gradient(90deg, rgba(0,77,152,.5) 0 36px, rgba(165,0,68,.5) 36px 72px); }
+.resultat-entete-contenu { max-width: 960px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 14px; text-align: center; }
+.resultat-titre { font-family: var(--police-titre); font-weight: 800; font-size: 54px; line-height: 1; text-transform: uppercase; }
+.resultat-score { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 14px 40px; border-radius: 20px; background: var(--marine-fonce); border: 2px solid var(--marine-ligne); }
+.resultat-score-valeur { font-family: var(--police-titre); font-weight: 800; font-size: 96px; line-height: .95; color: var(--or); }
+.resultat-score-texte { font-size: 18px; font-weight: 600; }
+.resultat-corps { max-width: 960px; margin: 0 auto; padding: 26px 24px 40px; display: flex; flex-direction: column; gap: 20px; }
+.bandeau-record { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 14px; padding: 16px 22px; border-radius: 18px; background: var(--or); color: var(--marine); font-size: 22px; font-weight: 700; text-align: center; }
+.bandeau-record-note { font-size: 14px; font-weight: 500; width: 100%; }
+.bandeau-record-neutre { padding: 14px 22px; border-radius: 18px; background: var(--bleu-pale); font-size: 19px; font-weight: 600; text-align: center; }
+.tuiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+.tuile { display: flex; flex-direction: column; gap: 4px; padding: 16px 18px; border-radius: 16px; background: #fff; border: 2px solid var(--gris-ligne); }
+.tuile-libelle { font-size: 15px; font-weight: 600; color: var(--gris-texte); }
+.tuile-valeur { font-family: var(--police-titre); font-weight: 800; font-size: 46px; line-height: 1; }
+.t-retours { color: var(--bleu); } .t-arrets { color: var(--orange); }
+.panneau { display: flex; flex-direction: column; gap: 12px; padding: 20px 22px; border-radius: 18px; background: #fff; border: 2px solid var(--gris-ligne); }
+.panneau h2 { font-size: 22px; font-weight: 700; }
+.panneau-entete { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px; }
+.panneau-entete p { font-size: 15px; color: var(--gris-texte); }
+.puces { display: flex; flex-wrap: wrap; gap: 10px; }
+.puce { font-size: 22px; font-weight: 600; padding: 8px 16px; border-radius: 12px; }
+.puce-arret { background: var(--orange-pale); border: 2px solid #F3B48C; }
+.puce-retour { background: var(--bleu-pale); border: 2px solid #A9C8EC; }
+.resultat-boutons { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; padding-top: 4px; }
+
+@media (max-width: 600px) {
+  .quiz-numero { text-align: left; }
+  .compteur { min-width: 70px; }
+  .retro-titre { font-size: 34px; }
+  .resultat-titre { font-size: 40px; }
+}
+
+/* =====================================================================
+   ETUDE DU BLOC ET VESTIAIRE
+   ===================================================================== */
+.btn-sombre { background: transparent; color: #fff; border-color: rgba(255,255,255,.45); }
+.btn-sombre:hover:not(:disabled) { background: rgba(255,255,255,.1); }
+.btn-petit { min-height: 44px; padding: 0 14px; font-size: 15px; border-radius: 12px; }
+.btn-icone { width: 44px; min-height: 44px; padding: 0; border-radius: 12px; }
+.btn-phrase { border-color: #B4C1D6; }
+.btn-grand { min-height: 60px; padding: 0 34px; font-size: 21px; }
+
+.etude-entete { background: var(--marine); color: #fff; padding: 18px 24px; }
+.etude-entete-contenu { max-width: 1200px; margin: 0 auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; }
+.etude-titre { font-family: var(--police-titre); font-weight: 800; font-size: 40px; line-height: 1; text-transform: uppercase; }
+.etude-corps { max-width: 1200px; margin: 0 auto; padding: 28px 24px 40px; display: flex; flex-direction: column; gap: 26px; }
+.etude-intro { display: flex; flex-wrap: wrap; align-items: stretch; gap: 16px; }
+.etude-intro > * { flex: 1 1 380px; }
+.theme { display: flex; flex-direction: column; gap: 8px; padding: 18px 22px; border-radius: 18px; background: #fff; border: 2px solid var(--bleu); }
+.theme-etiquette { font-family: var(--police-titre); font-weight: 700; font-size: 16px; letter-spacing: 2px; color: var(--grenat); text-transform: uppercase; }
+.theme-titre { font-size: 26px; font-weight: 700; line-height: 1.2; }
+.theme-texte { font-size: 18px; line-height: 1.5; }
+.etude-consigne { display: flex; flex-direction: column; justify-content: center; gap: 12px; font-size: 17px; color: var(--gris-texte); }
+.vestiaire-titre { font-size: 30px; font-weight: 700; color: var(--marine); }
+.legende { align-self: flex-start; display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border-radius: 12px; background: #fff; border: 2px solid var(--gris-ligne); font-size: 15px; }
+.legende .mot-surligne { font-size: 22px; font-weight: 600; color: var(--marine); }
+.truc { display: flex; gap: 12px; align-items: center; padding: 14px 16px; border-radius: 14px; background: var(--or-pale); border: 2px solid var(--or); font-size: 15px; line-height: 1.4; }
+.truc svg { flex: none; }
+
+.etude-groupes { display: flex; flex-direction: column; gap: 26px; }
+.etude-groupe { display: flex; flex-direction: column; gap: 12px; }
+.etude-groupe-entete { display: flex; align-items: baseline; gap: 14px; padding-bottom: 8px; border-bottom: 2px solid var(--gris-ligne); }
+.etude-groupe-titre { font-family: var(--police-titre); font-weight: 800; font-size: 30px; line-height: 1; text-transform: uppercase; }
+.etude-groupe-nombre { font-size: 15px; font-weight: 600; color: var(--grenat); }
+
+.grille-mots { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(240px, 100%), 1fr)); gap: 12px; }
+.carte-mot { display: flex; flex-direction: column; gap: 10px; padding: 18px; border-radius: 16px; background: #fff; border: 2px solid var(--gris-ligne); }
+.carte-mot .mot-surligne { font-size: 28px; font-weight: 600; line-height: 1.15; word-break: normal; overflow-wrap: normal; }
+.carte-mot-compacte { flex-direction: row; align-items: center; justify-content: space-between; min-height: 76px; padding: 12px 12px 12px 18px; }
+.carte-mot-compacte .mot-surligne { font-size: 24px; }
+.carte-mot-texte { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.carte-mot-sons { display: flex; gap: 6px; flex: none; margin-top: auto; }
+.carte-mot-origine { font-size: 13px; color: var(--gris-texte); }
+.carte-mot-cote { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; font-size: 13px; color: var(--gris-texte); }
+.carte-mot-cote svg { display: block; }
+.mot-surligne mark { background: var(--or); color: inherit; border-radius: 5px; padding: 0 2px; }
+.etiquette-pratiquer { align-self: flex-start; font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--orange-pale); color: var(--orange); }
+.etiquette-jour { align-self: flex-start; font-size: 13px; font-weight: 600; padding: 4px 10px; border-radius: 999px; background: var(--bleu-pale); color: var(--bleu); }
+.etude-actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 14px; padding-top: 6px; }
+
+/* Bilan d'entrainement */
+.grille-bilan { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(400px, 100%), 1fr)); gap: 14px; }
+.puce-or { background: var(--or-pale); border: 2px solid var(--or); }
+.puce-neutre { background: var(--fond); border: 2px solid #B4C1D6; }
+
+/* =====================================================================
+   SAUVEGARDE : fenetre de confirmation et alerte
+   ===================================================================== */
+.dialogue { border: none; border-radius: 20px; padding: 0; max-width: min(560px, calc(100% - 32px)); box-shadow: 0 20px 50px rgba(10,28,63,.35); color: var(--marine); }
+.dialogue::backdrop { background: rgba(10,28,63,.55); }
+.dialogue-contenu { padding: 26px 28px; display: flex; flex-direction: column; gap: 12px; font-size: 18px; line-height: 1.45; }
+.dialogue-contenu h2 { font-size: 26px; }
+.dialogue-attention { padding: 12px 14px; border-radius: 12px; background: var(--orange-pale); color: var(--orange); font-weight: 600; }
+.dialogue-boutons { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 6px; }
+.alerte-memoire { padding: 14px 18px; border-radius: 14px; background: var(--orange-pale); border: 2px solid var(--orange); color: var(--orange); font-weight: 600; }
+
+/* =====================================================================
+   ETOILES ET BALLON D'OR
+   ===================================================================== */
+.etoile { display: inline-block; vertical-align: middle; }
+.etoile polygon { stroke-width: 1.6; stroke-linejoin: round; }
+.etoile.pleine polygon { fill: var(--or); stroke: #8A6A00; }
+.etoile.vide polygon { fill: none; stroke: #B4C1D6; }
+.ballon-or { display: inline-block; vertical-align: middle; margin-left: 4px; }
+.carte-etoiles { display: inline-flex; align-items: center; gap: 1px; }
+.menu-entete { align-items: center; }
+.compteur-etoiles { display: flex; align-items: center; gap: 14px; padding: 10px 16px; border-radius: 16px; background: #fff; border: 2px solid var(--gris-ligne); font-size: 22px; color: var(--marine); }
+.compteur-etoiles-ligne { display: inline-flex; align-items: center; gap: 6px; }
+.compteur-etoiles strong { font-family: var(--police-titre); font-weight: 800; font-size: 28px; }
+
+.resultat-etoiles { display: flex; flex-direction: column; align-items: center; gap: 8px; padding: 18px 20px; border-radius: 18px; background: #fff; border: 2px solid var(--gris-ligne); text-align: center; }
+.resultat-etoiles.gain { border-color: var(--or); background: var(--or-pale); }
+.resultat-etoiles-rangee { display: flex; gap: 10px; }
+.resultat-etoiles-rangee .etoile.vide polygon { stroke: #B4C1D6; }
+.resultat-etoiles-texte { font-size: 20px; font-weight: 700; }
+.resultat-ballon-or { display: inline-flex; align-items: center; gap: 8px; font-size: 18px; font-weight: 700; }
+.resultat-ballon-or .ballon-or { width: 28px; height: 28px; }
+.etoile.neuve { animation: etoile-apparait .6s ease-out both; }
+.etoile.neuve:nth-child(2) { animation-delay: .25s; }
+.etoile.neuve:nth-child(3) { animation-delay: .5s; }
+@keyframes etoile-apparait { 0% { transform: scale(0) rotate(-90deg); opacity: 0; } 70% { transform: scale(1.25) rotate(10deg); opacity: 1; } 100% { transform: scale(1) rotate(0); } }
+@media (prefers-reduced-motion: reduce) { .etoile.neuve { animation: none; } }
+
+/* =====================================================================
+   STATISTIQUES
+   ===================================================================== */
+.stat-tuiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(220px, 100%), 1fr)); gap: 12px; }
+.stat-tuile { display: flex; flex-direction: column; gap: 4px; padding: 16px 18px; border-radius: 16px; background: #fff; border: 2px solid var(--gris-ligne); }
+.stat-libelle { font-size: 14px; font-weight: 600; color: var(--gris-texte); }
+.stat-valeur { font-family: var(--police-titre); font-weight: 800; font-size: 38px; line-height: 1.05; color: var(--marine); }
+.stat-detail { font-size: 14px; color: var(--gris-texte); }
+.stat-vide { color: var(--gris-texte); }
+.statistiques .panneau { gap: 16px; }
+
+.barres { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 10px; align-items: end; }
+.barre-colonne { display: flex; flex-direction: column; align-items: center; gap: 4px; }
+.barre-valeur { font-size: 12px; color: var(--gris-texte); min-height: 16px; white-space: nowrap; }
+.barre-zone { width: 100%; height: 160px; display: flex; align-items: flex-end; justify-content: center; border-bottom: 2px solid var(--gris-ligne); }
+.barre { width: min(36px, 70%); background: var(--bleu); border-radius: 4px 4px 0 0; }
+.barre-jour { font-size: 14px; font-weight: 600; color: var(--marine); }
+.barre-date { font-size: 12px; color: var(--gris-texte); }
+.barre-colonne.aujourdhui .barre-jour { color: var(--grenat); }
+
+.tableau-defilant { overflow-x: auto; }
+.tableau-stats { width: 100%; border-collapse: collapse; font-size: 15px; }
+.tableau-stats th, .tableau-stats td { padding: 10px 12px; border-bottom: 1px solid var(--gris-ligne); text-align: left; white-space: nowrap; }
+.tableau-stats thead th { font-size: 13px; color: var(--gris-texte); font-weight: 600; }
+.tableau-stats .nombre { text-align: right; font-variant-numeric: tabular-nums; }
+.lien-bloc { background: none; border: none; padding: 4px 0; font: 700 16px var(--police-texte); color: var(--bleu); cursor: pointer; min-height: 32px; }
+.lien-bloc:focus-visible { outline: 3px solid var(--or); outline-offset: 2px; }
+.detail-bloc td { background: var(--fond); white-space: normal; }
+.detail-grille { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr)); gap: 18px; padding: 6px 0; }
+.detail-grille h3 { font-size: 16px; margin-bottom: 6px; }
+.liste-simple { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 4px; }

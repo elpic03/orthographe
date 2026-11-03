@@ -1,0 +1,34 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Doubles consonnes (début)
+Titre : Les doubles consonnes en début de mot
+Description : Au début d'un mot, lorsque le «a» est suivi de «c», «f», «p» ou «t», la consonne est souvent doublée («acc», «aff», «app», «att»). Au début d'un mot, lorsque le «e» est suivi de «f», la consonne est doublée («eff»). De plus, j'entends [è].
+
+Pièges :
+un a[cc]ès
+une a[cc]lamation
+un a[cc]ordéon
+un a[cc]ueil
+une a[cc]usation
+une a[ff]iche
+une a[ff]irmation
+un a[pp]areil
+une a[pp]arence
+une a[pp]arition
+un a[pp]el
+un a[pp]étit
+un a[pp]laudissement
+une a[pp]lication
+une a[tt]aque
+a[tt]eindre
+une a[tt]ente
+une a[tt]itude
+un e[ff]ort
+un e[ff]roi

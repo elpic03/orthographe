@@ -1,0 +1,45 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Graphies du son [f]
+Titre : Graphies du son [f]
+Description : Le son [f] peut s'écrire «f» Ou «ff». Le son [f] peut s'écrire «ph».
+
+Pièges :
+un chauffage
+une flamme
+un four
+une manifestation
+un coffre
+une flotte
+une fourrure
+un parfum
+une défaite
+une flûte/flute
+un foyer
+un plafond
+un fardeau
+du foin
+une fuite
+une réforme
+une faveur
+former
+des funérailles
+une soif
+des félicitations
+une formule
+une fureur
+souffrir
+une file
+une fortune
+une indifférence
+une atmosphère
+une orthographe
+une philosophie
+une photographie

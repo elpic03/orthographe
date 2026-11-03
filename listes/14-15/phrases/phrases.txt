@@ -1,0 +1,31 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+une encre | J'écris avec une encre bleue.
+un comptoir | Le vendeur pose la monnaie sur le comptoir.
+une écorce | L'écorce de l'arbre est rugueuse.
+un canon | Le pirate tire un coup de canon.
+un cap | Le bateau passe près du cap, au bout de la terre.
+une crinière | Le lion a une grande crinière.
+un corridor | Ne cours pas dans le corridor !
+un écart | Il y a un grand écart entre les deux équipes.
+une rancune | Il garde de la rancune contre celui qui l'a trompé.
+un couvercle | Mets le couvercle sur la casserole.
+un col | Le col de ma chemise est froissé.
+ridicule | Ce chapeau géant est ridicule !
+un décor | Le décor de la pièce de théâtre est magnifique.
+convenir | Cette heure peut convenir à tout le monde.
+un éclat | Un éclat de verre est tombé par terre.
+un obstacle | Le cheval saute par-dessus un obstacle.
+un véhicule | Une auto est un véhicule.
+une conduite | Bravo pour ta bonne conduite en classe.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+un cuir | Mon père porte un manteau de cuir.
+cuire | Il faut faire cuire les pâtes dix minutes.
+une colle | Pour mon bricolage, il me faut un bâton de colle.

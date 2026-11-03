@@ -1,0 +1,27 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+public | Le parc est un lieu public.
+publique | La piscine publique ouvre en juin.
+une objection | Pas d'objection : on part à huit heures.
+une conviction | Il défend son idée avec conviction.
+une directive | Le professeur donne une directive claire.
+le tact | Elle annonce la mauvaise nouvelle avec tact.
+un objectif | Mon objectif est de marquer un but.
+une inquiétude | Ma mère a de l'inquiétude quand je rentre tard.
+un équipage | L'équipage du bateau hisse les voiles.
+un équilibre | Je garde mon équilibre sur une jambe.
+une tactique | Le coach explique une nouvelle tactique.
+une politique | La politique, c'est la façon de diriger un pays.
+une clinique | Je vais à la clinique pour un vaccin.
+un klaxon | Le chauffeur appuie sur le klaxon.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+un public | Le public applaudit les joueurs à la fin du match.
+la mathématique | La mathématique est la science des nombres et des formes.
+un quai | Le bateau est attaché au quai.

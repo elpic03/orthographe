@@ -1,0 +1,51 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [è] : è, ei, ê, et
+Titre : Les graphies du son [è]
+Description : Le son [è] peut s'écrire «è» ou «ei», mais jamais en début de mot. Le «ei» est rarement utilisé. La lettre «ê» est rarement utilisée pour faire [è]. Le «e» suivi du «t» ou du «l» fait [è] en fin de mot.
+
+Pièges :
+une barri[è]re
+un ch[è]que
+un cimeti[è]re
+une fl[è]che
+une fronti[è]re
+une hal[ei]ne
+une mani[è]re
+un mod[è]le
+une paupi[è]re
+une r[è]gle
+un r[è]glement
+réguli[è]re
+un rem[è]de
+une sir[è]ne
+un territoire
+v[ei]ller
+une v[ei]ne
+vi[ei]l
+vi[ei]lle
+un vi[ei]llard
+un anc[ê]tre
+une anc[ê]tre
+un arr[ê]t
+un intér[ê]t
+m[ê]ler
+une temp[ê]te
+bill[et]
+un chal[et]
+un paqu[et]
+un regr[et]
+un bouqu[et]
+un fil[et]
+un poign[et]
+un traj[et]
+un carn[et]
+un matéri[el]
+un proj[et]

@@ -1,0 +1,18 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+des vers | Après la pluie, on voit des vers de terre.
+un aspect | Cette soupe a un drôle d'aspect.
+une détresse | Le bateau en détresse appelle à l'aide.
+une essence | Papa met de l'essence dans l'auto.
+un festin | Pour Noël, on prépare un vrai festin.
+un nerf | Le dentiste soigne le nerf de ma dent.
+une protestation | Les élèves font une protestation contre les devoirs.
+la sagesse | Mon grand-père parle avec sagesse.
+une correspondance | J'ai une correspondance avec un ami en France.
+une intervention | Les pompiers font une intervention rapide.

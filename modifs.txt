@@ -1,0 +1,7 @@
+J'ai créé les fichiers bloc_xx.txt dans le dossier listes. Valider les fichiers, mettre les pièges, créer les dossiers et sous dossiers, les phrases. Aussi, revalider les 4 dossiers qui sont déjà présent (6b,7,12,13)
+Lorsqu'une phrase d'exemple est disponible, la dire automatiquement. Dire le mot, ensuite la consigne "comme_dans.mp3" (qui dis "comme dans la phrase") et dire la phrase ensuite.
+Aussi, enlever les 5 barres de couleur en haut du bouton "Aller au vestiaire". Et déplacer le bouton "Aller au vestiaire" vers la droite.
+
+
+Le son "comme_dans.mp3" n'est pas utilisé comme transition entre le mot et la phrase.
+Apres un but ou un arret, il faudrait attendre que le mp3 soit terminé avant de passer au mot suivant. Parfois le fichier coupe avant la fin.

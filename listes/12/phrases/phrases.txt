@@ -1,0 +1,40 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+admirer | J'aime admirer les étoiles le soir.
+aimé | Il a aimé le film.
+allé | Mon frère est allé au parc.
+briller | Les étoiles vont briller cette nuit.
+charger | Il faut charger la tablette avant de partir.
+charmer | Le magicien veut charmer le public.
+coller | Je dois coller l'image dans mon album.
+commencé | Le match a commencé à midi.
+douter | Tu ne dois pas douter de toi.
+durer | Le match va durer quatre-vingt-dix minutes.
+désirer | Il ne faut pas désirer tout ce qu'on voit.
+filer | Il est tard, je dois filer à la maison.
+habiller | Papa va habiller le bébé.
+lier | Il faut lier les deux cordes ensemble.
+mangé | Hier, j'ai mangé une pomme.
+noter | Je vais noter mes devoirs dans mon agenda.
+regretter | Tu vas regretter de ne pas être venu.
+relever | Notre équipe va relever le défi.
+retirer | Je vais retirer mes bottes en entrant.
+régler | Il faut régler le réveil pour demain.
+trainer | Ne laisse pas trainer tes souliers.
+éprouver | On peut éprouver de la joie en gagnant un match.
+étonner | Ce tour de magie va t'étonner.
+entier | Il a lu le livre en entier.
+régulier | Il fait un entrainement régulier.
+ouvrier | Un ouvrier répare la route.
+un atelier | Mon père répare son vélo dans son atelier.
+un voilier | Un voilier glisse sur le lac grâce au vent.
+un prisonnier | Le prisonnier est enfermé dans sa cellule.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+un thé | Grand-maman boit un thé chaud avec du miel.

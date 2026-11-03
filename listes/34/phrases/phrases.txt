@@ -1,0 +1,19 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+leur | Les enfants jouent avec leur chien.
+une lueur | Une lueur brille au bout du tunnel.
+une rumeur | Une rumeur court dans l'école.
+une sueur | Après la course, il est couvert de sueur.
+une vapeur | La vapeur sort de la bouilloire.
+une profondeur | La profondeur de la piscine est de deux mètres.
+un honneur | C'est un honneur de porter le drapeau.
+une terreur | Il hurle de terreur en voyant le fantôme.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+une fureur | Le lion rugit de fureur.

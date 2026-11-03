@@ -1,0 +1,21 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+dix | Mon frère a dix ans.
+eux | Je joue au soccer avec eux.
+une excitation | Les enfants crient d'excitation avant la fête.
+une expédition | Les explorateurs partent en expédition.
+un exploit | Marquer cinq buts, c'est un exploit !
+un exposé | Je présente un exposé sur les dauphins.
+un prétexte | Il invente un prétexte pour ne pas ranger sa chambre.
+une exagération | Dire qu'il a mangé cent biscuits, c'est une exagération.
+une exigence | Le professeur a une exigence : écrire proprement.
+fixer | Papa va fixer la tablette au mur.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+un époux | Le jour du mariage, elle embrasse son époux.

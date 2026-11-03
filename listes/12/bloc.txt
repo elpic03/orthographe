@@ -1,0 +1,53 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Son [é] final : -er, -é
+Titre : Le son [é] en position finale
+Description : À la fin des verbes à l'infinitif, le son [é] s'écrit «er». À la fin des participes passés des verbes, le son [é] s'écrit «é» au masculin singulier (et peut s'accorder). Le son [é] à la fin des adjectifs s'écrit «er». Le son [é] s'écrit «er» pour de nombreux noms masculins, en particulier les noms de métiers.
+
+Pièges :
+admir[er]
+aim[é]
+all[é]
+brill[er]
+charg[er]
+charm[er]
+coll[er]
+commenc[é]
+dout[er]
+dur[er]
+désir[er]
+ent[ier]
+fil[er]
+habill[er]
+li[er]
+mang[é]
+not[er]
+ouvr[ier]
+regrett[er]
+relev[er]
+retir[er]
+régl[er]
+régul[ier]
+tr[ai]n[er]
+un atel[ier]
+un cah[ier]
+un cuisin[ier]
+un infirm[ier]
+un pan[ier]
+un polic[ier]
+un prisonn[ier]
+un roch[er]
+un th[é]
+un voil[ier]
+éprouv[er]
+étonn[er]
+
+Variantes :
+trainer = traîner

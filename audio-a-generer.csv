@@ -1,0 +1,1619 @@
+﻿type;bloc;fichier_a_creer;texte_a_lire;statut
+mot;1;listes/1/défendre.mp3;défendre;existe
+mot;1;listes/1/enlever.mp3;enlever;existe
+mot;1;listes/1/la violence.mp3;la violence;existe
+mot;1;listes/1/marchand.mp3;marchand;existe
+mot;1;listes/1/prendre.mp3;prendre;existe
+mot;1;listes/1/ranger.mp3;ranger;existe
+mot;1;listes/1/tenter.mp3;tenter;existe
+mot;1;listes/1/transporter.mp3;transporter;existe
+mot;1;listes/1/un abandon.mp3;un abandon;existe
+mot;1;listes/1/un anglais.mp3;un anglais;existe
+mot;1;listes/1/un bâtiment.mp3;un bâtiment;existe
+mot;1;listes/1/un changement.mp3;un changement;existe
+mot;1;listes/1/un chantier.mp3;un chantier;existe
+mot;1;listes/1/un document.mp3;un document;existe
+mot;1;listes/1/un encouragement.mp3;un encouragement;existe
+mot;1;listes/1/un ennui.mp3;un ennui;existe
+mot;1;listes/1/un enthousiasme.mp3;un enthousiasme;existe
+mot;1;listes/1/un grognement.mp3;un grognement;existe
+mot;1;listes/1/un manche.mp3;un manche;existe
+mot;1;listes/1/un manteau.mp3;un manteau;existe
+mot;1;listes/1/un marchand.mp3;un marchand;existe
+mot;1;listes/1/un menton.mp3;un menton;existe
+mot;1;listes/1/un roman.mp3;un roman;existe
+mot;1;listes/1/un volant.mp3;un volant;existe
+mot;1;listes/1/un écran.mp3;un écran;existe
+mot;1;listes/1/un élan.mp3;un élan;existe
+mot;1;listes/1/un élément.mp3;un élément;existe
+mot;1;listes/1/un étang.mp3;un étang;existe
+mot;1;listes/1/un étonnement.mp3;un étonnement;existe
+mot;1;listes/1/un étranger.mp3;un étranger;existe
+mot;1;listes/1/une ancre.mp3;une ancre;existe
+mot;1;listes/1/une différence.mp3;une différence;existe
+mot;1;listes/1/une enfance.mp3;une enfance;existe
+mot;1;listes/1/une importance.mp3;une importance;existe
+mot;1;listes/1/une insolence.mp3;une insolence;existe
+mot;1;listes/1/une intention.mp3;une intention;existe
+mot;1;listes/1/une manche.mp3;une manche;existe
+mot;1;listes/1/une marchande.mp3;une marchande;existe
+mot;1;listes/1/une ordonnance.mp3;une ordonnance;existe
+mot;1;listes/1/une pente.mp3;une pente;existe
+mot;1;listes/1/une plante.mp3;une plante;existe
+mot;1;listes/1/une rencontre.mp3;une rencontre;existe
+mot;1;listes/1/une revanche.mp3;une revanche;existe
+mot;1;listes/1/une souffrance.mp3;une souffrance;existe
+mot;1;listes/1/une tente.mp3;une tente;existe
+mot;1;listes/1/une étrangère.mp3;une étrangère;existe
+mot;1;listes/1/une évidence.mp3;une évidence;existe
+mot;1;listes/1/étendre.mp3;étendre;existe
+phrase;1;listes/1/phrases/une ancre.mp3;Le capitaine lance une ancre au fond de l'eau.;existe
+phrase;1;listes/1/phrases/une manche.mp3;Il a déchiré une manche de son chandail.;existe
+phrase;1;listes/1/phrases/un manche.mp3;Le balai a un manche en bois.;existe
+phrase;1;listes/1/phrases/un abandon.mp3;Le coureur blessé a dû faire un abandon pendant la course.;existe
+phrase;1;listes/1/phrases/une insolence.mp3;Répondre impoliment au professeur, c'est de l'insolence.;existe
+phrase;1;listes/1/phrases/un enthousiasme.mp3;Il ouvre son cadeau avec beaucoup d'enthousiasme.;existe
+phrase;1;listes/1/phrases/une revanche.mp3;On a perdu, mais on veut prendre notre revanche.;existe
+phrase;1;listes/1/phrases/un chantier.mp3;Les ouvriers construisent une maison sur un chantier.;existe
+phrase;1;listes/1/phrases/un étang.mp3;Les canards nagent sur l'étang derrière la ferme.;existe
+phrase;1;listes/1/phrases/une souffrance.mp3;Le chien blessé gémit de souffrance.;existe
+phrase;1;listes/1/phrases/une ordonnance.mp3;Le médecin écrit une ordonnance pour un médicament.;existe
+phrase;1;listes/1/phrases/un élan.mp3;Il prend un élan avant de sauter dans le sable.;existe
+phrase;1;listes/1/phrases/une évidence.mp3;C'est une évidence : le soleil se lève le matin.;existe
+phrase;1;listes/1/phrases/un étonnement.mp3;Il regarde le tour de magie avec étonnement.;existe
+phrase;1;listes/1/phrases/un grognement.mp3;Le chien pousse un grognement quand on touche à son os.;existe
+phrase;1;listes/1/phrases/un ennui.mp3;Sans jeux ni livres, on meurt d'ennui.;existe
+phrase;1;listes/1/phrases/une tente.mp3;Au camping, on dort sous une tente.;existe
+phrase;1;listes/1/phrases/marchand.mp3;Le navire marchand arrive au port avec sa cargaison.;existe
+phrase;1;listes/1/phrases/un anglais.mp3;Mon cousin parle un anglais parfait.;existe
+mot;2;listes/2/complet.mp3;complet;existe
+mot;2;listes/2/complice.mp3;complice;existe
+mot;2;listes/2/complète.mp3;complète;existe
+mot;2;listes/2/composer.mp3;composer;existe
+mot;2;listes/2/rompre.mp3;rompre;existe
+mot;2;listes/2/tromper.mp3;tromper;existe
+mot;2;listes/2/un camp.mp3;un camp;existe
+mot;2;listes/2/un camping.mp3;un camping;existe
+mot;2;listes/2/un combat.mp3;un combat;existe
+mot;2;listes/2/un compagnon.mp3;un compagnon;existe
+mot;2;listes/2/un complice.mp3;un complice;existe
+mot;2;listes/2/un compliment.mp3;un compliment;existe
+mot;2;listes/2/un comportement.mp3;un comportement;existe
+mot;2;listes/2/un emploi.mp3;un emploi;existe
+mot;2;listes/2/un membre.mp3;un membre;existe
+mot;2;listes/2/un tambour.mp3;un tambour;existe
+mot;2;listes/2/un timbre.mp3;un timbre;existe
+mot;2;listes/2/une ambulance.mp3;une ambulance;existe
+mot;2;listes/2/une assemblée.mp3;une assemblée;existe
+mot;2;listes/2/une compagne.mp3;une compagne;existe
+mot;2;listes/2/une complice.mp3;une complice;existe
+mot;2;listes/2/une impatience.mp3;une impatience;existe
+mot;2;listes/2/une température.mp3;une température;existe
+mot;2;listes/2/une tombe.mp3;une tombe;existe
+phrase;2;listes/2/phrases/une assemblée.mp3;Les élèves se réunissent pour une assemblée dans le gymnase.;existe
+phrase;2;listes/2/phrases/une impatience.mp3;Il attend Noël avec impatience.;existe
+phrase;2;listes/2/phrases/un complice.mp3;Le voleur avait un complice qui surveillait la rue.;existe
+phrase;2;listes/2/phrases/complice.mp3;Les deux amis échangent un regard complice.;existe
+phrase;2;listes/2/phrases/rompre.mp3;Le vent fort peut rompre une branche.;existe
+phrase;2;listes/2/phrases/un comportement.mp3;Ton comportement en classe est excellent.;existe
+phrase;2;listes/2/phrases/une compagne.mp3;Ma compagne de classe me prête son crayon.;existe
+phrase;2;listes/2/phrases/un camp.mp3;Les scouts installent leur camp près du lac.;existe
+mot;3;listes/3/un accueil.mp3;un accueil;existe
+mot;3;listes/3/un appareil.mp3;un appareil;existe
+mot;3;listes/3/un bétail.mp3;un bétail;existe
+mot;3;listes/3/un chandail.mp3;un chandail;existe
+mot;3;listes/3/un clin d'œil.mp3;un clin d'œil;existe
+mot;3;listes/3/un conseil.mp3;un conseil;existe
+mot;3;listes/3/un détail.mp3;un détail;existe
+mot;3;listes/3/un fauteuil.mp3;un fauteuil;existe
+mot;3;listes/3/un orgueil.mp3;un orgueil;existe
+mot;3;listes/3/un outil.mp3;un outil;existe
+mot;3;listes/3/un réveil.mp3;un réveil;existe
+mot;3;listes/3/une bataille.mp3;une bataille;existe
+mot;3;listes/3/une merveille.mp3;une merveille;existe
+phrase;3;listes/3/phrases/un orgueil.mp3;Par orgueil, il refuse d'avouer qu'il a perdu.;existe
+phrase;3;listes/3/phrases/un bétail.mp3;Le fermier nourrit son bétail : des vaches et des moutons.;existe
+phrase;3;listes/3/phrases/un clin d'œil.mp3;Mon oncle me fait un clin d'œil pour garder le secret.;existe
+phrase;3;listes/3/phrases/un accueil.mp3;Nos voisins nous ont fait un accueil chaleureux.;existe
+mot;4a;listes/4a/bienvenu.mp3;bienvenu;existe
+mot;4a;listes/4a/bienvenue.mp3;bienvenue;existe
+mot;4a;listes/4a/blond.mp3;blond;existe
+mot;4a;listes/4a/blonde.mp3;blonde;existe
+mot;4a;listes/4a/chacun.mp3;chacun;existe
+mot;4a;listes/4a/chacune.mp3;chacune;existe
+mot;4a;listes/4a/ennemi.mp3;ennemi;existe
+mot;4a;listes/4a/ennemie.mp3;ennemie;existe
+mot;4a;listes/4a/extérieur.mp3;extérieur;existe
+mot;4a;listes/4a/extérieure.mp3;extérieure;existe
+mot;4a;listes/4a/intelligent.mp3;intelligent;existe
+mot;4a;listes/4a/intelligente.mp3;intelligente;existe
+mot;4a;listes/4a/lent.mp3;lent;existe
+mot;4a;listes/4a/lente.mp3;lente;existe
+mot;4a;listes/4a/lourd.mp3;lourd;existe
+mot;4a;listes/4a/lourde.mp3;lourde;existe
+mot;4a;listes/4a/marchand.mp3;marchand;existe
+mot;4a;listes/4a/marchande.mp3;marchande;existe
+mot;4a;listes/4a/patient.mp3;patient;existe
+mot;4a;listes/4a/patiente.mp3;patiente;existe
+mot;4a;listes/4a/plat.mp3;plat;existe
+mot;4a;listes/4a/plate.mp3;plate;existe
+mot;4a;listes/4a/présent.mp3;présent;existe
+mot;4a;listes/4a/présente.mp3;présente;existe
+mot;4a;listes/4a/savant.mp3;savant;existe
+mot;4a;listes/4a/savante.mp3;savante;existe
+mot;4a;listes/4a/total.mp3;total;existe
+mot;4a;listes/4a/totale.mp3;totale;existe
+mot;4a;listes/4a/un adolescent.mp3;un adolescent;existe
+mot;4a;listes/4a/un auteur.mp3;un auteur;existe
+mot;4a;listes/4a/un blond.mp3;un blond;existe
+mot;4a;listes/4a/un ennemi.mp3;un ennemi;existe
+mot;4a;listes/4a/un extérieur.mp3;un extérieur;existe
+mot;4a;listes/4a/un invité.mp3;un invité;existe
+mot;4a;listes/4a/un marchand.mp3;un marchand;existe
+mot;4a;listes/4a/un patient.mp3;un patient;existe
+mot;4a;listes/4a/un présent.mp3;un présent;existe
+mot;4a;listes/4a/un savant.mp3;un savant;existe
+mot;4a;listes/4a/un total.mp3;un total;existe
+mot;4a;listes/4a/un écrivain.mp3;un écrivain;existe
+mot;4a;listes/4a/une adolescente.mp3;une adolescente;existe
+mot;4a;listes/4a/une auteure.mp3;une auteure;existe
+mot;4a;listes/4a/une blonde.mp3;une blonde;existe
+mot;4a;listes/4a/une ennemie.mp3;une ennemie;existe
+mot;4a;listes/4a/une invitée.mp3;une invitée;existe
+mot;4a;listes/4a/une marchande.mp3;une marchande;existe
+mot;4a;listes/4a/une patiente.mp3;une patiente;existe
+mot;4a;listes/4a/une savante.mp3;une savante;existe
+mot;4a;listes/4a/une écrivaine.mp3;une écrivaine;existe
+phrase;4a;listes/4a/phrases/ennemi.mp3;C'est un pays ennemi.;existe
+phrase;4a;listes/4a/phrases/ennemie.mp3;L'équipe ennemie arrive sur le terrain.;existe
+phrase;4a;listes/4a/phrases/bienvenu.mp3;Ton ami est le bienvenu chez nous.;existe
+phrase;4a;listes/4a/phrases/bienvenue.mp3;Ta sœur est la bienvenue chez nous.;existe
+phrase;4a;listes/4a/phrases/extérieur.mp3;Le mur extérieur est peint en bleu.;existe
+phrase;4a;listes/4a/phrases/extérieure.mp3;La porte extérieure est fermée.;existe
+phrase;4a;listes/4a/phrases/total.mp3;Le prix total est de dix dollars.;existe
+phrase;4a;listes/4a/phrases/totale.mp3;La note totale est de vingt points.;existe
+phrase;4a;listes/4a/phrases/un présent.mp3;Pour ta fête, je t'offre un présent.;existe
+phrase;4a;listes/4a/phrases/un savant.mp3;Le savant fait des expériences dans son laboratoire.;existe
+phrase;4a;listes/4a/phrases/un patient.mp3;Le médecin soigne un patient.;existe
+phrase;4a;listes/4a/phrases/un extérieur.mp3;L'extérieur de la maison est peint en rouge.;existe
+phrase;4a;listes/4a/phrases/une auteure.mp3;Une auteure est venue lire son livre à notre classe.;existe
+phrase;4a;listes/4a/phrases/marchand.mp3;Le navire marchand arrive au port avec sa cargaison.;existe
+phrase;4a;listes/4a/phrases/marchande.mp3;Ce maillot signé a une grande valeur marchande.;existe
+mot;4b;listes/4b/entier.mp3;entier;existe
+mot;4b;listes/4b/entière.mp3;entière;existe
+mot;4b;listes/4b/fameuse.mp3;fameuse;existe
+mot;4b;listes/4b/fameux.mp3;fameux;existe
+mot;4b;listes/4b/mystérieuse.mp3;mystérieuse;existe
+mot;4b;listes/4b/mystérieux.mp3;mystérieux;existe
+mot;4b;listes/4b/précieuse.mp3;précieuse;existe
+mot;4b;listes/4b/précieux.mp3;précieux;existe
+mot;4b;listes/4b/régulier.mp3;régulier;existe
+mot;4b;listes/4b/régulière.mp3;régulière;existe
+mot;4b;listes/4b/sérieuse.mp3;sérieuse;existe
+mot;4b;listes/4b/sérieux.mp3;sérieux;existe
+mot;4b;listes/4b/un auteur.mp3;un auteur;existe
+mot;4b;listes/4b/un conseiller.mp3;un conseiller;existe
+mot;4b;listes/4b/un cuisinier.mp3;un cuisinier;existe
+mot;4b;listes/4b/un facteur.mp3;un facteur;existe
+mot;4b;listes/4b/un lecteur.mp3;un lecteur;existe
+mot;4b;listes/4b/un prisonnier.mp3;un prisonnier;existe
+mot;4b;listes/4b/un spectateur.mp3;un spectateur;existe
+mot;4b;listes/4b/un visiteur.mp3;un visiteur;existe
+mot;4b;listes/4b/un voleur.mp3;un voleur;existe
+mot;4b;listes/4b/un voyageur.mp3;un voyageur;existe
+mot;4b;listes/4b/une autrice.mp3;une autrice;existe
+mot;4b;listes/4b/une conseillère.mp3;une conseillère;existe
+mot;4b;listes/4b/une cuisinière.mp3;une cuisinière;existe
+mot;4b;listes/4b/une factrice.mp3;une factrice;existe
+mot;4b;listes/4b/une lectrice.mp3;une lectrice;existe
+mot;4b;listes/4b/une prisonnière.mp3;une prisonnière;existe
+mot;4b;listes/4b/une spectatrice.mp3;une spectatrice;existe
+mot;4b;listes/4b/une visiteuse.mp3;une visiteuse;existe
+mot;4b;listes/4b/une voleuse.mp3;une voleuse;existe
+mot;4b;listes/4b/une voyageuse.mp3;une voyageuse;existe
+mot;4b;listes/4b/vif.mp3;vif;existe
+mot;4b;listes/4b/vive.mp3;vive;existe
+phrase;4b;listes/4b/phrases/un conseiller.mp3;Le conseiller aide les élèves à choisir leurs cours.;existe
+phrase;4b;listes/4b/phrases/une conseillère.mp3;La conseillère écoute les élèves qui ont des soucis.;existe
+phrase;4b;listes/4b/phrases/mystérieux.mp3;Un bruit mystérieux vient du grenier.;existe
+phrase;4b;listes/4b/phrases/précieux.mp3;Ce vieux bijou est très précieux.;existe
+phrase;4b;listes/4b/phrases/vif.mp3;Mon chat a un regard vif et rapide.;existe
+phrase;4b;listes/4b/phrases/vive.mp3;Elle porte un chandail de couleur vive.;existe
+phrase;4b;listes/4b/phrases/une autrice.mp3;Une autrice est une femme qui écrit des livres.;existe
+phrase;4b;listes/4b/phrases/une factrice.mp3;La factrice dépose une lettre dans notre boite aux lettres.;existe
+mot;5a;listes/5a/complet.mp3;complet;existe
+mot;5a;listes/5a/complète.mp3;complète;existe
+mot;5a;listes/5a/criminel.mp3;criminel;existe
+mot;5a;listes/5a/criminelle.mp3;criminelle;existe
+mot;5a;listes/5a/discret.mp3;discret;existe
+mot;5a;listes/5a/discrète.mp3;discrète;existe
+mot;5a;listes/5a/naturel.mp3;naturel;existe
+mot;5a;listes/5a/naturelle.mp3;naturelle;existe
+mot;5a;listes/5a/pareil.mp3;pareil;existe
+mot;5a;listes/5a/pareille.mp3;pareille;existe
+mot;5a;listes/5a/un copain.mp3;un copain;existe
+mot;5a;listes/5a/un criminel.mp3;un criminel;existe
+mot;5a;listes/5a/un fou.mp3;un fou;existe
+mot;5a;listes/5a/un naturel.mp3;un naturel;existe
+mot;5a;listes/5a/un patron.mp3;un patron;existe
+mot;5a;listes/5a/un époux.mp3;un époux;existe
+mot;5a;listes/5a/une copine.mp3;une copine;existe
+mot;5a;listes/5a/une criminelle.mp3;une criminelle;existe
+mot;5a;listes/5a/une folle.mp3;une folle;existe
+mot;5a;listes/5a/une patronne.mp3;une patronne;existe
+mot;5a;listes/5a/une épouse.mp3;une épouse;existe
+mot;5a;listes/5a/violet.mp3;violet;existe
+mot;5a;listes/5a/violette.mp3;violette;existe
+phrase;5a;listes/5a/phrases/criminel.mp3;C'est un geste criminel.;existe
+phrase;5a;listes/5a/phrases/criminelle.mp3;C'est une action criminelle.;existe
+phrase;5a;listes/5a/phrases/naturel.mp3;Ce jus est naturel.;existe
+phrase;5a;listes/5a/phrases/naturelle.mp3;Cette eau est naturelle.;existe
+phrase;5a;listes/5a/phrases/pareil.mp3;Ton chandail est pareil au mien.;existe
+phrase;5a;listes/5a/phrases/pareille.mp3;Ta tuque est pareille à la mienne.;existe
+phrase;5a;listes/5a/phrases/un naturel.mp3;Mon chat est d'un naturel calme.;existe
+phrase;5a;listes/5a/phrases/discret.mp3;Mon ami est discret : il garde les secrets.;existe
+phrase;5a;listes/5a/phrases/discrète.mp3;Ma sœur est discrète : elle ne dit rien.;existe
+phrase;5a;listes/5a/phrases/un époux.mp3;Le jour du mariage, elle embrasse son époux.;existe
+phrase;5a;listes/5a/phrases/une épouse.mp3;Mon grand-père offre des fleurs à son épouse.;existe
+mot;5b;listes/5b/calme.mp3;calme;existe
+mot;5b;listes/5b/coupable.mp3;coupable;existe
+mot;5b;listes/5b/célibataire.mp3;célibataire;existe
+mot;5b;listes/5b/immobile.mp3;immobile;existe
+mot;5b;listes/5b/inutile.mp3;inutile;existe
+mot;5b;listes/5b/jeune.mp3;jeune;existe
+mot;5b;listes/5b/militaire.mp3;militaire;existe
+mot;5b;listes/5b/rapide.mp3;rapide;existe
+mot;5b;listes/5b/rare.mp3;rare;existe
+mot;5b;listes/5b/sale.mp3;sale;existe
+mot;5b;listes/5b/sauvage.mp3;sauvage;existe
+mot;5b;listes/5b/sensible.mp3;sensible;existe
+mot;5b;listes/5b/solide.mp3;solide;existe
+mot;5b;listes/5b/un adversaire.mp3;un adversaire;existe
+mot;5b;listes/5b/un artiste.mp3;un artiste;existe
+mot;5b;listes/5b/un coupable.mp3;un coupable;existe
+mot;5b;listes/5b/un célibataire.mp3;un célibataire;existe
+mot;5b;listes/5b/un jeune.mp3;un jeune;existe
+mot;5b;listes/5b/un juge.mp3;un juge;existe
+mot;5b;listes/5b/un militaire.mp3;un militaire;existe
+mot;5b;listes/5b/un ministre.mp3;un ministre;existe
+mot;5b;listes/5b/un partenaire.mp3;un partenaire;existe
+mot;5b;listes/5b/un peintre.mp3;un peintre;existe
+mot;5b;listes/5b/un poète.mp3;un poète;existe
+mot;5b;listes/5b/un solide.mp3;un solide;existe
+mot;5b;listes/5b/une adversaire.mp3;une adversaire;existe
+mot;5b;listes/5b/une artiste.mp3;une artiste;existe
+mot;5b;listes/5b/une coupable.mp3;une coupable;existe
+mot;5b;listes/5b/une célibataire.mp3;une célibataire;existe
+mot;5b;listes/5b/une jeune.mp3;une jeune;existe
+mot;5b;listes/5b/une juge.mp3;une juge;existe
+mot;5b;listes/5b/une militaire.mp3;une militaire;existe
+mot;5b;listes/5b/une ministre.mp3;une ministre;existe
+mot;5b;listes/5b/une partenaire.mp3;une partenaire;existe
+mot;5b;listes/5b/une peintre.mp3;une peintre;existe
+mot;5b;listes/5b/une poète.mp3;une poète;existe
+phrase;5b;listes/5b/phrases/un adversaire.mp3;Après le match, je serre la main de mon adversaire.;existe
+phrase;5b;listes/5b/phrases/un célibataire.mp3;Mon oncle est célibataire : il n'est pas marié.;existe
+phrase;5b;listes/5b/phrases/un partenaire.mp3;Mon partenaire et moi faisons le projet ensemble.;existe
+phrase;5b;listes/5b/phrases/un militaire.mp3;Le militaire porte un uniforme kaki.;existe
+phrase;5b;listes/5b/phrases/immobile.mp3;Le chat reste immobile devant le trou de souris.;existe
+phrase;5b;listes/5b/phrases/sensible.mp3;Ma sœur est sensible : elle pleure aux films tristes.;existe
+phrase;5b;listes/5b/phrases/un ministre.mp3;Le ministre de l'Éducation visite notre école.;existe
+phrase;5b;listes/5b/phrases/un poète.mp3;Le poète écrit un poème sur la mer.;existe
+phrase;5b;listes/5b/phrases/coupable.mp3;Le juge déclare l'homme coupable du vol.;existe
+phrase;5b;listes/5b/phrases/un juge.mp3;Au tribunal, le juge écoute les deux côtés.;existe
+phrase;5b;listes/5b/phrases/jeune.mp3;Mon chien est encore jeune : il a seulement un an.;existe
+phrase;5b;listes/5b/phrases/un jeune.mp3;Un jeune de mon équipe a marqué le but gagnant.;existe
+phrase;5b;listes/5b/phrases/sale.mp3;Après le match, mon chandail est tout sale.;existe
+phrase;5b;listes/5b/phrases/un solide.mp3;Un cube est un solide qui a six faces.;existe
+mot;6a;listes/6a/ambitieux.mp3;ambitieux;existe
+mot;6a;listes/6a/des baux.mp3;des baux;existe
+mot;6a;listes/6a/des bijoux.mp3;des bijoux;existe
+mot;6a;listes/6a/des bétails.mp3;des bétails;existe
+mot;6a;listes/6a/des cailloux.mp3;des cailloux;existe
+mot;6a;listes/6a/des cas.mp3;des cas;existe
+mot;6a;listes/6a/des chandails.mp3;des chandails;existe
+mot;6a;listes/6a/des choux.mp3;des choux;existe
+mot;6a;listes/6a/des clous.mp3;des clous;existe
+mot;6a;listes/6a/des coraux.mp3;des coraux;existe
+mot;6a;listes/6a/des détails.mp3;des détails;existe
+mot;6a;listes/6a/des fils.mp3;des fils;existe
+mot;6a;listes/6a/des fous.mp3;des fous;existe
+mot;6a;listes/6a/des gaz.mp3;des gaz;existe
+mot;6a;listes/6a/des genoux.mp3;des genoux;existe
+mot;6a;listes/6a/des hiboux.mp3;des hiboux;existe
+mot;6a;listes/6a/des joujoux.mp3;des joujoux;existe
+mot;6a;listes/6a/des nez.mp3;des nez;existe
+mot;6a;listes/6a/des poux.mp3;des poux;existe
+mot;6a;listes/6a/des soupiraux.mp3;des soupiraux;existe
+mot;6a;listes/6a/des travaux.mp3;des travaux;existe
+mot;6a;listes/6a/des verrous.mp3;des verrous;existe
+mot;6a;listes/6a/des vitraux.mp3;des vitraux;existe
+mot;6a;listes/6a/des émaux.mp3;des émaux;existe
+mot;6a;listes/6a/généreux.mp3;généreux;existe
+mot;6a;listes/6a/un bail.mp3;un bail;existe
+mot;6a;listes/6a/un bijou.mp3;un bijou;existe
+mot;6a;listes/6a/un bétail.mp3;un bétail;existe
+mot;6a;listes/6a/un caillou.mp3;un caillou;existe
+mot;6a;listes/6a/un cas.mp3;un cas;existe
+mot;6a;listes/6a/un chandail.mp3;un chandail;existe
+mot;6a;listes/6a/un chou.mp3;un chou;existe
+mot;6a;listes/6a/un clou.mp3;un clou;existe
+mot;6a;listes/6a/un corail.mp3;un corail;existe
+mot;6a;listes/6a/un détail.mp3;un détail;existe
+mot;6a;listes/6a/un fils.mp3;un fils;existe
+mot;6a;listes/6a/un fou.mp3;un fou;existe
+mot;6a;listes/6a/un gaz.mp3;un gaz;existe
+mot;6a;listes/6a/un genou.mp3;un genou;existe
+mot;6a;listes/6a/un hibou.mp3;un hibou;existe
+mot;6a;listes/6a/un joujou.mp3;un joujou;existe
+mot;6a;listes/6a/un nez.mp3;un nez;existe
+mot;6a;listes/6a/un pou.mp3;un pou;existe
+mot;6a;listes/6a/un soupirail.mp3;un soupirail;existe
+mot;6a;listes/6a/un travail.mp3;un travail;existe
+mot;6a;listes/6a/un verrou.mp3;un verrou;existe
+mot;6a;listes/6a/un vitrail.mp3;un vitrail;existe
+mot;6a;listes/6a/un émail.mp3;un émail;existe
+phrase;6a;listes/6a/phrases/des fils.mp3;Ma voisine a des fils et des filles.;existe
+phrase;6a;listes/6a/phrases/un bail.mp3;Mes parents signent un bail pour louer l'appartement.;existe
+phrase;6a;listes/6a/phrases/un émail.mp3;L'émail protège nos dents.;existe
+phrase;6a;listes/6a/phrases/un corail.mp3;Les poissons nagent autour du corail.;existe
+phrase;6a;listes/6a/phrases/un soupirail.mp3;Un soupirail laisse entrer un peu de lumière dans la cave.;existe
+phrase;6a;listes/6a/phrases/un vitrail.mp3;Le vitrail de l'église est plein de couleurs.;existe
+phrase;6a;listes/6a/phrases/un verrou.mp3;Je ferme la porte avec un verrou.;existe
+phrase;6a;listes/6a/phrases/un joujou.mp3;Le bébé s'amuse avec son joujou.;existe
+phrase;6a;listes/6a/phrases/ambitieux.mp3;Il est ambitieux : il veut devenir champion.;existe
+phrase;6a;listes/6a/phrases/généreux.mp3;Mon grand-père est généreux : il partage tout.;existe
+phrase;6a;listes/6a/phrases/un pou.mp3;Ma sœur a attrapé un pou à l'école.;existe
+phrase;6a;listes/6a/phrases/des baux.mp3;Le propriétaire de l'immeuble signe des baux avec ses locataires.;existe
+phrase;6a;listes/6a/phrases/des poux.mp3;L'infirmière vérifie si les élèves ont des poux.;existe
+phrase;6a;listes/6a/phrases/un bétail.mp3;Le fermier nourrit son bétail : des vaches et des moutons.;existe
+phrase;6a;listes/6a/phrases/des bétails.mp3;Les fermiers de la région élèvent des bétails variés.;existe
+phrase;6a;listes/6a/phrases/des émaux.mp3;Les émaux donnent des couleurs brillantes aux bijoux anciens.;existe
+phrase;6a;listes/6a/phrases/des coraux.mp3;Les plongeurs admirent des coraux de toutes les couleurs.;existe
+phrase;6a;listes/6a/phrases/des soupiraux.mp3;La lumière entre dans le sous-sol par des soupiraux.;existe
+phrase;6a;listes/6a/phrases/des vitraux.mp3;Les vitraux de l'église brillent au soleil.;existe
+mot;6b;listes/6b/bleu.mp3;bleu;existe
+mot;6b;listes/6b/bleus.mp3;bleus;existe
+mot;6b;listes/6b/des adieux.mp3;des adieux;existe
+mot;6b;listes/6b/des bals.mp3;des bals;existe
+mot;6b;listes/6b/des carnavals.mp3;des carnavals;existe
+mot;6b;listes/6b/des chacals.mp3;des chacals;existe
+mot;6b;listes/6b/des chameaux.mp3;des chameaux;existe
+mot;6b;listes/6b/des eaux.mp3;des eaux;existe
+mot;6b;listes/6b/des festivals.mp3;des festivals;existe
+mot;6b;listes/6b/des feux.mp3;des feux;existe
+mot;6b;listes/6b/des généraux.mp3;des généraux;existe
+mot;6b;listes/6b/des pneus.mp3;des pneus;existe
+mot;6b;listes/6b/des récitals.mp3;des récitals;existe
+mot;6b;listes/6b/des régals.mp3;des régals;existe
+mot;6b;listes/6b/des totaux.mp3;des totaux;existe
+mot;6b;listes/6b/des émeus.mp3;des émeus;existe
+mot;6b;listes/6b/général.mp3;général;existe
+mot;6b;listes/6b/généraux.mp3;généraux;existe
+mot;6b;listes/6b/un adieu.mp3;un adieu;existe
+mot;6b;listes/6b/un bal.mp3;un bal;existe
+mot;6b;listes/6b/un carnaval.mp3;un carnaval;existe
+mot;6b;listes/6b/un chacal.mp3;un chacal;existe
+mot;6b;listes/6b/un chameau.mp3;un chameau;existe
+mot;6b;listes/6b/un festival.mp3;un festival;existe
+mot;6b;listes/6b/un feu.mp3;un feu;existe
+mot;6b;listes/6b/un général.mp3;un général;existe
+mot;6b;listes/6b/un pneu.mp3;un pneu;existe
+mot;6b;listes/6b/un récital.mp3;un récital;existe
+mot;6b;listes/6b/un régal.mp3;un régal;existe
+mot;6b;listes/6b/un total.mp3;un total;existe
+mot;6b;listes/6b/un émeu.mp3;un émeu;existe
+mot;6b;listes/6b/une eau.mp3;une eau;existe
+phrase;6b;listes/6b/phrases/bleu.mp3;Il porte un chandail bleu.;existe
+phrase;6b;listes/6b/phrases/bleus.mp3;Il a les yeux bleus.;existe
+phrase;6b;listes/6b/phrases/général.mp3;En général, je me couche tôt.;existe
+phrase;6b;listes/6b/phrases/généraux.mp3;Les directeurs généraux sont en réunion.;existe
+phrase;6b;listes/6b/phrases/un émeu.mp3;L'émeu est un grand oiseau qui ne vole pas.;existe
+phrase;6b;listes/6b/phrases/un récital.mp3;La chorale donne un récital de chant.;existe
+phrase;6b;listes/6b/phrases/un régal.mp3;Ce gâteau au chocolat est un régal !;existe
+phrase;6b;listes/6b/phrases/un chacal.mp3;Le chacal est un animal sauvage qui ressemble au renard.;existe
+phrase;6b;listes/6b/phrases/un adieu.mp3;Avant de déménager, il fait un adieu à ses amis.;existe
+phrase;6b;listes/6b/phrases/un bal.mp3;La princesse danse au bal du château.;existe
+phrase;6b;listes/6b/phrases/des bals.mp3;Au carnaval, il y a des bals costumés chaque soir.;existe
+phrase;6b;listes/6b/phrases/des eaux.mp3;Les eaux du lac sont froides au printemps.;existe
+phrase;6b;listes/6b/phrases/des adieux.mp3;À la fin de l'été, les campeurs se font des adieux.;existe
+phrase;6b;listes/6b/phrases/des carnavals.mp3;Québec et Rio organisent des carnavals célèbres.;existe
+phrase;6b;listes/6b/phrases/des chacals.mp3;Des chacals rôdent la nuit dans le désert.;existe
+phrase;6b;listes/6b/phrases/un général.mp3;Le général commande toute l'armée.;existe
+phrase;6b;listes/6b/phrases/des généraux.mp3;Les généraux donnent des ordres aux soldats.;existe
+phrase;6b;listes/6b/phrases/des récitals.mp3;Le pianiste donne des récitals partout dans le monde.;existe
+phrase;6b;listes/6b/phrases/des régals.mp3;Les desserts de grand-maman sont toujours des régals.;existe
+phrase;6b;listes/6b/phrases/des totaux.mp3;À la fin du tournoi, on compare les totaux de buts de chaque équipe.;existe
+phrase;6b;listes/6b/phrases/des émeus.mp3;Au zoo, on a vu des émeus courir très vite.;existe
+mot;7;listes/7/avant.mp3;avant;existe
+mot;7;listes/7/avec.mp3;avec;existe
+mot;7;listes/7/bas.mp3;bas;existe
+mot;7;listes/7/brusquement.mp3;brusquement;existe
+mot;7;listes/7/devant.mp3;devant;existe
+mot;7;listes/7/désormais.mp3;désormais;existe
+mot;7;listes/7/fort.mp3;fort;existe
+mot;7;listes/7/haut.mp3;haut;existe
+mot;7;listes/7/hier.mp3;hier;existe
+mot;7;listes/7/hors de.mp3;hors de;existe
+mot;7;listes/7/immédiatement.mp3;immédiatement;existe
+mot;7;listes/7/malgré.mp3;malgré;existe
+mot;7;listes/7/malheureusement.mp3;malheureusement;existe
+mot;7;listes/7/parmi.mp3;parmi;existe
+mot;7;listes/7/plutôt.mp3;plutôt;existe
+mot;7;listes/7/pourtant.mp3;pourtant;existe
+mot;7;listes/7/quelquefois.mp3;quelquefois;existe
+mot;7;listes/7/sauf.mp3;sauf;existe
+mot;7;listes/7/si.mp3;si;existe
+mot;7;listes/7/soudain.mp3;soudain;existe
+mot;7;listes/7/tout à coup.mp3;tout à coup;existe
+mot;7;listes/7/vers.mp3;vers;existe
+mot;7;listes/7/également.mp3;également;existe
+phrase;7;listes/7/phrases/vers.mp3;Le ballon roule vers le but.;existe
+phrase;7;listes/7/phrases/haut.mp3;L'oiseau vole très haut.;existe
+phrase;7;listes/7/phrases/si.mp3;Si tu étudies, tu vas réussir.;existe
+phrase;7;listes/7/phrases/bas.mp3;Parle tout bas, le bébé dort.;existe
+phrase;7;listes/7/phrases/hors de.mp3;Le joueur blessé est maintenant hors de danger.;existe
+phrase;7;listes/7/phrases/fort.mp3;Il frappe le ballon très fort.;existe
+phrase;7;listes/7/phrases/plutôt.mp3;Je préfère le soccer plutôt que le hockey.;existe
+phrase;7;listes/7/phrases/quelquefois.mp3;Quelquefois, je vais au parc après l'école.;existe
+phrase;7;listes/7/phrases/sauf.mp3;Tout le monde, sauf lui.;existe
+phrase;7;listes/7/phrases/désormais.mp3;Désormais, je ferai mes devoirs avant de jouer.;existe
+phrase;7;listes/7/phrases/malgré.mp3;Il joue dehors malgré la pluie.;existe
+phrase;7;listes/7/phrases/pourtant.mp3;Il fait soleil, pourtant il fait froid.;existe
+phrase;7;listes/7/phrases/parmi.mp3;Mon ami est parmi les meilleurs joueurs.;existe
+phrase;7;listes/7/phrases/brusquement.mp3;La porte s'ouvre brusquement.;existe
+phrase;7;listes/7/phrases/également.mp3;J'aime le soccer et également la natation.;existe
+phrase;7;listes/7/phrases/soudain.mp3;Soudain, il se met à pleuvoir.;existe
+phrase;7;listes/7/phrases/immédiatement.mp3;Viens ici immédiatement !;existe
+mot;8;listes/8/atteindre.mp3;atteindre;existe
+mot;8;listes/8/craindre.mp3;craindre;existe
+mot;8;listes/8/important.mp3;important;existe
+mot;8;listes/8/importante.mp3;importante;existe
+mot;8;listes/8/installer.mp3;installer;existe
+mot;8;listes/8/le foin.mp3;le foin;existe
+mot;8;listes/8/lointain.mp3;lointain;existe
+mot;8;listes/8/lointaine.mp3;lointaine;existe
+mot;8;listes/8/peindre.mp3;peindre;existe
+mot;8;listes/8/un dessin.mp3;un dessin;existe
+mot;8;listes/8/un destin.mp3;un destin;existe
+mot;8;listes/8/un individu.mp3;un individu;existe
+mot;8;listes/8/un instrument.mp3;un instrument;existe
+mot;8;listes/8/un lien.mp3;un lien;existe
+mot;8;listes/8/un peintre.mp3;un peintre;existe
+mot;8;listes/8/un pinceau.mp3;un pinceau;existe
+mot;8;listes/8/un sein.mp3;un sein;existe
+mot;8;listes/8/un témoin.mp3;un témoin;existe
+mot;8;listes/8/un vainqueur.mp3;un vainqueur;existe
+mot;8;listes/8/un écrivain.mp3;un écrivain;existe
+mot;8;listes/8/une ceinture.mp3;une ceinture;existe
+mot;8;listes/8/une crainte.mp3;une crainte;existe
+mot;8;listes/8/une information.mp3;une information;existe
+mot;8;listes/8/une peintre.mp3;une peintre;existe
+mot;8;listes/8/une peinture.mp3;une peinture;existe
+phrase;8;listes/8/phrases/un sein.mp3;Le bébé boit le lait au sein de sa maman.;existe
+phrase;8;listes/8/phrases/un dessin.mp3;Il a fait un dessin de son chien.;existe
+phrase;8;listes/8/phrases/atteindre.mp3;Je dois grimper pour atteindre le pot de biscuits.;existe
+phrase;8;listes/8/phrases/craindre.mp3;Il ne faut pas craindre le noir.;existe
+phrase;8;listes/8/phrases/une crainte.mp3;Il a une crainte des araignées.;existe
+phrase;8;listes/8/phrases/lointain.mp3;Il rêve de visiter un pays lointain.;existe
+phrase;8;listes/8/phrases/un vainqueur.mp3;Le vainqueur du match reçoit une médaille.;existe
+phrase;8;listes/8/phrases/un individu.mp3;Un individu bizarre rôde près du parc.;existe
+phrase;8;listes/8/phrases/un destin.mp3;Le héros de l'histoire découvre son destin.;existe
+phrase;8;listes/8/phrases/un témoin.mp3;Le témoin raconte ce qu'il a vu.;existe
+mot;9;listes/9/du riz.mp3;du riz;existe
+mot;9;listes/9/du zèle.mp3;du zèle;existe
+mot;9;listes/9/la vase.mp3;la vase;existe
+mot;9;listes/9/mesurer.mp3;mesurer;existe
+mot;9;listes/9/refuser.mp3;refuser;existe
+mot;9;listes/9/résister.mp3;résister;existe
+mot;9;listes/9/un baiser.mp3;un baiser;existe
+mot;9;listes/9/un désir.mp3;un désir;existe
+mot;9;listes/9/un paysage.mp3;un paysage;existe
+mot;9;listes/9/un résultat.mp3;un résultat;existe
+mot;9;listes/9/un usage.mp3;un usage;existe
+mot;9;listes/9/un vase.mp3;un vase;existe
+mot;9;listes/9/un zeste.mp3;un zeste;existe
+mot;9;listes/9/une base.mp3;une base;existe
+mot;9;listes/9/une brise.mp3;une brise;existe
+mot;9;listes/9/une chemise.mp3;une chemise;existe
+mot;9;listes/9/une civilisation.mp3;une civilisation;existe
+mot;9;listes/9/une décision.mp3;une décision;existe
+mot;9;listes/9/une mesure.mp3;une mesure;existe
+mot;9;listes/9/une mise.mp3;une mise;existe
+mot;9;listes/9/une position.mp3;une position;existe
+mot;9;listes/9/une prise.mp3;une prise;existe
+mot;9;listes/9/une provision.mp3;une provision;existe
+mot;9;listes/9/une remise.mp3;une remise;existe
+mot;9;listes/9/une reprise.mp3;une reprise;existe
+mot;9;listes/9/une réserve.mp3;une réserve;existe
+mot;9;listes/9/une résistance.mp3;une résistance;existe
+mot;9;listes/9/une vision.mp3;une vision;existe
+mot;9;listes/9/une zone.mp3;une zone;existe
+phrase;9;listes/9/phrases/un vase.mp3;Elle met des fleurs dans un vase.;existe
+phrase;9;listes/9/phrases/la vase.mp3;Au fond de l'étang, mes bottes s'enfoncent dans la vase.;existe
+phrase;9;listes/9/phrases/du riz.mp3;Ce soir, on mange du riz.;existe
+phrase;9;listes/9/phrases/un baiser.mp3;Maman me donne un baiser sur la joue.;existe
+phrase;9;listes/9/phrases/une brise.mp3;Une brise légère fait bouger les feuilles.;existe
+phrase;9;listes/9/phrases/une remise.mp3;On range les vélos dans la remise.;existe
+phrase;9;listes/9/phrases/une reprise.mp3;Le joueur marque un but à la reprise du match.;existe
+phrase;9;listes/9/phrases/une civilisation.mp3;Les anciens Égyptiens formaient une grande civilisation.;existe
+phrase;9;listes/9/phrases/une résistance.mp3;Il montre une belle résistance pendant la longue course.;existe
+phrase;9;listes/9/phrases/une provision.mp3;On achète des provisions pour le camping.;existe
+phrase;9;listes/9/phrases/une réserve.mp3;Il garde une réserve d'eau dans son sac.;existe
+phrase;9;listes/9/phrases/du zèle.mp3;Elle range sa chambre avec beaucoup de zèle.;existe
+phrase;9;listes/9/phrases/un zeste.mp3;Maman ajoute un zeste de citron dans le gâteau.;existe
+phrase;9;listes/9/phrases/un usage.mp3;Ce ballon est à l'usage de toute la classe.;existe
+phrase;9;listes/9/phrases/une mise.mp3;L'arbitre fait une mise au jeu.;existe
+phrase;9;listes/9/phrases/résister.mp3;Je ne peux pas résister au chocolat.;existe
+mot;10;listes/10/des totaux.mp3;des totaux;existe
+mot;10;listes/10/la beauté.mp3;la beauté;existe
+mot;10;listes/10/le chômage.mp3;le chômage;existe
+mot;10;listes/10/le contrôle.mp3;le contrôle;existe
+mot;10;listes/10/proposer.mp3;proposer;existe
+mot;10;listes/10/supposer.mp3;supposer;existe
+mot;10;listes/10/totaux.mp3;totaux;existe
+mot;10;listes/10/un canot.mp3;un canot;existe
+mot;10;listes/10/un cerveau.mp3;un cerveau;existe
+mot;10;listes/10/un couteau.mp3;un couteau;existe
+mot;10;listes/10/un drapeau.mp3;un drapeau;existe
+mot;10;listes/10/un défaut.mp3;un défaut;existe
+mot;10;listes/10/un entrepôt.mp3;un entrepôt;existe
+mot;10;listes/10/un hôtel.mp3;un hôtel;existe
+mot;10;listes/10/un maillot.mp3;un maillot;existe
+mot;10;listes/10/un niveau.mp3;un niveau;existe
+mot;10;listes/10/un ordre.mp3;un ordre;existe
+mot;10;listes/10/un os.mp3;un os;existe
+mot;10;listes/10/un sanglot.mp3;un sanglot;existe
+mot;10;listes/10/un troupeau.mp3;un troupeau;existe
+mot;10;listes/10/un tuyau.mp3;un tuyau;existe
+mot;10;listes/10/un violon.mp3;un violon;existe
+mot;10;listes/10/un vol.mp3;un vol;existe
+mot;10;listes/10/une auberge.mp3;une auberge;existe
+mot;10;listes/10/une augmentation.mp3;une augmentation;existe
+mot;10;listes/10/une aurore.mp3;une aurore;existe
+mot;10;listes/10/une autorité.mp3;une autorité;existe
+mot;10;listes/10/une clôture.mp3;une clôture;existe
+mot;10;listes/10/une opinion.mp3;une opinion;existe
+mot;10;listes/10/une paume.mp3;une paume;existe
+mot;10;listes/10/une pause.mp3;une pause;existe
+mot;10;listes/10/une pose.mp3;une pose;existe
+phrase;10;listes/10/phrases/une pose.mp3;Pour la photo, je prends une pose amusante.;existe
+phrase;10;listes/10/phrases/une pause.mp3;Après le dîner, on prend une pause.;existe
+phrase;10;listes/10/phrases/une paume.mp3;Il tient la balle dans la paume de sa main.;existe
+phrase;10;listes/10/phrases/un sanglot.mp3;L'enfant parle entre deux sanglots.;existe
+phrase;10;listes/10/phrases/le chômage.mp3;Mon voisin a perdu son emploi : il est au chômage.;existe
+phrase;10;listes/10/phrases/un entrepôt.mp3;Les boîtes sont rangées dans un grand entrepôt.;existe
+phrase;10;listes/10/phrases/une auberge.mp3;Pendant le voyage, on dort dans une auberge.;existe
+phrase;10;listes/10/phrases/une aurore.mp3;Les oiseaux chantent à l'aurore, quand le jour se lève.;existe
+phrase;10;listes/10/phrases/une augmentation.mp3;Il y a eu une augmentation du prix des bonbons.;existe
+phrase;10;listes/10/phrases/une autorité.mp3;La directrice a l'autorité dans l'école.;existe
+phrase;10;listes/10/phrases/un défaut.mp3;Ce chandail a un petit défaut : un trou.;existe
+phrase;10;listes/10/phrases/un troupeau.mp3;Le berger garde son troupeau de moutons.;existe
+phrase;10;listes/10/phrases/supposer.mp3;On peut supposer qu'il va pleuvoir ce soir.;existe
+phrase;10;listes/10/phrases/proposer.mp3;Je vais proposer une idée à mon équipe.;existe
+phrase;10;listes/10/phrases/un hôtel.mp3;En vacances, on dort dans un hôtel près de la plage.;existe
+phrase;10;listes/10/phrases/totaux.mp3;Les frais totaux du voyage sont plus élevés que prévu.;existe
+phrase;10;listes/10/phrases/des totaux.mp3;À la fin du tournoi, on compare les totaux de buts de chaque équipe.;existe
+mot;11;listes/11/des funérailles.mp3;des funérailles;existe
+mot;11;listes/11/des félicitations.mp3;des félicitations;existe
+mot;11;listes/11/du foin.mp3;du foin;existe
+mot;11;listes/11/former.mp3;former;existe
+mot;11;listes/11/souffrir.mp3;souffrir;existe
+mot;11;listes/11/un chauffage.mp3;un chauffage;existe
+mot;11;listes/11/un coffre.mp3;un coffre;existe
+mot;11;listes/11/un fardeau.mp3;un fardeau;existe
+mot;11;listes/11/un four.mp3;un four;existe
+mot;11;listes/11/un foyer.mp3;un foyer;existe
+mot;11;listes/11/un parfum.mp3;un parfum;existe
+mot;11;listes/11/un plafond.mp3;un plafond;existe
+mot;11;listes/11/une atmosphère.mp3;une atmosphère;existe
+mot;11;listes/11/une défaite.mp3;une défaite;existe
+mot;11;listes/11/une faveur.mp3;une faveur;existe
+mot;11;listes/11/une file.mp3;une file;existe
+mot;11;listes/11/une flamme.mp3;une flamme;existe
+mot;11;listes/11/une flotte.mp3;une flotte;existe
+mot;11;listes/11/une flûte.mp3;une flûte;existe
+mot;11;listes/11/une formule.mp3;une formule;existe
+mot;11;listes/11/une fortune.mp3;une fortune;existe
+mot;11;listes/11/une fourrure.mp3;une fourrure;existe
+mot;11;listes/11/une fuite.mp3;une fuite;existe
+mot;11;listes/11/une fureur.mp3;une fureur;existe
+mot;11;listes/11/une indifférence.mp3;une indifférence;existe
+mot;11;listes/11/une manifestation.mp3;une manifestation;existe
+mot;11;listes/11/une orthographe.mp3;une orthographe;existe
+mot;11;listes/11/une philosophie.mp3;une philosophie;existe
+mot;11;listes/11/une photographie.mp3;une photographie;existe
+mot;11;listes/11/une réforme.mp3;une réforme;existe
+mot;11;listes/11/une soif.mp3;une soif;existe
+phrase;11;listes/11/phrases/un fardeau.mp3;Ce gros sac est un lourd fardeau.;existe
+phrase;11;listes/11/phrases/une flotte.mp3;Une flotte de bateaux arrive au port.;existe
+phrase;11;listes/11/phrases/une défaite.mp3;Notre équipe a subi une défaite.;existe
+phrase;11;listes/11/phrases/une réforme.mp3;Le gouvernement fait une réforme des écoles.;existe
+phrase;11;listes/11/phrases/des funérailles.mp3;Toute la famille assiste aux funérailles de l'arrière-grand-mère.;existe
+phrase;11;listes/11/phrases/des félicitations.mp3;Bravo ! Toutes mes félicitations pour ta médaille.;existe
+phrase;11;listes/11/phrases/une fureur.mp3;Le lion rugit de fureur.;existe
+phrase;11;listes/11/phrases/une manifestation.mp3;Les gens marchent dans la rue pour une manifestation.;existe
+phrase;11;listes/11/phrases/une atmosphère.mp3;La Terre est entourée d'une atmosphère d'air.;existe
+phrase;11;listes/11/phrases/une philosophie.mp3;La philosophie, c'est réfléchir aux grandes questions de la vie.;existe
+phrase;11;listes/11/phrases/une indifférence.mp3;Il regarde le match avec indifférence : ça ne l'intéresse pas.;existe
+phrase;11;listes/11/phrases/une faveur.mp3;Peux-tu me faire une faveur ?;existe
+phrase;11;listes/11/phrases/une fortune.mp3;Ce trésor vaut une fortune.;existe
+phrase;11;listes/11/phrases/un foyer.mp3;On fait un feu dans le foyer du salon.;existe
+mot;12;listes/12/admirer.mp3;admirer;existe
+mot;12;listes/12/aimé.mp3;aimé;existe
+mot;12;listes/12/allé.mp3;allé;existe
+mot;12;listes/12/briller.mp3;briller;existe
+mot;12;listes/12/charger.mp3;charger;existe
+mot;12;listes/12/charmer.mp3;charmer;existe
+mot;12;listes/12/coller.mp3;coller;existe
+mot;12;listes/12/commencé.mp3;commencé;existe
+mot;12;listes/12/douter.mp3;douter;existe
+mot;12;listes/12/durer.mp3;durer;existe
+mot;12;listes/12/désirer.mp3;désirer;existe
+mot;12;listes/12/entier.mp3;entier;existe
+mot;12;listes/12/filer.mp3;filer;existe
+mot;12;listes/12/habiller.mp3;habiller;existe
+mot;12;listes/12/lier.mp3;lier;existe
+mot;12;listes/12/mangé.mp3;mangé;existe
+mot;12;listes/12/noter.mp3;noter;existe
+mot;12;listes/12/ouvrier.mp3;ouvrier;existe
+mot;12;listes/12/regretter.mp3;regretter;existe
+mot;12;listes/12/relever.mp3;relever;existe
+mot;12;listes/12/retirer.mp3;retirer;existe
+mot;12;listes/12/régler.mp3;régler;existe
+mot;12;listes/12/régulier.mp3;régulier;existe
+mot;12;listes/12/trainer.mp3;trainer;existe
+mot;12;listes/12/un atelier.mp3;un atelier;existe
+mot;12;listes/12/un cahier.mp3;un cahier;existe
+mot;12;listes/12/un cuisinier.mp3;un cuisinier;existe
+mot;12;listes/12/un infirmier.mp3;un infirmier;existe
+mot;12;listes/12/un panier.mp3;un panier;existe
+mot;12;listes/12/un policier.mp3;un policier;existe
+mot;12;listes/12/un prisonnier.mp3;un prisonnier;existe
+mot;12;listes/12/un rocher.mp3;un rocher;existe
+mot;12;listes/12/un thé.mp3;un thé;existe
+mot;12;listes/12/un voilier.mp3;un voilier;existe
+mot;12;listes/12/éprouver.mp3;éprouver;existe
+mot;12;listes/12/étonner.mp3;étonner;existe
+phrase;12;listes/12/phrases/admirer.mp3;J'aime admirer les étoiles le soir.;existe
+phrase;12;listes/12/phrases/aimé.mp3;Il a aimé le film.;existe
+phrase;12;listes/12/phrases/allé.mp3;Mon frère est allé au parc.;existe
+phrase;12;listes/12/phrases/briller.mp3;Les étoiles vont briller cette nuit.;existe
+phrase;12;listes/12/phrases/charger.mp3;Il faut charger la tablette avant de partir.;existe
+phrase;12;listes/12/phrases/charmer.mp3;Le magicien veut charmer le public.;existe
+phrase;12;listes/12/phrases/coller.mp3;Je dois coller l'image dans mon album.;existe
+phrase;12;listes/12/phrases/commencé.mp3;Le match a commencé à midi.;existe
+phrase;12;listes/12/phrases/douter.mp3;Tu ne dois pas douter de toi.;existe
+phrase;12;listes/12/phrases/durer.mp3;Le match va durer quatre-vingt-dix minutes.;existe
+phrase;12;listes/12/phrases/désirer.mp3;Il ne faut pas désirer tout ce qu'on voit.;existe
+phrase;12;listes/12/phrases/filer.mp3;Il est tard, je dois filer à la maison.;existe
+phrase;12;listes/12/phrases/habiller.mp3;Papa va habiller le bébé.;existe
+phrase;12;listes/12/phrases/lier.mp3;Il faut lier les deux cordes ensemble.;existe
+phrase;12;listes/12/phrases/mangé.mp3;Hier, j'ai mangé une pomme.;existe
+phrase;12;listes/12/phrases/noter.mp3;Je vais noter mes devoirs dans mon agenda.;existe
+phrase;12;listes/12/phrases/regretter.mp3;Tu vas regretter de ne pas être venu.;existe
+phrase;12;listes/12/phrases/relever.mp3;Notre équipe va relever le défi.;existe
+phrase;12;listes/12/phrases/retirer.mp3;Je vais retirer mes bottes en entrant.;existe
+phrase;12;listes/12/phrases/régler.mp3;Il faut régler le réveil pour demain.;existe
+phrase;12;listes/12/phrases/trainer.mp3;Ne laisse pas trainer tes souliers.;existe
+phrase;12;listes/12/phrases/éprouver.mp3;On peut éprouver de la joie en gagnant un match.;existe
+phrase;12;listes/12/phrases/étonner.mp3;Ce tour de magie va t'étonner.;existe
+phrase;12;listes/12/phrases/entier.mp3;Il a lu le livre en entier.;existe
+phrase;12;listes/12/phrases/régulier.mp3;Il fait un entrainement régulier.;existe
+phrase;12;listes/12/phrases/ouvrier.mp3;Un ouvrier répare la route.;existe
+phrase;12;listes/12/phrases/un atelier.mp3;Mon père répare son vélo dans son atelier.;existe
+phrase;12;listes/12/phrases/un voilier.mp3;Un voilier glisse sur le lac grâce au vent.;existe
+phrase;12;listes/12/phrases/un prisonnier.mp3;Le prisonnier est enfermé dans sa cellule.;existe
+phrase;12;listes/12/phrases/un thé.mp3;Grand-maman boit un thé chaud avec du miel.;existe
+mot;13;listes/13/la pitié.mp3;la pitié;existe
+mot;13;listes/13/une activité.mp3;une activité;existe
+mot;13;listes/13/une allée.mp3;une allée;existe
+mot;13;listes/13/une armée.mp3;une armée;existe
+mot;13;listes/13/une bonté.mp3;une bonté;existe
+mot;13;listes/13/une cheminée.mp3;une cheminée;existe
+mot;13;listes/13/une cité.mp3;une cité;existe
+mot;13;listes/13/une clarté.mp3;une clarté;existe
+mot;13;listes/13/une curiosité.mp3;une curiosité;existe
+mot;13;listes/13/une fierté.mp3;une fierté;existe
+mot;13;listes/13/une fumée.mp3;une fumée;existe
+mot;13;listes/13/une fusée.mp3;une fusée;existe
+mot;13;listes/13/une hostilité.mp3;une hostilité;existe
+mot;13;listes/13/une liberté.mp3;une liberté;existe
+mot;13;listes/13/une majorité.mp3;une majorité;existe
+mot;13;listes/13/une marée.mp3;une marée;existe
+mot;13;listes/13/une obscurité.mp3;une obscurité;existe
+mot;13;listes/13/une pauvreté.mp3;une pauvreté;existe
+mot;13;listes/13/une plongée.mp3;une plongée;existe
+mot;13;listes/13/une portée.mp3;une portée;existe
+mot;13;listes/13/une possibilité.mp3;une possibilité;existe
+mot;13;listes/13/une propriété.mp3;une propriété;existe
+mot;13;listes/13/une publicité.mp3;une publicité;existe
+mot;13;listes/13/une qualité.mp3;une qualité;existe
+mot;13;listes/13/une quantité.mp3;une quantité;existe
+mot;13;listes/13/une responsabilité.mp3;une responsabilité;existe
+mot;13;listes/13/une sensibilité.mp3;une sensibilité;existe
+mot;13;listes/13/une société.mp3;une société;existe
+mot;13;listes/13/une sévérité.mp3;une sévérité;existe
+mot;13;listes/13/une unanimité.mp3;une unanimité;existe
+mot;13;listes/13/une université.mp3;une université;existe
+mot;13;listes/13/une vallée.mp3;une vallée;existe
+mot;13;listes/13/une volonté.mp3;une volonté;existe
+phrase;13;listes/13/phrases/une portée.mp3;La chienne a eu une portée de cinq chiots.;existe
+phrase;13;listes/13/phrases/une hostilité.mp3;Les deux chats se regardent avec hostilité.;existe
+phrase;13;listes/13/phrases/une majorité.mp3;La majorité des élèves aiment la récréation.;existe
+phrase;13;listes/13/phrases/une obscurité.mp3;Dans l'obscurité, on ne voit rien.;existe
+phrase;13;listes/13/phrases/une pauvreté.mp3;Certaines familles vivent dans la pauvreté.;existe
+phrase;13;listes/13/phrases/une sévérité.mp3;La directrice parle avec sévérité.;existe
+phrase;13;listes/13/phrases/une unanimité.mp3;Tout le monde est d'accord : c'est l'unanimité !;existe
+phrase;13;listes/13/phrases/une propriété.mp3;Cette maison est la propriété de mes grands-parents.;existe
+phrase;13;listes/13/phrases/une marée.mp3;À marée basse, on ramasse des coquillages.;existe
+phrase;13;listes/13/phrases/une plongée.mp3;On fait de la plongée pour voir les poissons.;existe
+phrase;13;listes/13/phrases/une clarté.mp3;La clarté de la lune éclaire le chemin.;existe
+phrase;13;listes/13/phrases/une cité.mp3;Une cité, c'est une grande ville.;existe
+phrase;13;listes/13/phrases/une bonté.mp3;Elle aide les autres par bonté.;existe
+phrase;13;listes/13/phrases/la pitié.mp3;J'ai pitié du petit chat sous la pluie.;existe
+phrase;13;listes/13/phrases/une responsabilité.mp3;Nourrir le chien est ma responsabilité.;existe
+phrase;13;listes/13/phrases/une sensibilité.mp3;Elle joue du piano avec beaucoup de sensibilité.;existe
+phrase;13;listes/13/phrases/une allée.mp3;Une longue allée d'arbres mène à la maison.;existe
+mot;14-15;listes/14-15/convenir.mp3;convenir;existe
+mot;14-15;listes/14-15/couvrir.mp3;couvrir;existe
+mot;14-15;listes/14-15/creuser.mp3;creuser;existe
+mot;14-15;listes/14-15/cuire.mp3;cuire;existe
+mot;14-15;listes/14-15/reconnaitre.mp3;reconnaitre;existe
+mot;14-15;listes/14-15/ridicule.mp3;ridicule;existe
+mot;14-15;listes/14-15/un article.mp3;un article;existe
+mot;14-15;listes/14-15/un avocat.mp3;un avocat;existe
+mot;14-15;listes/14-15/un canon.mp3;un canon;existe
+mot;14-15;listes/14-15/un cap.mp3;un cap;existe
+mot;14-15;listes/14-15/un caractère.mp3;un caractère;existe
+mot;14-15;listes/14-15/un casque.mp3;un casque;existe
+mot;14-15;listes/14-15/un cauchemar.mp3;un cauchemar;existe
+mot;14-15;listes/14-15/un cercle.mp3;un cercle;existe
+mot;14-15;listes/14-15/un col.mp3;un col;existe
+mot;14-15;listes/14-15/un collier.mp3;un collier;existe
+mot;14-15;listes/14-15/un comptoir.mp3;un comptoir;existe
+mot;14-15;listes/14-15/un concours.mp3;un concours;existe
+mot;14-15;listes/14-15/un contact.mp3;un contact;existe
+mot;14-15;listes/14-15/un contenu.mp3;un contenu;existe
+mot;14-15;listes/14-15/un corridor.mp3;un corridor;existe
+mot;14-15;listes/14-15/un couloir.mp3;un couloir;existe
+mot;14-15;listes/14-15/un couple.mp3;un couple;existe
+mot;14-15;listes/14-15/un couvercle.mp3;un couvercle;existe
+mot;14-15;listes/14-15/un crime.mp3;un crime;existe
+mot;14-15;listes/14-15/un crâne.mp3;un crâne;existe
+mot;14-15;listes/14-15/un cuir.mp3;un cuir;existe
+mot;14-15;listes/14-15/un décor.mp3;un décor;existe
+mot;14-15;listes/14-15/un flocon.mp3;un flocon;existe
+mot;14-15;listes/14-15/un miracle.mp3;un miracle;existe
+mot;14-15;listes/14-15/un muscle.mp3;un muscle;existe
+mot;14-15;listes/14-15/un médicament.mp3;un médicament;existe
+mot;14-15;listes/14-15/un obstacle.mp3;un obstacle;existe
+mot;14-15;listes/14-15/un véhicule.mp3;un véhicule;existe
+mot;14-15;listes/14-15/un écart.mp3;un écart;existe
+mot;14-15;listes/14-15/un éclat.mp3;un éclat;existe
+mot;14-15;listes/14-15/un écran.mp3;un écran;existe
+mot;14-15;listes/14-15/un écrivain.mp3;un écrivain;existe
+mot;14-15;listes/14-15/une avocate.mp3;une avocate;existe
+mot;14-15;listes/14-15/une cloche.mp3;une cloche;existe
+mot;14-15;listes/14-15/une colle.mp3;une colle;existe
+mot;14-15;listes/14-15/une colline.mp3;une colline;existe
+mot;14-15;listes/14-15/une conduite.mp3;une conduite;existe
+mot;14-15;listes/14-15/une corne.mp3;une corne;existe
+mot;14-15;listes/14-15/une couche.mp3;une couche;existe
+mot;14-15;listes/14-15/une crinière.mp3;une crinière;existe
+mot;14-15;listes/14-15/une découverte.mp3;une découverte;existe
+mot;14-15;listes/14-15/une encre.mp3;une encre;existe
+mot;14-15;listes/14-15/une rancune.mp3;une rancune;existe
+mot;14-15;listes/14-15/une récréation.mp3;une récréation;existe
+mot;14-15;listes/14-15/une sécurité.mp3;une sécurité;existe
+mot;14-15;listes/14-15/une écorce.mp3;une écorce;existe
+mot;14-15;listes/14-15/une écriture.mp3;une écriture;existe
+mot;14-15;listes/14-15/une écrivaine.mp3;une écrivaine;existe
+phrase;14-15;listes/14-15/phrases/une encre.mp3;J'écris avec une encre bleue.;existe
+phrase;14-15;listes/14-15/phrases/un comptoir.mp3;Le vendeur pose la monnaie sur le comptoir.;existe
+phrase;14-15;listes/14-15/phrases/une écorce.mp3;L'écorce de l'arbre est rugueuse.;existe
+phrase;14-15;listes/14-15/phrases/un canon.mp3;Le pirate tire un coup de canon.;existe
+phrase;14-15;listes/14-15/phrases/un cap.mp3;Le bateau passe près du cap, au bout de la terre.;existe
+phrase;14-15;listes/14-15/phrases/une crinière.mp3;Le lion a une grande crinière.;existe
+phrase;14-15;listes/14-15/phrases/un corridor.mp3;Ne cours pas dans le corridor !;existe
+phrase;14-15;listes/14-15/phrases/un écart.mp3;Il y a un grand écart entre les deux équipes.;existe
+phrase;14-15;listes/14-15/phrases/une rancune.mp3;Il garde de la rancune contre celui qui l'a trompé.;existe
+phrase;14-15;listes/14-15/phrases/un couvercle.mp3;Mets le couvercle sur la casserole.;existe
+phrase;14-15;listes/14-15/phrases/un col.mp3;Le col de ma chemise est froissé.;existe
+phrase;14-15;listes/14-15/phrases/ridicule.mp3;Ce chapeau géant est ridicule !;existe
+phrase;14-15;listes/14-15/phrases/un décor.mp3;Le décor de la pièce de théâtre est magnifique.;existe
+phrase;14-15;listes/14-15/phrases/convenir.mp3;Cette heure peut convenir à tout le monde.;existe
+phrase;14-15;listes/14-15/phrases/un éclat.mp3;Un éclat de verre est tombé par terre.;existe
+phrase;14-15;listes/14-15/phrases/un obstacle.mp3;Le cheval saute par-dessus un obstacle.;existe
+phrase;14-15;listes/14-15/phrases/un véhicule.mp3;Une auto est un véhicule.;existe
+phrase;14-15;listes/14-15/phrases/une conduite.mp3;Bravo pour ta bonne conduite en classe.;existe
+phrase;14-15;listes/14-15/phrases/un cuir.mp3;Mon père porte un manteau de cuir.;existe
+phrase;14-15;listes/14-15/phrases/cuire.mp3;Il faut faire cuire les pâtes dix minutes.;existe
+phrase;14-15;listes/14-15/phrases/une colle.mp3;Pour mon bricolage, il me faut un bâton de colle.;existe
+mot;16;listes/16/la mathématique.mp3;la mathématique;existe
+mot;16;listes/16/le tact.mp3;le tact;existe
+mot;16;listes/16/liquide.mp3;liquide;existe
+mot;16;listes/16/piquer.mp3;piquer;existe
+mot;16;listes/16/public.mp3;public;existe
+mot;16;listes/16/publique.mp3;publique;existe
+mot;16;listes/16/un aquarium.mp3;un aquarium;existe
+mot;16;listes/16/un choc.mp3;un choc;existe
+mot;16;listes/16/un insecte.mp3;un insecte;existe
+mot;16;listes/16/un klaxon.mp3;un klaxon;existe
+mot;16;listes/16/un liquide.mp3;un liquide;existe
+mot;16;listes/16/un manque.mp3;un manque;existe
+mot;16;listes/16/un objectif.mp3;un objectif;existe
+mot;16;listes/16/un public.mp3;un public;existe
+mot;16;listes/16/un quai.mp3;un quai;existe
+mot;16;listes/16/un risque.mp3;un risque;existe
+mot;16;listes/16/un truc.mp3;un truc;existe
+mot;16;listes/16/un équilibre.mp3;un équilibre;existe
+mot;16;listes/16/un équipage.mp3;un équipage;existe
+mot;16;listes/16/une boutique.mp3;une boutique;existe
+mot;16;listes/16/une clinique.mp3;une clinique;existe
+mot;16;listes/16/une conviction.mp3;une conviction;existe
+mot;16;listes/16/une directive.mp3;une directive;existe
+mot;16;listes/16/une facture.mp3;une facture;existe
+mot;16;listes/16/une fonction.mp3;une fonction;existe
+mot;16;listes/16/une inquiétude.mp3;une inquiétude;existe
+mot;16;listes/16/une instruction.mp3;une instruction;existe
+mot;16;listes/16/une marque.mp3;une marque;existe
+mot;16;listes/16/une objection.mp3;une objection;existe
+mot;16;listes/16/une panique.mp3;une panique;existe
+mot;16;listes/16/une plaque.mp3;une plaque;existe
+mot;16;listes/16/une politique.mp3;une politique;existe
+mot;16;listes/16/une remarque.mp3;une remarque;existe
+mot;16;listes/16/une tactique.mp3;une tactique;existe
+mot;16;listes/16/une technique.mp3;une technique;existe
+mot;16;listes/16/une victime.mp3;une victime;existe
+mot;16;listes/16/une victoire.mp3;une victoire;existe
+phrase;16;listes/16/phrases/public.mp3;Le parc est un lieu public.;existe
+phrase;16;listes/16/phrases/publique.mp3;La piscine publique ouvre en juin.;existe
+phrase;16;listes/16/phrases/une objection.mp3;Pas d'objection : on part à huit heures.;existe
+phrase;16;listes/16/phrases/une conviction.mp3;Il défend son idée avec conviction.;existe
+phrase;16;listes/16/phrases/une directive.mp3;Le professeur donne une directive claire.;existe
+phrase;16;listes/16/phrases/le tact.mp3;Elle annonce la mauvaise nouvelle avec tact.;existe
+phrase;16;listes/16/phrases/un objectif.mp3;Mon objectif est de marquer un but.;existe
+phrase;16;listes/16/phrases/une inquiétude.mp3;Ma mère a de l'inquiétude quand je rentre tard.;existe
+phrase;16;listes/16/phrases/un équipage.mp3;L'équipage du bateau hisse les voiles.;existe
+phrase;16;listes/16/phrases/un équilibre.mp3;Je garde mon équilibre sur une jambe.;existe
+phrase;16;listes/16/phrases/une tactique.mp3;Le coach explique une nouvelle tactique.;existe
+phrase;16;listes/16/phrases/une politique.mp3;La politique, c'est la façon de diriger un pays.;existe
+phrase;16;listes/16/phrases/une clinique.mp3;Je vais à la clinique pour un vaccin.;existe
+phrase;16;listes/16/phrases/un klaxon.mp3;Le chauffeur appuie sur le klaxon.;existe
+phrase;16;listes/16/phrases/un public.mp3;Le public applaudit les joueurs à la fin du match.;existe
+phrase;16;listes/16/phrases/la mathématique.mp3;La mathématique est la science des nombres et des formes.;existe
+phrase;16;listes/16/phrases/un quai.mp3;Le bateau est attaché au quai.;existe
+mot;17;listes/17/parce que.mp3;parce que;existe
+mot;17;listes/17/pourquoi.mp3;pourquoi;existe
+mot;17;listes/17/quand.mp3;quand;existe
+mot;17;listes/17/quarante.mp3;quarante;existe
+mot;17;listes/17/quatre.mp3;quatre;existe
+mot;17;listes/17/quel.mp3;quel;existe
+mot;17;listes/17/quelle.mp3;quelle;existe
+mot;17;listes/17/qui.mp3;qui;existe
+phrase;17;listes/17/phrases/quand.mp3;Je mange quand j'ai faim.;existe
+phrase;17;listes/17/phrases/quel.mp3;Quel jour sommes-nous ?;existe
+phrase;17;listes/17/phrases/quelle.mp3;Quelle heure est-il ?;existe
+phrase;17;listes/17/phrases/pourquoi.mp3;Pourquoi est-ce que tu ris ?;existe
+phrase;17;listes/17/phrases/qui.mp3;Qui a marqué le but ?;existe
+mot;18;listes/18/atteindre.mp3;atteindre;existe
+mot;18;listes/18/un accordéon.mp3;un accordéon;existe
+mot;18;listes/18/un accueil.mp3;un accueil;existe
+mot;18;listes/18/un accès.mp3;un accès;existe
+mot;18;listes/18/un appareil.mp3;un appareil;existe
+mot;18;listes/18/un appel.mp3;un appel;existe
+mot;18;listes/18/un applaudissement.mp3;un applaudissement;existe
+mot;18;listes/18/un appétit.mp3;un appétit;existe
+mot;18;listes/18/un effort.mp3;un effort;existe
+mot;18;listes/18/un effroi.mp3;un effroi;existe
+mot;18;listes/18/une acclamation.mp3;une acclamation;existe
+mot;18;listes/18/une accusation.mp3;une accusation;existe
+mot;18;listes/18/une affiche.mp3;une affiche;existe
+mot;18;listes/18/une affirmation.mp3;une affirmation;existe
+mot;18;listes/18/une apparence.mp3;une apparence;existe
+mot;18;listes/18/une apparition.mp3;une apparition;existe
+mot;18;listes/18/une application.mp3;une application;existe
+mot;18;listes/18/une attaque.mp3;une attaque;existe
+mot;18;listes/18/une attente.mp3;une attente;existe
+mot;18;listes/18/une attitude.mp3;une attitude;existe
+phrase;18;listes/18/phrases/une acclamation.mp3;Le chanteur entre sous les acclamations du public.;existe
+phrase;18;listes/18/phrases/une accusation.mp3;Il nie l'accusation d'avoir triché.;existe
+phrase;18;listes/18/phrases/une affirmation.mp3;Cette affirmation est vraie.;existe
+phrase;18;listes/18/phrases/une apparence.mp3;Il ne faut pas juger les gens sur leur apparence.;existe
+phrase;18;listes/18/phrases/une apparition.mp3;Le fantôme fait une apparition dans le film.;existe
+phrase;18;listes/18/phrases/un effroi.mp3;Il crie d'effroi en voyant l'ours.;existe
+phrase;18;listes/18/phrases/un accordéon.mp3;Mon grand-père joue de l'accordéon.;existe
+phrase;18;listes/18/phrases/un applaudissement.mp3;Les applaudissements remplissent la salle.;existe
+phrase;18;listes/18/phrases/un accueil.mp3;Nos voisins nous ont fait un accueil chaleureux.;existe
+mot;19;listes/19/maladroit.mp3;maladroit;existe
+mot;19;listes/19/maladroite.mp3;maladroite;existe
+mot;19;listes/19/malheureux.mp3;malheureux;existe
+mot;19;listes/19/un aboiement.mp3;un aboiement;existe
+mot;19;listes/19/un chauffage.mp3;un chauffage;existe
+mot;19;listes/19/un cuisinier.mp3;un cuisinier;existe
+mot;19;listes/19/un désespoir.mp3;un désespoir;existe
+mot;19;listes/19/un désordre.mp3;un désordre;existe
+mot;19;listes/19/un francophone.mp3;un francophone;existe
+mot;19;listes/19/un hurlement.mp3;un hurlement;existe
+mot;19;listes/19/un immeuble.mp3;un immeuble;existe
+mot;19;listes/19/un infirmier.mp3;un infirmier;existe
+mot;19;listes/19/un parapluie.mp3;un parapluie;existe
+mot;19;listes/19/un prénom.mp3;un prénom;existe
+mot;19;listes/19/un étonnement.mp3;un étonnement;existe
+mot;19;listes/19/une francophone.mp3;une francophone;existe
+mot;19;listes/19/une indifférence.mp3;une indifférence;existe
+phrase;19;listes/19/phrases/un désespoir.mp3;Après la défaite, il pleure de désespoir.;existe
+phrase;19;listes/19/phrases/maladroit.mp3;Il est maladroit : il échappe tout.;existe
+phrase;19;listes/19/phrases/un aboiement.mp3;On entend l'aboiement du chien.;existe
+phrase;19;listes/19/phrases/un hurlement.mp3;Le loup pousse un hurlement dans la nuit.;existe
+phrase;19;listes/19/phrases/un francophone.mp3;Un francophone est une personne qui parle français.;existe
+phrase;19;listes/19/phrases/un immeuble.mp3;Ma tante habite au dixième étage d'un immeuble.;existe
+phrase;19;listes/19/phrases/une indifférence.mp3;Il regarde le match avec indifférence : ça ne l'intéresse pas.;existe
+phrase;19;listes/19/phrases/un étonnement.mp3;Il regarde le tour de magie avec étonnement.;existe
+mot;20;listes/20/la police.mp3;la police;existe
+mot;20;listes/20/saisir.mp3;saisir;existe
+mot;20;listes/20/solide.mp3;solide;existe
+mot;20;listes/20/un bénéfice.mp3;un bénéfice;existe
+mot;20;listes/20/un commerce.mp3;un commerce;existe
+mot;20;listes/20/un indice.mp3;un indice;existe
+mot;20;listes/20/un savon.mp3;un savon;existe
+mot;20;listes/20/un sentiment.mp3;un sentiment;existe
+mot;20;listes/20/un siècle.mp3;un siècle;existe
+mot;20;listes/20/un solide.mp3;un solide;existe
+mot;20;listes/20/un soupir.mp3;un soupir;existe
+mot;20;listes/20/un style.mp3;un style;existe
+mot;20;listes/20/un succès.mp3;un succès;existe
+mot;20;listes/20/un séjour.mp3;un séjour;existe
+mot;20;listes/20/une annonce.mp3;une annonce;existe
+mot;20;listes/20/une cicatrice.mp3;une cicatrice;existe
+mot;20;listes/20/une circonstance.mp3;une circonstance;existe
+mot;20;listes/20/une injustice.mp3;une injustice;existe
+mot;20;listes/20/une lectrice.mp3;une lectrice;existe
+mot;20;listes/20/une menace.mp3;une menace;existe
+mot;20;listes/20/une patience.mp3;une patience;existe
+mot;20;listes/20/une prudence.mp3;une prudence;existe
+mot;20;listes/20/une race.mp3;une race;existe
+mot;20;listes/20/une satisfaction.mp3;une satisfaction;existe
+mot;20;listes/20/une sensation.mp3;une sensation;existe
+mot;20;listes/20/une serrure.mp3;une serrure;existe
+mot;20;listes/20/une silhouette.mp3;une silhouette;existe
+mot;20;listes/20/une solitude.mp3;une solitude;existe
+mot;20;listes/20/une somme.mp3;une somme;existe
+mot;20;listes/20/une source.mp3;une source;existe
+mot;20;listes/20/une trace.mp3;une trace;existe
+mot;20;listes/20/une écorce.mp3;une écorce;existe
+mot;20;listes/20/une évidence.mp3;une évidence;existe
+phrase;20;listes/20/phrases/une somme.mp3;J'ai économisé une somme d'argent.;existe
+phrase;20;listes/20/phrases/une silhouette.mp3;On voit la silhouette d'un homme dans le brouillard.;existe
+phrase;20;listes/20/phrases/une solitude.mp3;Le gardien du phare vit dans la solitude.;existe
+phrase;20;listes/20/phrases/un séjour.mp3;On fait un séjour d'une semaine au chalet.;existe
+phrase;20;listes/20/phrases/une circonstance.mp3;Dans cette circonstance, il faut rester calme.;existe
+phrase;20;listes/20/phrases/un bénéfice.mp3;Le magasin fait un bénéfice en vendant des jouets.;existe
+phrase;20;listes/20/phrases/une cicatrice.mp3;Il a une cicatrice sur le genou.;existe
+phrase;20;listes/20/phrases/une injustice.mp3;Punir toute la classe, c'est une injustice !;existe
+phrase;20;listes/20/phrases/une prudence.mp3;Traverse la rue avec prudence.;existe
+phrase;20;listes/20/phrases/un indice.mp3;Le détective trouve un indice.;existe
+phrase;20;listes/20/phrases/un commerce.mp3;Ma tante a un commerce de fleurs.;existe
+phrase;20;listes/20/phrases/un soupir.mp3;Il pousse un soupir de soulagement.;existe
+phrase;20;listes/20/phrases/une sensation.mp3;Les montagnes russes donnent une sensation de vertige.;existe
+phrase;20;listes/20/phrases/un solide.mp3;Un cube est un solide qui a six faces.;existe
+phrase;20;listes/20/phrases/une écorce.mp3;L'écorce de l'arbre est rugueuse.;existe
+phrase;20;listes/20/phrases/une évidence.mp3;C'est une évidence : le soleil se lève le matin.;existe
+mot;21;listes/21/assister.mp3;assister;existe
+mot;21;listes/21/associer.mp3;associer;existe
+mot;21;listes/21/blesser.mp3;blesser;existe
+mot;21;listes/21/classer.mp3;classer;existe
+mot;21;listes/21/tendresse.mp3;tendresse;existe
+mot;21;listes/21/tisser.mp3;tisser;existe
+mot;21;listes/21/triste.mp3;triste;existe
+mot;21;listes/21/un anniversaire.mp3;un anniversaire;existe
+mot;21;listes/21/un avertissement.mp3;un avertissement;existe
+mot;21;listes/21/un discours.mp3;un discours;existe
+mot;21;listes/21/un dossier.mp3;un dossier;existe
+mot;21;listes/21/un frisson.mp3;un frisson;existe
+mot;21;listes/21/un frémissement.mp3;un frémissement;existe
+mot;21;listes/21/un gémissement.mp3;un gémissement;existe
+mot;21;listes/21/un testament.mp3;un testament;existe
+mot;21;listes/21/un tissu.mp3;un tissu;existe
+mot;21;listes/21/une baisse.mp3;une baisse;existe
+mot;21;listes/21/une chaussette.mp3;une chaussette;existe
+mot;21;listes/21/une commission.mp3;une commission;existe
+mot;21;listes/21/une connaissance.mp3;une connaissance;existe
+mot;21;listes/21/une discussion.mp3;une discussion;existe
+mot;21;listes/21/une défense.mp3;une défense;existe
+mot;21;listes/21/une dépense.mp3;une dépense;existe
+mot;21;listes/21/une expression.mp3;une expression;existe
+mot;21;listes/21/une hausse.mp3;une hausse;existe
+mot;21;listes/21/une liste.mp3;une liste;existe
+mot;21;listes/21/une masse.mp3;une masse;existe
+mot;21;listes/21/une mousse.mp3;une mousse;existe
+mot;21;listes/21/une moustache.mp3;une moustache;existe
+mot;21;listes/21/une passe.mp3;une passe;existe
+mot;21;listes/21/une passion.mp3;une passion;existe
+mot;21;listes/21/une permission.mp3;une permission;existe
+mot;21;listes/21/une presse.mp3;une presse;existe
+mot;21;listes/21/une pression.mp3;une pression;existe
+mot;21;listes/21/une reconnaissance.mp3;une reconnaissance;existe
+mot;21;listes/21/une émission.mp3;une émission;existe
+phrase;21;listes/21/phrases/une passe.mp3;Il fait une passe à son coéquipier.;existe
+phrase;21;listes/21/phrases/un testament.mp3;Dans son testament, le grand-père laisse sa maison à ses enfants.;existe
+phrase;21;listes/21/phrases/une commission.mp3;Je fais une commission à l'épicerie pour ma mère.;existe
+phrase;21;listes/21/phrases/un frémissement.mp3;Un frémissement passe dans les feuilles.;existe
+phrase;21;listes/21/phrases/un gémissement.mp3;On entend le gémissement du chien blessé.;existe
+phrase;21;listes/21/phrases/une hausse.mp3;Il y a une hausse de la température.;existe
+phrase;21;listes/21/phrases/une presse.mp3;La presse, ce sont les journaux et les nouvelles.;existe
+phrase;21;listes/21/phrases/tisser.mp3;L'araignée sait tisser sa toile.;existe
+phrase;21;listes/21/phrases/un avertissement.mp3;L'arbitre donne un avertissement au joueur.;existe
+phrase;21;listes/21/phrases/une émission.mp3;Je regarde mon émission préférée.;existe
+phrase;21;listes/21/phrases/tendresse.mp3;La maman caresse son bébé avec tendresse.;existe
+phrase;21;listes/21/phrases/une reconnaissance.mp3;Il montre sa reconnaissance en disant merci.;existe
+mot;22;listes/22/français.mp3;français;existe
+mot;22;listes/22/française.mp3;française;existe
+mot;22;listes/22/l'acier.mp3;l'acier;existe
+mot;22;listes/22/la cendre.mp3;la cendre;existe
+mot;22;listes/22/la science.mp3;la science;existe
+mot;22;listes/22/le ciment.mp3;le ciment;existe
+mot;22;listes/22/le français.mp3;le français;existe
+mot;22;listes/22/un aperçu.mp3;un aperçu;existe
+mot;22;listes/22/un incendie.mp3;un incendie;existe
+mot;22;listes/22/un incident.mp3;un incident;existe
+mot;22;listes/22/un océan.mp3;un océan;existe
+mot;22;listes/22/un procédé.mp3;un procédé;existe
+mot;22;listes/22/un souci.mp3;un souci;existe
+mot;22;listes/22/un soupçon.mp3;un soupçon;existe
+mot;22;listes/22/une conscience.mp3;une conscience;existe
+mot;22;listes/22/une descente.mp3;une descente;existe
+mot;22;listes/22/une ficelle.mp3;une ficelle;existe
+mot;22;listes/22/une piscine.mp3;une piscine;existe
+mot;22;listes/22/une racine.mp3;une racine;existe
+mot;22;listes/22/une recette.mp3;une recette;existe
+mot;22;listes/22/une épicerie.mp3;une épicerie;existe
+phrase;22;listes/22/phrases/l'acier.mp3;Le pont est fait en acier.;existe
+phrase;22;listes/22/phrases/le ciment.mp3;L'ouvrier mélange le ciment.;existe
+phrase;22;listes/22/phrases/une ficelle.mp3;J'attache le paquet avec une ficelle.;existe
+phrase;22;listes/22/phrases/un procédé.mp3;Le boulanger utilise un procédé spécial pour faire le pain.;existe
+phrase;22;listes/22/phrases/un soupçon.mp3;Le policier a un soupçon sur le voleur.;existe
+phrase;22;listes/22/phrases/un aperçu.mp3;La bande-annonce donne un aperçu du film.;existe
+phrase;22;listes/22/phrases/une conscience.mp3;Il a mauvaise conscience après avoir menti.;existe
+phrase;22;listes/22/phrases/la cendre.mp3;Il reste de la cendre dans le foyer.;existe
+phrase;22;listes/22/phrases/un incident.mp3;Il y a eu un petit incident à la récréation.;existe
+phrase;22;listes/22/phrases/un souci.mp3;Ne t'en fais pas, il n'y a aucun souci.;existe
+phrase;22;listes/22/phrases/une descente.mp3;On glisse en traineau dans la descente derrière l'école.;existe
+mot;23;listes/23/une action.mp3;une action;existe
+mot;23;listes/23/une admiration.mp3;une admiration;existe
+mot;23;listes/23/une adoration.mp3;une adoration;existe
+mot;23;listes/23/une amélioration.mp3;une amélioration;existe
+mot;23;listes/23/une circulation.mp3;une circulation;existe
+mot;23;listes/23/une condition.mp3;une condition;existe
+mot;23;listes/23/une conversation.mp3;une conversation;existe
+mot;23;listes/23/une disparition.mp3;une disparition;existe
+mot;23;listes/23/une déception.mp3;une déception;existe
+mot;23;listes/23/une déclaration.mp3;une déclaration;existe
+mot;23;listes/23/une définition.mp3;une définition;existe
+mot;23;listes/23/une hésitation.mp3;une hésitation;existe
+mot;23;listes/23/une indignation.mp3;une indignation;existe
+mot;23;listes/23/une irritation.mp3;une irritation;existe
+mot;23;listes/23/une nation.mp3;une nation;existe
+mot;23;listes/23/une organisation.mp3;une organisation;existe
+mot;23;listes/23/une punition.mp3;une punition;existe
+mot;23;listes/23/une respiration.mp3;une respiration;existe
+mot;23;listes/23/une réputation.mp3;une réputation;existe
+mot;23;listes/23/une tradition.mp3;une tradition;existe
+mot;23;listes/23/une éducation.mp3;une éducation;existe
+mot;23;listes/23/une évolution.mp3;une évolution;existe
+phrase;23;listes/23/phrases/une indignation.mp3;Il crie son indignation devant l'injustice.;existe
+phrase;23;listes/23/phrases/une irritation.mp3;Le soleil cause une irritation de la peau.;existe
+phrase;23;listes/23/phrases/une réputation.mp3;Ce restaurant a une bonne réputation.;existe
+phrase;23;listes/23/phrases/une déception.mp3;Perdre la finale est une grande déception.;existe
+phrase;23;listes/23/phrases/une adoration.mp3;Mon chien me regarde avec adoration.;existe
+phrase;23;listes/23/phrases/une amélioration.mp3;Ton écriture montre une belle amélioration.;existe
+phrase;23;listes/23/phrases/une hésitation.mp3;Il répond sans hésitation.;existe
+phrase;23;listes/23/phrases/une tradition.mp3;Décorer le sapin est une tradition de Noël.;existe
+mot;24;listes/24/le yoga.mp3;le yoga;existe
+mot;24;listes/24/un bagage.mp3;un bagage;existe
+mot;24;listes/24/un degré.mp3;un degré;existe
+mot;24;listes/24/un dialogue.mp3;un dialogue;existe
+mot;24;listes/24/un dégout.mp3;un dégout;existe
+mot;24;listes/24/un gant.mp3;un gant;existe
+mot;24;listes/24/un gars.mp3;un gars;existe
+mot;24;listes/24/un guide.mp3;un guide;existe
+mot;24;listes/24/un ongle.mp3;un ongle;existe
+mot;24;listes/24/un wagon.mp3;un wagon;existe
+mot;24;listes/24/une angoisse.mp3;une angoisse;existe
+mot;24;listes/24/une bagarre.mp3;une bagarre;existe
+mot;24;listes/24/une bague.mp3;une bague;existe
+mot;24;listes/24/une blague.mp3;une blague;existe
+mot;24;listes/24/une fatigue.mp3;une fatigue;existe
+mot;24;listes/24/une gare.mp3;une gare;existe
+mot;24;listes/24/une grandeur.mp3;une grandeur;existe
+mot;24;listes/24/une gratitude.mp3;une gratitude;existe
+mot;24;listes/24/une grimace.mp3;une grimace;existe
+mot;24;listes/24/une grippe.mp3;une grippe;existe
+mot;24;listes/24/une grâce.mp3;une grâce;existe
+mot;24;listes/24/une gueule.mp3;une gueule;existe
+mot;24;listes/24/une guide.mp3;une guide;existe
+mot;24;listes/24/une guérison.mp3;une guérison;existe
+mot;24;listes/24/une longueur.mp3;une longueur;existe
+mot;24;listes/24/une organisation.mp3;une organisation;existe
+phrase;24;listes/24/phrases/une angoisse.mp3;Avant l'examen, il ressent de l'angoisse.;existe
+phrase;24;listes/24/phrases/une gratitude.mp3;Je te remercie avec gratitude.;existe
+phrase;24;listes/24/phrases/un dégout.mp3;Il fait une grimace de dégout devant les épinards.;existe
+phrase;24;listes/24/phrases/une guérison.mp3;Après sa guérison, il retourne à l'école.;existe
+phrase;24;listes/24/phrases/une gueule.mp3;Le chien ouvre la gueule pour attraper la balle.;existe
+phrase;24;listes/24/phrases/un degré.mp3;Il fait vingt degrés dehors.;existe
+phrase;24;listes/24/phrases/une grâce.mp3;La danseuse bouge avec grâce.;existe
+mot;25;listes/25/la nage.mp3;la nage;existe
+mot;25;listes/25/un avantage.mp3;un avantage;existe
+mot;25;listes/25/un collège.mp3;un collège;existe
+mot;25;listes/25/un dommage.mp3;un dommage;existe
+mot;25;listes/25/un fromage.mp3;un fromage;existe
+mot;25;listes/25/un linge.mp3;un linge;existe
+mot;25;listes/25/un mensonge.mp3;un mensonge;existe
+mot;25;listes/25/un orage.mp3;un orage;existe
+mot;25;listes/25/un personnage.mp3;un personnage;existe
+mot;25;listes/25/un piège.mp3;un piège;existe
+mot;25;listes/25/un plumage.mp3;un plumage;existe
+mot;25;listes/25/un refuge.mp3;un refuge;existe
+mot;25;listes/25/un songe.mp3;un songe;existe
+mot;25;listes/25/un témoignage.mp3;un témoignage;existe
+mot;25;listes/25/un échange.mp3;un échange;existe
+mot;25;listes/25/un éloge.mp3;un éloge;existe
+mot;25;listes/25/une charge.mp3;une charge;existe
+mot;25;listes/25/une horloge.mp3;une horloge;existe
+mot;25;listes/25/une plage.mp3;une plage;existe
+mot;25;listes/25/une rage.mp3;une rage;existe
+phrase;25;listes/25/phrases/un éloge.mp3;Le directeur fait l'éloge de notre équipe.;existe
+phrase;25;listes/25/phrases/un plumage.mp3;Le perroquet a un plumage très coloré.;existe
+phrase;25;listes/25/phrases/un songe.mp3;Cette nuit, j'ai fait un songe étrange.;existe
+phrase;25;listes/25/phrases/un témoignage.mp3;Le témoin donne son témoignage au juge.;existe
+phrase;25;listes/25/phrases/un dommage.mp3;La tempête a causé un dommage au toit.;existe
+phrase;25;listes/25/phrases/un refuge.mp3;Les randonneurs dorment dans un refuge.;existe
+mot;26;listes/26/mélanger.mp3;mélanger;existe
+mot;26;listes/26/partager.mp3;partager;existe
+mot;26;listes/26/songer.mp3;songer;existe
+mot;26;listes/26/un gibier.mp3;un gibier;existe
+mot;26;listes/26/un gémissement.mp3;un gémissement;existe
+mot;26;listes/26/un logement.mp3;un logement;existe
+mot;26;listes/26/un magicien.mp3;un magicien;existe
+mot;26;listes/26/un rugissement.mp3;un rugissement;existe
+mot;26;listes/26/un régime.mp3;un régime;existe
+mot;26;listes/26/un voyageur.mp3;un voyageur;existe
+mot;26;listes/26/un étranger.mp3;un étranger;existe
+mot;26;listes/26/une bougie.mp3;une bougie;existe
+mot;26;listes/26/une gifle.mp3;une gifle;existe
+mot;26;listes/26/une intelligence.mp3;une intelligence;existe
+mot;26;listes/26/une légende.mp3;une légende;existe
+mot;26;listes/26/une magicienne.mp3;une magicienne;existe
+mot;26;listes/26/une origine.mp3;une origine;existe
+mot;26;listes/26/une religion.mp3;une religion;existe
+mot;26;listes/26/une région.mp3;une région;existe
+mot;26;listes/26/une urgence.mp3;une urgence;existe
+mot;26;listes/26/une vengeance.mp3;une vengeance;existe
+mot;26;listes/26/une voyageuse.mp3;une voyageuse;existe
+mot;26;listes/26/une énergie.mp3;une énergie;existe
+mot;26;listes/26/une étrangère.mp3;une étrangère;existe
+mot;26;listes/26/voyager.mp3;voyager;existe
+phrase;26;listes/26/phrases/un gibier.mp3;Le chasseur cherche du gibier dans la forêt.;existe
+phrase;26;listes/26/phrases/un régime.mp3;Le chien est au régime : moins de biscuits !;existe
+phrase;26;listes/26/phrases/une vengeance.mp3;Le méchant du film prépare sa vengeance.;existe
+phrase;26;listes/26/phrases/un rugissement.mp3;On entend le rugissement du lion.;existe
+phrase;26;listes/26/phrases/une gifle.mp3;Une gifle, c'est un coup sur la joue.;existe
+phrase;26;listes/26/phrases/songer.mp3;Il faut songer à rentrer avant la nuit.;existe
+phrase;26;listes/26/phrases/une urgence.mp3;En cas d'urgence, on appelle le 911.;existe
+phrase;26;listes/26/phrases/une légende.mp3;Une légende raconte qu'un dragon vivait ici.;existe
+phrase;26;listes/26/phrases/un gémissement.mp3;On entend le gémissement du chien blessé.;existe
+mot;27;listes/27/marchand.mp3;marchand;existe
+mot;27;listes/27/marchande.mp3;marchande;existe
+mot;27;listes/27/un avis.mp3;un avis;existe
+mot;27;listes/27/un banc.mp3;un banc;existe
+mot;27;listes/27/un boulevard.mp3;un boulevard;existe
+mot;27;listes/27/un drap.mp3;un drap;existe
+mot;27;listes/27/un estomac.mp3;un estomac;existe
+mot;27;listes/27/un galop.mp3;un galop;existe
+mot;27;listes/27/un marchand.mp3;un marchand;existe
+mot;27;listes/27/un nœud.mp3;un nœud;existe
+mot;27;listes/27/un palais.mp3;un palais;existe
+mot;27;listes/27/un poing.mp3;un poing;existe
+mot;27;listes/27/un pouls.mp3;un pouls;existe
+mot;27;listes/27/un procès.mp3;un procès;existe
+mot;27;listes/27/un rang.mp3;un rang;existe
+mot;27;listes/27/un remords.mp3;un remords;existe
+mot;27;listes/27/un repos.mp3;un repos;existe
+mot;27;listes/27/un tapis.mp3;un tapis;existe
+mot;27;listes/27/un tronc.mp3;un tronc;existe
+mot;27;listes/27/une marchande.mp3;une marchande;existe
+phrase;27;listes/27/phrases/un pouls.mp3;Le médecin prend mon pouls.;existe
+phrase;27;listes/27/phrases/un poing.mp3;Il serre le poing très fort.;existe
+phrase;27;listes/27/phrases/un estomac.mp3;J'ai mal à l'estomac après trop de bonbons.;existe
+phrase;27;listes/27/phrases/un galop.mp3;Le cheval part au galop.;existe
+phrase;27;listes/27/phrases/un remords.mp3;Il a des remords d'avoir menti.;existe
+phrase;27;listes/27/phrases/un procès.mp3;Le juge dirige le procès.;existe
+phrase;27;listes/27/phrases/un rang.mp3;Les élèves se mettent en rang.;existe
+phrase;27;listes/27/phrases/un tronc.mp3;L'écureuil grimpe le long du tronc.;existe
+phrase;27;listes/27/phrases/un boulevard.mp3;Les autos roulent sur le boulevard.;existe
+phrase;27;listes/27/phrases/un palais.mp3;Le roi vit dans un palais.;existe
+phrase;27;listes/27/phrases/un avis.mp3;Quel est ton avis sur ce film ?;existe
+phrase;27;listes/27/phrases/marchand.mp3;Le navire marchand arrive au port avec sa cargaison.;existe
+phrase;27;listes/27/phrases/marchande.mp3;Ce maillot signé a une grande valeur marchande.;existe
+mot;28;listes/28/avant.mp3;avant;existe
+mot;28;listes/28/présent.mp3;présent;existe
+mot;28;listes/28/présente.mp3;présente;existe
+mot;28;listes/28/un art.mp3;un art;existe
+mot;28;listes/28/un climat.mp3;un climat;existe
+mot;28;listes/28/un contrat.mp3;un contrat;existe
+mot;28;listes/28/un débat.mp3;un débat;existe
+mot;28;listes/28/un dépit.mp3;un dépit;existe
+mot;28;listes/28/un fusil.mp3;un fusil;existe
+mot;28;listes/28/un habit.mp3;un habit;existe
+mot;28;listes/28/un outil.mp3;un outil;existe
+mot;28;listes/28/un portrait.mp3;un portrait;existe
+mot;28;listes/28/un produit.mp3;un produit;existe
+mot;28;listes/28/un profit.mp3;un profit;existe
+mot;28;listes/28/un présent.mp3;un présent;existe
+mot;28;listes/28/un rapport.mp3;un rapport;existe
+mot;28;listes/28/un récit.mp3;un récit;existe
+mot;28;listes/28/un serpent.mp3;un serpent;existe
+mot;28;listes/28/un talent.mp3;un talent;existe
+mot;28;listes/28/un tort.mp3;un tort;existe
+mot;28;listes/28/un écart.mp3;un écart;existe
+mot;28;listes/28/un éclat.mp3;un éclat;existe
+mot;28;listes/28/un élément.mp3;un élément;existe
+phrase;28;listes/28/phrases/un dépit.mp3;Il boude par dépit après la défaite.;existe
+phrase;28;listes/28/phrases/un débat.mp3;La classe fait un débat sur les devoirs.;existe
+phrase;28;listes/28/phrases/un contrat.mp3;Le joueur signe un contrat avec l'équipe.;existe
+phrase;28;listes/28/phrases/un climat.mp3;Le climat du Québec est froid en hiver.;existe
+phrase;28;listes/28/phrases/un habit.mp3;Il met son habit de neige pour jouer dehors.;existe
+phrase;28;listes/28/phrases/un profit.mp3;Il vend de la limonade pour faire un profit.;existe
+phrase;28;listes/28/phrases/un récit.mp3;Le professeur lit un récit d'aventure.;existe
+phrase;28;listes/28/phrases/un tort.mp3;Il a eu tort de partir sans son manteau.;existe
+phrase;28;listes/28/phrases/un écart.mp3;Il y a un grand écart entre les deux équipes.;existe
+phrase;28;listes/28/phrases/un éclat.mp3;Un éclat de verre est tombé par terre.;existe
+phrase;28;listes/28/phrases/un présent.mp3;Pour ta fête, je t'offre un présent.;existe
+mot;29;listes/29/bienvenu.mp3;bienvenu;existe
+mot;29;listes/29/bienvenue.mp3;bienvenue;existe
+mot;29;listes/29/la bienvenue.mp3;la bienvenue;existe
+mot;29;listes/29/un génie.mp3;un génie;existe
+mot;29;listes/29/un musée.mp3;un musée;existe
+mot;29;listes/29/une avenue.mp3;une avenue;existe
+mot;29;listes/29/une bougie.mp3;une bougie;existe
+mot;29;listes/29/une cérémonie.mp3;une cérémonie;existe
+mot;29;listes/29/une entrevue.mp3;une entrevue;existe
+mot;29;listes/29/une fantaisie.mp3;une fantaisie;existe
+mot;29;listes/29/une folie.mp3;une folie;existe
+mot;29;listes/29/une monnaie.mp3;une monnaie;existe
+mot;29;listes/29/une moue.mp3;une moue;existe
+mot;29;listes/29/une mélodie.mp3;une mélodie;existe
+mot;29;listes/29/une plaie.mp3;une plaie;existe
+mot;29;listes/29/une poésie.mp3;une poésie;existe
+mot;29;listes/29/une prairie.mp3;une prairie;existe
+mot;29;listes/29/une proie.mp3;une proie;existe
+mot;29;listes/29/une série.mp3;une série;existe
+mot;29;listes/29/une théorie.mp3;une théorie;existe
+mot;29;listes/29/une voie.mp3;une voie;existe
+mot;29;listes/29/une énergie.mp3;une énergie;existe
+mot;29;listes/29/une épicerie.mp3;une épicerie;existe
+phrase;29;listes/29/phrases/bienvenu.mp3;Ton ami est le bienvenu chez nous.;existe
+phrase;29;listes/29/phrases/bienvenue.mp3;Ta sœur est la bienvenue chez nous.;existe
+phrase;29;listes/29/phrases/une voie.mp3;Le train roule sur une voie ferrée.;existe
+phrase;29;listes/29/phrases/une moue.mp3;Mon frère fait une moue fâchée.;existe
+phrase;29;listes/29/phrases/une monnaie.mp3;Le caissier me rend la monnaie.;existe
+phrase;29;listes/29/phrases/une prairie.mp3;Les vaches broutent dans la prairie.;existe
+phrase;29;listes/29/phrases/une proie.mp3;Le hibou attrape sa proie.;existe
+phrase;29;listes/29/phrases/une plaie.mp3;Il met un pansement sur sa plaie.;existe
+phrase;29;listes/29/phrases/une théorie.mp3;Le détective a une théorie sur le vol.;existe
+phrase;29;listes/29/phrases/une fantaisie.mp3;Elle porte un chapeau plein de fantaisie.;existe
+phrase;29;listes/29/phrases/une entrevue.mp3;Le journaliste fait une entrevue avec le joueur.;existe
+phrase;29;listes/29/phrases/un génie.mp3;Le génie sort de la lampe magique.;existe
+phrase;29;listes/29/phrases/une cérémonie.mp3;La cérémonie de remise des médailles commence.;existe
+phrase;29;listes/29/phrases/une mélodie.mp3;Il siffle une jolie mélodie.;existe
+mot;30;listes/30/la brume.mp3;la brume;existe
+mot;30;listes/30/produire.mp3;produire;existe
+mot;30;listes/30/total.mp3;total;existe
+mot;30;listes/30/totale.mp3;totale;existe
+mot;30;listes/30/un cadre.mp3;un cadre;existe
+mot;30;listes/30/un charme.mp3;un charme;existe
+mot;30;listes/30/un drame.mp3;un drame;existe
+mot;30;listes/30/un ongle.mp3;un ongle;existe
+mot;30;listes/30/un peuple.mp3;un peuple;existe
+mot;30;listes/30/un programme.mp3;un programme;existe
+mot;30;listes/30/un rythme.mp3;un rythme;existe
+mot;30;listes/30/un siège.mp3;un siège;existe
+mot;30;listes/30/un terme.mp3;un terme;existe
+mot;30;listes/30/un titre.mp3;un titre;existe
+mot;30;listes/30/un tonnerre.mp3;un tonnerre;existe
+mot;30;listes/30/un type.mp3;un type;existe
+mot;30;listes/30/un volume.mp3;un volume;existe
+mot;30;listes/30/une arme.mp3;une arme;existe
+mot;30;listes/30/une chute.mp3;une chute;existe
+mot;30;listes/30/une demeure.mp3;une demeure;existe
+mot;30;listes/30/une honte.mp3;une honte;existe
+mot;30;listes/30/une lutte.mp3;une lutte;existe
+mot;30;listes/30/une manœuvre.mp3;une manœuvre;existe
+mot;30;listes/30/une montre.mp3;une montre;existe
+mot;30;listes/30/une moustache.mp3;une moustache;existe
+mot;30;listes/30/une mémoire.mp3;une mémoire;existe
+mot;30;listes/30/une méthode.mp3;une méthode;existe
+mot;30;listes/30/une narine.mp3;une narine;existe
+mot;30;listes/30/une perte.mp3;une perte;existe
+mot;30;listes/30/une piste.mp3;une piste;existe
+mot;30;listes/30/une poursuite.mp3;une poursuite;existe
+mot;30;listes/30/une preuve.mp3;une preuve;existe
+mot;30;listes/30/une pâte.mp3;une pâte;existe
+mot;30;listes/30/une période.mp3;une période;existe
+mot;30;listes/30/une roche.mp3;une roche;existe
+mot;30;listes/30/une ruine.mp3;une ruine;existe
+mot;30;listes/30/une tache.mp3;une tache;existe
+mot;30;listes/30/une tarte.mp3;une tarte;existe
+mot;30;listes/30/une toile.mp3;une toile;existe
+mot;30;listes/30/une troupe.mp3;une troupe;existe
+mot;30;listes/30/une tâche.mp3;une tâche;existe
+mot;30;listes/30/une vitre.mp3;une vitre;existe
+mot;30;listes/30/une voile.mp3;une voile;existe
+mot;30;listes/30/une âme.mp3;une âme;existe
+mot;30;listes/30/une épave.mp3;une épave;existe
+mot;30;listes/30/une épreuve.mp3;une épreuve;existe
+mot;30;listes/30/une étude.mp3;une étude;existe
+phrase;30;listes/30/phrases/une tache.mp3;J'ai une tache de sauce sur mon chandail.;existe
+phrase;30;listes/30/phrases/une tâche.mp3;Ranger ma chambre est une tâche facile.;existe
+phrase;30;listes/30/phrases/une pâte.mp3;Papa prépare une pâte à pizza.;existe
+phrase;30;listes/30/phrases/total.mp3;Le prix total est de dix dollars.;existe
+phrase;30;listes/30/phrases/totale.mp3;La note totale est de vingt points.;existe
+phrase;30;listes/30/phrases/une épave.mp3;Les plongeurs explorent une épave au fond de la mer.;existe
+phrase;30;listes/30/phrases/une demeure.mp3;Ce château est la demeure du roi.;existe
+phrase;30;listes/30/phrases/une âme.mp3;Il chante avec toute son âme.;existe
+phrase;30;listes/30/phrases/une épreuve.mp3;La première épreuve de la compétition est la course.;existe
+phrase;30;listes/30/phrases/une honte.mp3;Il rougit de honte.;existe
+phrase;30;listes/30/phrases/une manœuvre.mp3;Papa fait une manœuvre pour stationner l'auto.;existe
+phrase;30;listes/30/phrases/une narine.mp3;Le cheval souffle par ses narines.;existe
+phrase;30;listes/30/phrases/une période.mp3;La deuxième période du match commence.;existe
+phrase;30;listes/30/phrases/la brume.mp3;La brume cache le lac le matin.;existe
+phrase;30;listes/30/phrases/un tonnerre.mp3;Le tonnerre gronde pendant l'orage.;existe
+phrase;30;listes/30/phrases/une ruine.mp3;Le vieux château est en ruine.;existe
+phrase;30;listes/30/phrases/un terme.mp3;Ce terme est difficile à comprendre.;existe
+phrase;30;listes/30/phrases/un rythme.mp3;On danse au rythme de la musique.;existe
+mot;31;listes/31/des vers.mp3;des vers;existe
+mot;31;listes/31/intéresser.mp3;intéresser;existe
+mot;31;listes/31/la sagesse.mp3;la sagesse;existe
+mot;31;listes/31/la vaisselle.mp3;la vaisselle;existe
+mot;31;listes/31/le respect.mp3;le respect;existe
+mot;31;listes/31/un aspect.mp3;un aspect;existe
+mot;31;listes/31/un festin.mp3;un festin;existe
+mot;31;listes/31/un nerf.mp3;un nerf;existe
+mot;31;listes/31/une adresse.mp3;une adresse;existe
+mot;31;listes/31/une allumette.mp3;une allumette;existe
+mot;31;listes/31/une blessure.mp3;une blessure;existe
+mot;31;listes/31/une caresse.mp3;une caresse;existe
+mot;31;listes/31/une collection.mp3;une collection;existe
+mot;31;listes/31/une correspondance.mp3;une correspondance;existe
+mot;31;listes/31/une couverture.mp3;une couverture;existe
+mot;31;listes/31/une détresse.mp3;une détresse;existe
+mot;31;listes/31/une essence.mp3;une essence;existe
+mot;31;listes/31/une fesse.mp3;une fesse;existe
+mot;31;listes/31/une intervention.mp3;une intervention;existe
+mot;31;listes/31/une jeunesse.mp3;une jeunesse;existe
+mot;31;listes/31/une promesse.mp3;une promesse;existe
+mot;31;listes/31/une protection.mp3;une protection;existe
+mot;31;listes/31/une protestation.mp3;une protestation;existe
+mot;31;listes/31/une richesse.mp3;une richesse;existe
+mot;31;listes/31/une tristesse.mp3;une tristesse;existe
+phrase;31;listes/31/phrases/des vers.mp3;Après la pluie, on voit des vers de terre.;existe
+phrase;31;listes/31/phrases/un aspect.mp3;Cette soupe a un drôle d'aspect.;existe
+phrase;31;listes/31/phrases/une détresse.mp3;Le bateau en détresse appelle à l'aide.;existe
+phrase;31;listes/31/phrases/une essence.mp3;Papa met de l'essence dans l'auto.;existe
+phrase;31;listes/31/phrases/un festin.mp3;Pour Noël, on prépare un vrai festin.;existe
+phrase;31;listes/31/phrases/un nerf.mp3;Le dentiste soigne le nerf de ma dent.;existe
+phrase;31;listes/31/phrases/une protestation.mp3;Les élèves font une protestation contre les devoirs.;existe
+phrase;31;listes/31/phrases/la sagesse.mp3;Mon grand-père parle avec sagesse.;existe
+phrase;31;listes/31/phrases/une correspondance.mp3;J'ai une correspondance avec un ami en France.;existe
+phrase;31;listes/31/phrases/une intervention.mp3;Les pompiers font une intervention rapide.;existe
+mot;32;listes/32/contraire.mp3;contraire;existe
+mot;32;listes/32/elle aurait.mp3;elle aurait;existe
+mot;32;listes/32/elles seraient.mp3;elles seraient;existe
+mot;32;listes/32/entrainer.mp3;entrainer;existe
+mot;32;listes/32/faible.mp3;faible;existe
+mot;32;listes/32/haine.mp3;haine;existe
+mot;32;listes/32/il avait.mp3;il avait;existe
+mot;32;listes/32/ils étaient.mp3;ils étaient;existe
+mot;32;listes/32/j'aimais.mp3;j'aimais;existe
+mot;32;listes/32/j'aimerais.mp3;j'aimerais;existe
+mot;32;listes/32/la chair.mp3;la chair;existe
+mot;32;listes/32/le nécessaire.mp3;le nécessaire;existe
+mot;32;listes/32/nécessaire.mp3;nécessaire;existe
+mot;32;listes/32/traiter.mp3;traiter;existe
+mot;32;listes/32/tu allais.mp3;tu allais;existe
+mot;32;listes/32/tu irais.mp3;tu irais;existe
+mot;32;listes/32/un contraire.mp3;un contraire;existe
+mot;32;listes/32/un domaine.mp3;un domaine;existe
+mot;32;listes/32/un délai.mp3;un délai;existe
+mot;32;listes/32/un essai.mp3;un essai;existe
+mot;32;listes/32/un trait.mp3;un trait;existe
+mot;32;listes/32/un traitement.mp3;un traitement;existe
+mot;32;listes/32/une caisse.mp3;une caisse;existe
+mot;32;listes/32/une chaine.mp3;une chaine;existe
+mot;32;listes/32/une clairière.mp3;une clairière;existe
+mot;32;listes/32/une expression.mp3;une expression;existe
+mot;32;listes/32/une falaise.mp3;une falaise;existe
+mot;32;listes/32/une fontaine.mp3;une fontaine;existe
+mot;32;listes/32/une plaine.mp3;une plaine;existe
+mot;32;listes/32/une plaisanterie.mp3;une plaisanterie;existe
+mot;32;listes/32/une retraite.mp3;une retraite;existe
+phrase;32;listes/32/phrases/la chair.mp3;Ce poisson a une chair très tendre.;existe
+phrase;32;listes/32/phrases/j'aimais.mp3;Quand j'étais petit, j'aimais les dinosaures.;existe
+phrase;32;listes/32/phrases/tu allais.mp3;Hier, tu allais au parc avec ton chien.;existe
+phrase;32;listes/32/phrases/il avait.mp3;Mon grand-père, il avait un chien noir.;existe
+phrase;32;listes/32/phrases/ils étaient.mp3;Mes deux frères, ils étaient au parc.;existe
+phrase;32;listes/32/phrases/j'aimerais.mp3;Si j'avais le temps, j'aimerais jouer dehors.;existe
+phrase;32;listes/32/phrases/tu irais.mp3;Si tu pouvais, tu irais à la plage.;existe
+phrase;32;listes/32/phrases/elle aurait.mp3;Ma mère, elle aurait aimé venir.;existe
+phrase;32;listes/32/phrases/elles seraient.mp3;Mes sœurs, elles seraient contentes de venir.;existe
+phrase;32;listes/32/phrases/une clairière.mp3;Les chevreuils mangent dans une clairière.;existe
+phrase;32;listes/32/phrases/un délai.mp3;Tu as un délai de deux jours pour finir ton projet.;existe
+phrase;32;listes/32/phrases/une falaise.mp3;Les oiseaux font leur nid sur la falaise.;existe
+phrase;32;listes/32/phrases/une retraite.mp3;Grand-papa a pris sa retraite.;existe
+phrase;32;listes/32/phrases/un traitement.mp3;Le médecin propose un traitement.;existe
+phrase;32;listes/32/phrases/une plaisanterie.mp3;Ce n'est pas vrai, c'est une plaisanterie !;existe
+phrase;32;listes/32/phrases/haine.mp3;La haine est le contraire de l'amour.;existe
+phrase;32;listes/32/phrases/le nécessaire.mp3;J'apporte le nécessaire pour le camping.;existe
+phrase;32;listes/32/phrases/une chaine.mp3;Mon vélo a perdu sa chaine.;existe
+phrase;32;listes/32/phrases/une plaine.mp3;Les vaches broutent dans une grande plaine.;existe
+phrase;32;listes/32/phrases/un trait.mp3;Trace un trait avec ta règle.;existe
+mot;33;listes/33/billet.mp3;billet;existe
+mot;33;listes/33/mêler.mp3;mêler;existe
+mot;33;listes/33/régulière.mp3;régulière;existe
+mot;33;listes/33/un ancêtre.mp3;un ancêtre;existe
+mot;33;listes/33/un arrêt.mp3;un arrêt;existe
+mot;33;listes/33/un bouquet.mp3;un bouquet;existe
+mot;33;listes/33/un carnet.mp3;un carnet;existe
+mot;33;listes/33/un chalet.mp3;un chalet;existe
+mot;33;listes/33/un chèque.mp3;un chèque;existe
+mot;33;listes/33/un cimetière.mp3;un cimetière;existe
+mot;33;listes/33/un filet.mp3;un filet;existe
+mot;33;listes/33/un intérêt.mp3;un intérêt;existe
+mot;33;listes/33/un matériel.mp3;un matériel;existe
+mot;33;listes/33/un modèle.mp3;un modèle;existe
+mot;33;listes/33/un paquet.mp3;un paquet;existe
+mot;33;listes/33/un poignet.mp3;un poignet;existe
+mot;33;listes/33/un projet.mp3;un projet;existe
+mot;33;listes/33/un regret.mp3;un regret;existe
+mot;33;listes/33/un remède.mp3;un remède;existe
+mot;33;listes/33/un règlement.mp3;un règlement;existe
+mot;33;listes/33/un territoire.mp3;un territoire;existe
+mot;33;listes/33/un trajet.mp3;un trajet;existe
+mot;33;listes/33/un vieillard.mp3;un vieillard;existe
+mot;33;listes/33/une ancêtre.mp3;une ancêtre;existe
+mot;33;listes/33/une barrière.mp3;une barrière;existe
+mot;33;listes/33/une flèche.mp3;une flèche;existe
+mot;33;listes/33/une frontière.mp3;une frontière;existe
+mot;33;listes/33/une haleine.mp3;une haleine;existe
+mot;33;listes/33/une manière.mp3;une manière;existe
+mot;33;listes/33/une paupière.mp3;une paupière;existe
+mot;33;listes/33/une règle.mp3;une règle;existe
+mot;33;listes/33/une sirène.mp3;une sirène;existe
+mot;33;listes/33/une tempête.mp3;une tempête;existe
+mot;33;listes/33/une veine.mp3;une veine;existe
+mot;33;listes/33/veiller.mp3;veiller;existe
+mot;33;listes/33/vieil.mp3;vieil;existe
+mot;33;listes/33/vieille.mp3;vieille;existe
+phrase;33;listes/33/phrases/vieil.mp3;Il habite dans un vieil immeuble.;existe
+phrase;33;listes/33/phrases/vieille.mp3;Elle habite dans une vieille maison.;existe
+phrase;33;listes/33/phrases/une haleine.mp3;Après avoir couru, il est hors d'haleine.;existe
+phrase;33;listes/33/phrases/une paupière.mp3;Il ferme les paupières pour dormir.;existe
+phrase;33;listes/33/phrases/un remède.mp3;Le miel est un bon remède contre la toux.;existe
+phrase;33;listes/33/phrases/un territoire.mp3;Le loup défend son territoire.;existe
+phrase;33;listes/33/phrases/veiller.mp3;Ma mère va veiller sur le bébé.;existe
+phrase;33;listes/33/phrases/une veine.mp3;Le sang circule dans une veine.;existe
+phrase;33;listes/33/phrases/un vieillard.mp3;Un vieillard marche avec une canne.;existe
+phrase;33;listes/33/phrases/un ancêtre.mp3;Mon ancêtre est arrivé de France il y a très longtemps.;existe
+phrase;33;listes/33/phrases/mêler.mp3;Il ne faut pas se mêler des affaires des autres.;existe
+phrase;33;listes/33/phrases/un intérêt.mp3;Il écoute l'histoire avec intérêt.;existe
+phrase;33;listes/33/phrases/un trajet.mp3;Le trajet jusqu'à l'école dure dix minutes.;existe
+phrase;33;listes/33/phrases/un poignet.mp3;Je porte ma montre au poignet.;existe
+phrase;33;listes/33/phrases/un matériel.mp3;Le matériel de soccer est rangé dans le local.;existe
+phrase;33;listes/33/phrases/une frontière.mp3;Une frontière sépare le Canada et les États-Unis.;existe
+phrase;33;listes/33/phrases/une sirène.mp3;La sirène de l'ambulance hurle dans la rue.;existe
+mot;34;listes/34/leur.mp3;leur;existe
+mot;34;listes/34/un honneur.mp3;un honneur;existe
+mot;34;listes/34/un moteur.mp3;un moteur;existe
+mot;34;listes/34/un spectateur.mp3;un spectateur;existe
+mot;34;listes/34/un téléviseur.mp3;un téléviseur;existe
+mot;34;listes/34/un voleur.mp3;un voleur;existe
+mot;34;listes/34/une erreur.mp3;une erreur;existe
+mot;34;listes/34/une fureur.mp3;une fureur;existe
+mot;34;listes/34/une lueur.mp3;une lueur;existe
+mot;34;listes/34/une profondeur.mp3;une profondeur;existe
+mot;34;listes/34/une rumeur.mp3;une rumeur;existe
+mot;34;listes/34/une sueur.mp3;une sueur;existe
+mot;34;listes/34/une terreur.mp3;une terreur;existe
+mot;34;listes/34/une valeur.mp3;une valeur;existe
+mot;34;listes/34/une vapeur.mp3;une vapeur;existe
+phrase;34;listes/34/phrases/leur.mp3;Les enfants jouent avec leur chien.;existe
+phrase;34;listes/34/phrases/une lueur.mp3;Une lueur brille au bout du tunnel.;existe
+phrase;34;listes/34/phrases/une rumeur.mp3;Une rumeur court dans l'école.;existe
+phrase;34;listes/34/phrases/une sueur.mp3;Après la course, il est couvert de sueur.;existe
+phrase;34;listes/34/phrases/une vapeur.mp3;La vapeur sort de la bouilloire.;existe
+phrase;34;listes/34/phrases/une profondeur.mp3;La profondeur de la piscine est de deux mètres.;existe
+phrase;34;listes/34/phrases/un honneur.mp3;C'est un honneur de porter le drapeau.;existe
+phrase;34;listes/34/phrases/une terreur.mp3;Il hurle de terreur en voyant le fantôme.;existe
+phrase;34;listes/34/phrases/une fureur.mp3;Le lion rugit de fureur.;existe
+mot;35;listes/35/dix.mp3;dix;existe
+mot;35;listes/35/dixième.mp3;dixième;existe
+mot;35;listes/35/eux.mp3;eux;existe
+mot;35;listes/35/exposer.mp3;exposer;existe
+mot;35;listes/35/exprimer.mp3;exprimer;existe
+mot;35;listes/35/fameux.mp3;fameux;existe
+mot;35;listes/35/fixer.mp3;fixer;existe
+mot;35;listes/35/mystérieux.mp3;mystérieux;existe
+mot;35;listes/35/précieux.mp3;précieux;existe
+mot;35;listes/35/six.mp3;six;existe
+mot;35;listes/35/sérieux.mp3;sérieux;existe
+mot;35;listes/35/un choix.mp3;un choix;existe
+mot;35;listes/35/un examen.mp3;un examen;existe
+mot;35;listes/35/un exercice.mp3;un exercice;existe
+mot;35;listes/35/un exploit.mp3;un exploit;existe
+mot;35;listes/35/un exposé.mp3;un exposé;existe
+mot;35;listes/35/un prétexte.mp3;un prétexte;existe
+mot;35;listes/35/un taxi.mp3;un taxi;existe
+mot;35;listes/35/un texte.mp3;un texte;existe
+mot;35;listes/35/un époux.mp3;un époux;existe
+mot;35;listes/35/une exagération.mp3;une exagération;existe
+mot;35;listes/35/une exception.mp3;une exception;existe
+mot;35;listes/35/une excitation.mp3;une excitation;existe
+mot;35;listes/35/une exclamation.mp3;une exclamation;existe
+mot;35;listes/35/une excuse.mp3;une excuse;existe
+mot;35;listes/35/une exigence.mp3;une exigence;existe
+mot;35;listes/35/une existence.mp3;une existence;existe
+mot;35;listes/35/une explication.mp3;une explication;existe
+mot;35;listes/35/une expédition.mp3;une expédition;existe
+mot;35;listes/35/une noix.mp3;une noix;existe
+phrase;35;listes/35/phrases/dix.mp3;Mon frère a dix ans.;existe
+phrase;35;listes/35/phrases/eux.mp3;Je joue au soccer avec eux.;existe
+phrase;35;listes/35/phrases/une excitation.mp3;Les enfants crient d'excitation avant la fête.;existe
+phrase;35;listes/35/phrases/une expédition.mp3;Les explorateurs partent en expédition.;existe
+phrase;35;listes/35/phrases/un exploit.mp3;Marquer cinq buts, c'est un exploit !;existe
+phrase;35;listes/35/phrases/un exposé.mp3;Je présente un exposé sur les dauphins.;existe
+phrase;35;listes/35/phrases/un prétexte.mp3;Il invente un prétexte pour ne pas ranger sa chambre.;existe
+phrase;35;listes/35/phrases/une exagération.mp3;Dire qu'il a mangé cent biscuits, c'est une exagération.;existe
+phrase;35;listes/35/phrases/une exigence.mp3;Le professeur a une exigence : écrire proprement.;existe
+phrase;35;listes/35/phrases/fixer.mp3;Papa va fixer la tablette au mur.;existe
+phrase;35;listes/35/phrases/un époux.mp3;Le jour du mariage, elle embrasse son époux.;existe
+mot;36;listes/36/lui.mp3;lui;existe
+mot;36;listes/36/un album.mp3;un album;existe
+mot;36;listes/36/un avenir.mp3;un avenir;existe
+mot;36;listes/36/un aviron.mp3;un aviron;existe
+mot;36;listes/36/un bouton.mp3;un bouton;existe
+mot;36;listes/36/un don.mp3;un don;existe
+mot;36;listes/36/un drame.mp3;un drame;existe
+mot;36;listes/36/un détour.mp3;un détour;existe
+mot;36;listes/36/un juron.mp3;un juron;existe
+mot;36;listes/36/un miroir.mp3;un miroir;existe
+mot;36;listes/36/un pari.mp3;un pari;existe
+mot;36;listes/36/un parti.mp3;un parti;existe
+mot;36;listes/36/un pyjama.mp3;un pyjama;existe
+mot;36;listes/36/un tir.mp3;un tir;existe
+mot;36;listes/36/un tunnel.mp3;un tunnel;existe
+mot;36;listes/36/une loi.mp3;une loi;existe
+mot;36;listes/36/une paroi.mp3;une paroi;existe
+phrase;36;listes/36/phrases/un don.mp3;Elle a un don pour la musique.;existe
+phrase;36;listes/36/phrases/un aviron.mp3;On fait avancer le canot avec un aviron.;existe
+phrase;36;listes/36/phrases/un juron.mp3;Il ne faut pas dire de juron.;existe
+phrase;36;listes/36/phrases/un pari.mp3;J'ai fait un pari avec mon frère.;existe
+phrase;36;listes/36/phrases/un parti.mp3;Ce parti politique veut gagner l'élection.;existe
+phrase;36;listes/36/phrases/une paroi.mp3;L'alpiniste grimpe sur la paroi de la montagne.;existe
+phrase;36;listes/36/phrases/un détour.mp3;On fait un détour pour éviter les travaux.;existe
+phrase;36;listes/36/phrases/un tir.mp3;Il fait un tir au but.;existe
+phrase;36;listes/36/phrases/un avenir.mp3;Dans l'avenir, je veux être vétérinaire.;existe
+phrase;36;listes/36/phrases/une loi.mp3;La loi interdit de rouler trop vite.;existe
+consigne;;consignes/debut_match.mp3;Écoute bien chaque mot, puis écris-le. C'est parti !;existe
+consigne;;consignes/debut_entrainement.mp3;Entrainement ! On pratique tes mots difficiles.;existe
+consigne;;consignes/but_1.mp3;But !;existe
+consigne;;consignes/but_2.mp3;Superbe tir !;existe
+consigne;;consignes/but_3.mp3;Dans le filet !;existe
+consigne;;consignes/but_retour.mp3;But sur retour ! Bien joué.;existe
+consigne;;consignes/arret_1.mp3;Arrêt du gardien ! Essaie encore.;existe
+consigne;;consignes/arret_2.mp3;Arrêté ! Voici le bon mot.;existe
+consigne;;consignes/fin_match.mp3;Coup de sifflet final ! Regarde ton résultat.;existe
+consigne;;consignes/record.mp3;Nouveau record !;existe
+consigne;;consignes/match_parfait.mp3;Match parfait ! Aucune erreur !;existe
+consigne;;consignes/comme_dans.mp3;Comme dans la phrase;existe
+consigne;;consignes/etoile.mp3;Nouvelle étoile !;existe

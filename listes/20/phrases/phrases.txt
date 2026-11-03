@@ -1,0 +1,26 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+une somme | J'ai économisé une somme d'argent.
+une silhouette | On voit la silhouette d'un homme dans le brouillard.
+une solitude | Le gardien du phare vit dans la solitude.
+un séjour | On fait un séjour d'une semaine au chalet.
+une circonstance | Dans cette circonstance, il faut rester calme.
+un bénéfice | Le magasin fait un bénéfice en vendant des jouets.
+une cicatrice | Il a une cicatrice sur le genou.
+une injustice | Punir toute la classe, c'est une injustice !
+une prudence | Traverse la rue avec prudence.
+un indice | Le détective trouve un indice.
+un commerce | Ma tante a un commerce de fleurs.
+un soupir | Il pousse un soupir de soulagement.
+une sensation | Les montagnes russes donnent une sensation de vertige.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+un solide | Un cube est un solide qui a six faces.
+une écorce | L'écorce de l'arbre est rugueuse.
+une évidence | C'est une évidence : le soleil se lève le matin.

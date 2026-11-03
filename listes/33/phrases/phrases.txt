@@ -1,0 +1,25 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+vieil | Il habite dans un vieil immeuble.
+vieille | Elle habite dans une vieille maison.
+une haleine | Après avoir couru, il est hors d'haleine.
+une paupière | Il ferme les paupières pour dormir.
+un remède | Le miel est un bon remède contre la toux.
+un territoire | Le loup défend son territoire.
+veiller | Ma mère va veiller sur le bébé.
+une veine | Le sang circule dans une veine.
+un vieillard | Un vieillard marche avec une canne.
+un ancêtre | Mon ancêtre est arrivé de France il y a très longtemps.
+mêler | Il ne faut pas se mêler des affaires des autres.
+un intérêt | Il écoute l'histoire avec intérêt.
+un trajet | Le trajet jusqu'à l'école dure dix minutes.
+un poignet | Je porte ma montre au poignet.
+un matériel | Le matériel de soccer est rangé dans le local.
+une frontière | Une frontière sépare le Canada et les États-Unis.
+une sirène | La sirène de l'ambulance hurle dans la rue.

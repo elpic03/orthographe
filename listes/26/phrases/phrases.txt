@@ -1,0 +1,18 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+un gibier | Le chasseur cherche du gibier dans la forêt.
+un régime | Le chien est au régime : moins de biscuits !
+une vengeance | Le méchant du film prépare sa vengeance.
+un rugissement | On entend le rugissement du lion.
+une gifle | Une gifle, c'est un coup sur la joue.
+songer | Il faut songer à rentrer avant la nuit.
+une urgence | En cas d'urgence, on appelle le 911.
+une légende | Une légende raconte qu'un dragon vivait ici.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+un gémissement | On entend le gémissement du chien blessé.

@@ -1,0 +1,29 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+une ancre | Le capitaine lance une ancre au fond de l'eau.
+une manche | Il a déchiré une manche de son chandail.
+un manche | Le balai a un manche en bois.
+un abandon | Le coureur blessé a dû faire un abandon pendant la course.
+une insolence | Répondre impoliment au professeur, c'est de l'insolence.
+un enthousiasme | Il ouvre son cadeau avec beaucoup d'enthousiasme.
+une revanche | On a perdu, mais on veut prendre notre revanche.
+un chantier | Les ouvriers construisent une maison sur un chantier.
+un étang | Les canards nagent sur l'étang derrière la ferme.
+une souffrance | Le chien blessé gémit de souffrance.
+une ordonnance | Le médecin écrit une ordonnance pour un médicament.
+un élan | Il prend un élan avant de sauter dans le sable.
+une évidence | C'est une évidence : le soleil se lève le matin.
+un étonnement | Il regarde le tour de magie avec étonnement.
+un grognement | Le chien pousse un grognement quand on touche à son os.
+un ennui | Sans jeux ni livres, on meurt d'ennui.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+une tente | Au camping, on dort sous une tente.
+marchand | Le navire marchand arrive au port avec sa cargaison.
+un anglais | Mon cousin parle un anglais parfait.

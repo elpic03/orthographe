@@ -1,0 +1,17 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+un conseiller | Le conseiller aide les élèves à choisir leurs cours.
+une conseillère | La conseillère écoute les élèves qui ont des soucis.
+mystérieux | Un bruit mystérieux vient du grenier.
+précieux | Ce vieux bijou est très précieux.
+vif | Mon chat a un regard vif et rapide.
+vive | Elle porte un chandail de couleur vive.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+une autrice | Une autrice est une femme qui écrit des livres.
+une factrice | La factrice dépose une lettre dans notre boite aux lettres.

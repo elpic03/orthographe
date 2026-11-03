@@ -1,0 +1,23 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+un adversaire | Après le match, je serre la main de mon adversaire.
+un célibataire | Mon oncle est célibataire : il n'est pas marié.
+un partenaire | Mon partenaire et moi faisons le projet ensemble.
+un militaire | Le militaire porte un uniforme kaki.
+immobile | Le chat reste immobile devant le trou de souris.
+sensible | Ma sœur est sensible : elle pleure aux films tristes.
+un ministre | Le ministre de l'Éducation visite notre école.
+un poète | Le poète écrit un poème sur la mer.
+coupable | Le juge déclare l'homme coupable du vol.
+un juge | Au tribunal, le juge écoute les deux côtés.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+jeune | Mon chien est encore jeune : il a seulement un an.
+un jeune | Un jeune de mon équipe a marqué le but gagnant.
+sale | Après le match, mon chandail est tout sale.
+un solide | Un cube est un solide qui a six faces.

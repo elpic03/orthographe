@@ -1,0 +1,25 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+ennemi | C'est un pays ennemi.
+ennemie | L'équipe ennemie arrive sur le terrain.
+bienvenu | Ton ami est le bienvenu chez nous.
+bienvenue | Ta sœur est la bienvenue chez nous.
+extérieur | Le mur extérieur est peint en bleu.
+extérieure | La porte extérieure est fermée.
+total | Le prix total est de dix dollars.
+totale | La note totale est de vingt points.
+un présent | Pour ta fête, je t'offre un présent.
+un savant | Le savant fait des expériences dans son laboratoire.
+un patient | Le médecin soigne un patient.
+un extérieur | L'extérieur de la maison est peint en rouge.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+une auteure | Une auteure est venue lire son livre à notre classe.
+marchand | Le navire marchand arrive au port avec sa cargaison.
+marchande | Ce maillot signé a une grande valeur marchande.

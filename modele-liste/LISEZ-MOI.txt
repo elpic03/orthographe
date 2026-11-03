@@ -1,0 +1,41 @@
+AJOUTER UNE NOUVELLE LISTE
+==========================
+
+1. Copier ce dossier (modele-liste) dans le dossier listes.
+2. Renommer la copie avec le numéro du bloc : 14-15, 16, 4a, etc.
+   Ce nom doit correspondre au numéro de bloc du menu.
+3. Écrire les mots dans bloc.txt (section Pièges) et les phrases dans phrases/phrases.txt,
+   puis lancer mettre-a-jour.cmd : audio-a-generer.csv liste alors les audios à créer (« manquant »).
+   Générer UN fichier audio par mot, directement dans ce dossier :
+   - le nom du fichier = le mot, avec son déterminant s'il y en a un (« un chat.mp3 ») ;
+   - l'audio contient SEULEMENT le mot, sans « Écris le mot : » ;
+   - formats acceptés : .mp3 ou .wav.
+4. Remplir bloc.txt : titre court, titre, description, puis tous les mots avec leurs pièges entre crochets.
+   Section « Variantes : » (optionnelle) : autres orthographes acceptées, ex. « trainer = traîner ».
+5. Pour les mots qu'on ne peut pas distinguer à l'oreille (homophones, -er/-é, singulier/pluriel) :
+   - écrire « mot | phrase » dans phrases/phrases.txt ;
+   - générer l'audio de la phrase dans le dossier phrases, sous le même nom que le mot.
+6. Supprimer les exemples (exemple, un mot) de bloc.txt et de phrases.txt.
+7. Double-cliquer sur mettre-a-jour.cmd (dans le dossier Orthographe), lire la section « A VERIFIER »,
+   puis recharger Quiz.html (F5).
+
+À NE PAS FAIRE
+--------------
+- Ne jamais mettre un autre fichier audio (consigne, thème, musique) directement dans le dossier
+  du bloc : l'app le prendrait pour un mot du quiz.
+- Ne pas laisser ce dossier modèle à l'intérieur du dossier listes sans le renommer.
+
+ARBORESCENCE
+------------
+Orthographe/
+  consignes/
+    consignes.txt        <- liste des consignes audio à générer
+    debut_match.mp3 ...  <- consignes audio générées
+  listes/
+    13/
+      bloc.txt           <- thème + mots piège
+      admirer.mp3 ...    <- un audio par mot (le mot seul)
+      phrases/
+        phrases.txt      <- phrases de contexte à générer
+        admirer.mp3 ...  <- audio des phrases
+  modele-liste/          <- ce modèle, à copier pour chaque nouvelle liste

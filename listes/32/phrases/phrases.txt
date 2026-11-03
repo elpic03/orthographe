@@ -1,0 +1,30 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+la chair | Ce poisson a une chair très tendre.
+j'aimais | Quand j'étais petit, j'aimais les dinosaures.
+tu allais | Hier, tu allais au parc avec ton chien.
+il avait | Mon grand-père, il avait un chien noir.
+ils étaient | Mes deux frères, ils étaient au parc.
+j'aimerais | Si j'avais le temps, j'aimerais jouer dehors.
+tu irais | Si tu pouvais, tu irais à la plage.
+elle aurait | Ma mère, elle aurait aimé venir.
+elles seraient | Mes sœurs, elles seraient contentes de venir.
+une clairière | Les chevreuils mangent dans une clairière.
+un délai | Tu as un délai de deux jours pour finir ton projet.
+une falaise | Les oiseaux font leur nid sur la falaise.
+une retraite | Grand-papa a pris sa retraite.
+un traitement | Le médecin propose un traitement.
+une plaisanterie | Ce n'est pas vrai, c'est une plaisanterie !
+haine | La haine est le contraire de l'amour.
+le nécessaire | J'apporte le nécessaire pour le camping.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+une chaine | Mon vélo a perdu sa chaine.
+une plaine | Les vaches broutent dans une grande plaine.
+un trait | Trace un trait avec ta règle.

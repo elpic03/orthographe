@@ -1,0 +1,37 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Lettres muettes (suite)
+Titre : Les lettres muettes en fin de mot (suite)
+Description : Certains mots se terminent par une lettre muette (t ou l). Plusieurs lettres muettes servent de «crochet» pour écrire un autre mot (ex. : vil/vilain).
+
+Pièges :
+un ar[t]
+avan[t]
+un clima[t]
+un contra[t]
+un déba[t]
+un dépi[t]
+un écar[t]
+un écla[t]
+un élémen[t]
+un fusi[l]
+un habi[t]
+un outi[l]
+un portrai[t]
+présen[t]
+présen[t]e
+un présen[t]
+un produi[t]
+un profi[t]
+un rappor[t]
+un réci[t]
+un serpen[t]
+un talen[t]
+un tor[t]

@@ -1,0 +1,43 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [z]
+Titre : Le son [z]
+Description : Le son [z] s'écrit 90% du temps «s». Entre deux voyelles, un «s» seul fait le son [z]. On écrit habituellement «z» en début de mot et pour l'écriture des nombres (onze, douze, treize, quatorze, quinze, seize, etc.).
+
+Pièges :
+un bai[s]er
+une me[s]ure
+refu[s]er
+un u[s]age
+une ba[s]e
+me[s]urer
+une remi[s]e
+un va[s]e
+une bri[s]e
+une mi[s]e
+une repri[s]e
+la va[s]e
+une chemi[s]e
+un pay[s]age
+une ré[s]istance
+une vi[s]ion
+une civili[s]ation
+une po[s]ition
+ré[s]ister
+une déci[s]ion
+une pri[s]e
+une ré[s]erve
+un dé[s]ir
+une provi[s]ion
+un ré[s]ultat
+du ri[z]
+du [z]èle
+un [z]este
+une [z]one

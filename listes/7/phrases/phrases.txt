@@ -1,0 +1,25 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+vers | Le ballon roule vers le but.
+haut | L'oiseau vole très haut.
+si | Si tu étudies, tu vas réussir.
+bas | Parle tout bas, le bébé dort.
+hors de | Le joueur blessé est maintenant hors de danger.
+fort | Il frappe le ballon très fort.
+plutôt | Je préfère le soccer plutôt que le hockey.
+quelquefois | Quelquefois, je vais au parc après l'école.
+sauf | Tout le monde, sauf lui.
+désormais | Désormais, je ferai mes devoirs avant de jouer.
+malgré | Il joue dehors malgré la pluie.
+pourtant | Il fait soleil, pourtant il fait froid.
+parmi | Mon ami est parmi les meilleurs joueurs.
+brusquement | La porte s'ouvre brusquement.
+également | J'aime le soccer et également la natation.
+soudain | Soudain, il se met à pleuvoir.
+immédiatement | Viens ici immédiatement !

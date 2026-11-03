@@ -1,0 +1,31 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Préfixes et suffixes
+Titre : Les préfixes et les suffixes
+Description : Un préfixe est un groupe de lettres qu'on ajoute devant le radical d'un mot pour en modifier le sens. Le mot ainsi obtenu est de la même classe grammaticale et de la même famille. Un suffixe est un groupe de lettres qu'on ajoute derrière le radical d'un mot pour en modifier le sens ou la classe grammaticale. Le mot ainsi obtenu est de la même famille.
+
+Pièges :
+un [dés]espoir
+un [dés]ordre
+un [im]meuble
+une [in]différence
+[mal]adroit
+[mal]adroite
+[mal]heureux
+un [para]pluie
+un [pré]nom
+un aboie[ment]
+un chauff[age]
+un cuisin[ier]
+un étonne[ment]
+un franco[phone]
+une franco[phone]
+un hurle[ment]
+un infirm[ier]

@@ -1,0 +1,31 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+
+bleu | Il porte un chandail bleu.
+bleus | Il a les yeux bleus.
+général | En général, je me couche tôt.
+généraux | Les directeurs généraux sont en réunion.
+un émeu | L'émeu est un grand oiseau qui ne vole pas.
+un récital | La chorale donne un récital de chant.
+un régal | Ce gâteau au chocolat est un régal !
+un chacal | Le chacal est un animal sauvage qui ressemble au renard.
+un adieu | Avant de déménager, il fait un adieu à ses amis.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+un bal | La princesse danse au bal du château.
+des bals | Au carnaval, il y a des bals costumés chaque soir.
+des eaux | Les eaux du lac sont froides au printemps.
+des adieux | À la fin de l'été, les campeurs se font des adieux.
+des carnavals | Québec et Rio organisent des carnavals célèbres.
+des chacals | Des chacals rôdent la nuit dans le désert.
+un général | Le général commande toute l'armée.
+des généraux | Les généraux donnent des ordres aux soldats.
+des récitals | Le pianiste donne des récitals partout dans le monde.
+des régals | Les desserts de grand-maman sont toujours des régals.
+des totaux | À la fin du tournoi, on compare les totaux de buts de chaque équipe.
+des émeus | Au zoo, on a vu des émeus courir très vite.

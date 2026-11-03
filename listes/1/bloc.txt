@@ -1,0 +1,62 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [an]
+Titre : Le son [an]
+Description : Le son [an] s'écrit «an», «en», «am» ou «em». On utilise «em» ou «am» devant le «b» et le «p».
+
+Pièges :
+un ab[an]don
+un [en]couragem[en]t
+une import[an]ce
+une pl[an]te
+une [an]cre
+une [en]f[an]ce
+une insol[en]ce
+r[an]ger
+un [an]glais
+[en]lever
+une int[en]tion
+une r[en]contre
+un bâtim[en]t
+un [en]nui
+une m[an]che
+une rev[an]che
+un ch[an]gem[en]t
+un [en]thousiasme
+un m[an]che
+un rom[an]
+un ch[an]tier
+un ét[an]g
+un m[an]teau
+une souffr[an]ce
+déf[en]dre
+un étr[an]ger
+march[an]d
+une t[en]te
+une différ[en]ce
+une étr[an]gère
+un march[an]d
+une march[an]de
+t[en]ter
+un docum[en]t
+ét[en]dre
+un m[en]ton
+tr[an]sporter
+un écr[an]
+un étonnem[en]t
+une ordonn[an]ce
+la viol[en]ce
+un él[an]
+une évid[en]ce
+pr[en]dre
+un vol[an]t
+un élém[en]t
+un grognem[en]t
+une p[en]te

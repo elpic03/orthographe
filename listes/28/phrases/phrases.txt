@@ -1,0 +1,20 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+un dépit | Il boude par dépit après la défaite.
+un débat | La classe fait un débat sur les devoirs.
+un contrat | Le joueur signe un contrat avec l'équipe.
+un climat | Le climat du Québec est froid en hiver.
+un habit | Il met son habit de neige pour jouer dehors.
+un profit | Il vend de la limonade pour faire un profit.
+un récit | Le professeur lit un récit d'aventure.
+
+# Ajouts du 2026-11-02 (phrases pour mots à double sens ou peu courants)
+un tort | Il a eu tort de partir sans son manteau.
+un écart | Il y a un grand écart entre les deux équipes.
+un éclat | Un éclat de verre est tombé par terre.
+un présent | Pour ta fête, je t'offre un présent.

@@ -1,0 +1,14 @@
+# Phrases de contexte du bloc, pour les mots qu'on ne peut pas distinguer à l'oreille.
+# Format : mot | phrase
+# Une ligne qui commence par * = phrase « pour comprendre le sens » : pas lue automatiquement,
+#   seulement avec le bouton Phrase. Sans * = phrase « pour distinguer », lue après le mot au 1er essai.
+# Le « mot » doit être EXACTEMENT le nom du fichier audio du mot (sans .mp3).
+# Pour chaque ligne, générer le fichier audio de la phrase dans CE dossier (phrases),
+# sous le même nom que le mot. Exemple : listes/13/phrases/mangé.mp3
+une angoisse | Avant l'examen, il ressent de l'angoisse.
+une gratitude | Je te remercie avec gratitude.
+un dégout | Il fait une grimace de dégout devant les épinards.
+une guérison | Après sa guérison, il retourne à l'école.
+une gueule | Le chien ouvre la gueule pour attraper la balle.
+un degré | Il fait vingt degrés dehors.
+une grâce | La danseuse bouge avec grâce.

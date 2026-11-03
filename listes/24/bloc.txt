@@ -1,0 +1,43 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [g] (g dur)
+Titre : Les graphies du son [g] (g dur)
+Description : Le «g» est dur et fait [g] devant les lettres «a», «o», «u» ou une consonne. Le «g» suivi d'un «u» est dur et fait [g] devant les lettres «e», «i» et «y».
+
+Pièges :
+une an[g]oisse
+un ba[g]age
+une ba[g]arre
+un dé[g]out
+un de[g]ré
+un [g]ant
+une [g]are
+un [g]ars
+une [g]râce
+une [g]randeur
+une [g]ratitude
+une [g]rimace
+une [g]rippe
+un on[g]le
+une or[g]anisation
+le yo[g]a
+un wa[g]on
+une ba[gu]e
+une bla[gu]e
+un dialo[gu]e
+une fati[gu]e
+une [gu]érison
+une [gu]eule
+un [gu]ide
+une [gu]ide
+une lon[gu]eur
+
+Variantes :
+un dégout = un dégoût

@@ -1,0 +1,35 @@
+# Fiche du bloc. Les lignes qui commencent par # sont des commentaires (l'app les ignore).
+# Titre court : affiché sur la carte du menu (environ 25 caractères maximum).
+# Titre : affiché en haut de l'écran Étude.
+# Description : affichée sous le titre dans l'écran Étude.
+# Pièges : un mot par ligne, écrit EXACTEMENT comme le nom du fichier audio.
+#   La partie à surligner est entre crochets : mang[é]. Plusieurs crochets possibles : tr[ai]n[er].
+#   Un mot sans crochets s'affiche sans surlignage.
+# Variantes : autres orthographes acceptées comme bonnes réponses. Format : mot = variante ; autre variante
+
+Titre court : Le son [s] : c, ç, sc
+Titre : Les graphies du son [s]
+Description : Le «c» est doux et fait [s] devant les lettres «e» et «i». La cédille est utilisée sur le «c» (ç) pour le rendre doux devant les lettres «a», «o» et «u». Le son [s] s'écrit parfois «sc».
+
+Pièges :
+l'a[c]ier
+la [c]endre
+le [c]iment
+une épi[c]erie
+une fi[c]elle
+un in[c]endie
+un in[c]ident
+un o[c]éan
+un pro[c]édé
+une ra[c]ine
+une re[c]ette
+un sou[c]i
+fran[ç]ais
+fran[ç]aise
+le fran[ç]ais
+un soup[ç]on
+un aper[ç]u
+une con[sc]ience
+une de[sc]ente
+une pi[sc]ine
+la [sc]ience

@@ -1,0 +1,129 @@
+QUIZ D'ORTHOGRAPHE - MODE D'EMPLOI
+==================================
+
+1. JOUER
+--------
+- Double-cliquer sur Quiz.html. L'app s'ouvre dans le navigateur (Chrome ou Firefox).
+- Aucun internet nécessaire. Rien ne quitte l'ordinateur.
+- Raccourcis : Entrée = tirer (valider) ; Entrée sur un champ vide = réécouter ; Échap = retour au menu.
+
+Règles du jeu
+- 2 essais par mot. Réussi du 1er coup = BUT. Réussi au 2e essai = BUT SUR RETOUR. 2 erreurs = ARRÊT.
+- Les accents comptent. Les majuscules et les espaces en trop ne comptent pas.
+- Le déterminant peut être omis : « activité » est accepté pour « une activité ».
+- Phrase « pour distinguer » (sans * dans phrases.txt) : au 1er essai, l'app dit le mot,
+  « comme dans la phrase », puis la phrase. Pas au 2e essai.
+- Phrase « pour comprendre » (* au début de la ligne) : seulement avec le bouton Phrase.
+- « oe » est accepté pour « œ ».
+- Le record d'un bloc = le meilleur pourcentage de buts du premier coup.
+  Il est enregistré seulement à la fin d'un match complet (pas si on quitte en cours de route).
+
+Étoiles et ballon d'or (calculés sur le record de chaque bloc)
+- 1 étoile = 50 % de buts du premier coup ; 2 étoiles = 75 % ; 3 étoiles = 95 %.
+  Le nombre de buts exigé est arrondi à la baisse (ex. 23 mots : 11, 17 et 21 buts).
+- Ballon d'or = 100 % (aucune faute). Une étoile gagnée ne se perd jamais.
+- Le total d'étoiles est affiché en haut du menu.
+
+Statistiques (bouton au bas du menu)
+- Temps de jeu, matchs, mots écrits, % du premier coup, jours d'affilée, mots maîtrisés,
+  étoiles, semaine en cours, détail par bloc, mots les plus difficiles, records personnels.
+- Le temps compté est le temps actif : au plus 60 secondes par mot, en pause si on change d'onglet.
+- Un match abandonné compte dans le temps et les mots écrits, pas dans les scores.
+- Les statistiques sont incluses dans « Sauvegarder ma progression ».
+
+Mots difficiles (Vestiaire et entrainement)
+- Arrêt = +3 ; but sur retour = +1 ; but du premier coup = -1, au maximum une fois par jour par mot.
+- Un mot sort de la liste quand sa cote revient à 0.
+- Le Vestiaire montre les 10 mots les plus difficiles, tous blocs confondus.
+- La cote se met à jour mot par mot, même si on quitte un match en cours.
+
+
+2. AJOUTER OU MODIFIER UNE LISTE
+--------------------------------
+Voir modele-liste/LISEZ-MOI.txt pour le détail. En résumé :
+1. Copier modele-liste dans listes/ et le renommer avec le numéro du bloc (ex. 14-15).
+2. Y mettre un fichier audio par mot (le mot seul), nommé exactement comme le mot.
+3. Remplir bloc.txt (thème, pièges entre crochets, variantes) et phrases/phrases.txt.
+4. Double-cliquer sur mettre-a-jour.cmd.  <- OBLIGATOIRE après chaque changement.
+   Le script met aussi à jour audio-a-generer.csv (voir ci-dessous).
+5. Lire la section « A VERIFIER » affichée par le script, puis recharger Quiz.html (touche F5).
+
+Liste des audios à générer : audio-a-generer.csv (s'ouvre dans Excel)
+- Une ligne par audio : type (mot, phrase, consigne), bloc, fichier à créer, texte à lire, statut.
+- « manquant » = à générer. « existe » = le fichier est déjà là.
+- Astuce : pour une nouvelle liste, écrire d'abord les mots dans bloc.txt (section Pièges),
+  lancer mettre-a-jour.cmd : les mots apparaissent dans le CSV comme « manquant ».
+- Le script ne peut pas écouter les fichiers : un audio qui dit encore « Écris le mot : … »
+  est marqué « existe ». Fermer le CSV dans Excel avant de relancer le script.
+
+Sans l'étape 4, l'app ne voit pas les changements (le navigateur ne peut pas lire le contenu
+d'un dossier par lui-même ; le script prépare l'inventaire dans app/donnees.js).
+
+
+3. SAUVEGARDER LA PROGRESSION
+-----------------------------
+- La progression est gardée dans le navigateur, sur cet ordinateur seulement.
+  Chrome et Firefox ont chacun leur propre progression.
+- Elle disparaît si on efface l'historique ou les données de navigation, ou en navigation privée.
+- Bouton « Sauvegarder ma progression » : crée un fichier .json dans Téléchargements.
+  Bonne pratique : en faire un de temps en temps, et avant tout nettoyage du navigateur.
+- Bouton « Récupérer ma progression » : remplace la progression par celle d'un fichier,
+  après confirmation. Sert aussi à passer d'un navigateur à l'autre.
+
+
+4. DÉPANNAGE
+------------
+- « Les listes ne sont pas encore prêtes » : lancer mettre-a-jour.cmd, puis recharger.
+- Une nouvelle liste n'apparaît pas : lancer mettre-a-jour.cmd, puis F5.
+- « Python est introuvable » : installer Python (https://www.python.org), cocher « Add to PATH ».
+- « Impossible de lire le son : ... » en rouge : le fichier audio manque ou est abîmé.
+  Vérifier son nom dans le dossier de la liste, puis relancer mettre-a-jour.cmd.
+- Le bouton « Phrase » n'apparaît pas : l'audio de la phrase n'est pas encore dans phrases/,
+  ou mettre-a-jour.cmd n'a pas été relancé.
+- Aucun son : vérifier le volume ; certains navigateurs bloquent le son tant qu'on n'a pas cliqué.
+- Vérifier que les règles fonctionnent : ouvrir app/tests/tests.html (doit afficher « Tout est bon »).
+
+
+5. ORGANISATION DES FICHIERS
+----------------------------
+Quiz.html            l'app (à ouvrir)
+mettre-a-jour.cmd    prépare l'inventaire des listes (à lancer après chaque changement)
+audio-a-generer.csv  liste de tous les audios (produite par mettre-a-jour.cmd)
+listes/              un dossier par bloc : audios, bloc.txt, phrases/
+consignes/           consignes audio communes (consignes.txt = textes à générer)
+modele-liste/        modèle à copier pour une nouvelle liste
+app/                 le code (ne pas modifier, sauf pour un développeur)
+  donnees.js           produit par mettre-a-jour.cmd (ne jamais modifier à la main)
+  style.css            apparence
+  js/                  app.js (démarrage), menu.js, quiz.js, resultat.js, etude.js,
+                       sauvegarde.js, statistiques.js, stockage.js (mémoire), audio.js (sons),
+                       regles.js (règles)
+  outils/              generer_donnees.py (le script appelé par mettre-a-jour.cmd)
+  polices/             optionnel : BarlowCondensed-Bold.ttf, BarlowCondensed-ExtraBold.ttf,
+                       Lexend-VariableFont_wght.ttf (+ OFL.txt) ; sinon Bahnschrift et Segoe UI
+  tests/               tests.html (navigateur) et regles.test.js (Node, optionnel)
+src/                 ancienne version Python (non utilisée par l'app web)
+
+
+6. POUR UN DÉVELOPPEUR
+----------------------
+- HTML, CSS et JavaScript sans framework ni étape de compilation. Scripts classiques
+  (pas de modules ES), parce que les navigateurs bloquent les modules ouverts depuis un fichier local.
+- Mémoire : localStorage, clé « quizOrthographe.v1 ». Tout est validé à la lecture (stockage.js).
+- Format de sauvegarde : { app: "quiz-orthographe", version: 2, sauvegardeLe, progression }.
+  Version 2 = ajout des statistiques ; les fichiers version 1 restent acceptés.
+- Détails techniques : voir ARCHITECTURE.md.
+- Mise en ligne possible plus tard sans changer le code : publier le dossier tel quel sur un
+  hébergement de site statique. À ce moment, les fichiers audio deviennent publics.
+
+7. AJOUTER LES POLICES (OPTIONNEL)
+---------------------------------
+Sans ces fichiers, l'app fonctionne avec les polices de Windows (Bahnschrift et Segoe UI).
+1. Aller sur https://fonts.google.com/specimen/Barlow+Condensed et cliquer « Get font »,
+   puis « Download all ». Ouvrir le fichier .zip téléchargé.
+2. Copier dans app/polices/ :  BarlowCondensed-Bold.ttf  et  BarlowCondensed-ExtraBold.ttf
+3. Aller sur https://fonts.google.com/specimen/Lexend, même chose (« Get font », « Download all »).
+4. Copier dans app/polices/ :  Lexend-VariableFont_wght.ttf  (à la racine du .zip, pas dans « static »)
+5. Copier aussi le fichier OFL.txt de chaque .zip (licence ; renommer en OFL-Barlow.txt et OFL-Lexend.txt).
+6. Recharger Quiz.html (F5). Les titres deviennent plus étroits et sportifs.
+Les noms de fichiers doivent être exactement ceux ci-dessus (majuscules comprises).
